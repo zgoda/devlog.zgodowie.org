@@ -12,7 +12,9 @@ export async function getStaticPaths() {
     );
     return {
       params: { tag },
-      props: { posts: filteredPosts },
+      props: {
+        posts: filteredPosts,
+      },
     };
   });
 }
