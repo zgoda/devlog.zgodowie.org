@@ -1,0 +1,29 @@
+---
+title: Pub life
+author: jarek
+date: 2020-07-11T01:19.00
+tags:
+  - 2018
+  - newbury
+  - historia
+---
+
+O 17:30 wychodzę z fabryki. Ani pierwszy, ani ostatni, ale na pewno jeden z ostatnich. Po mnie wychodzą już raczej tylko Azjaci. Nie żeby jakoś strasznie pracowici byli, oni przychodzą do fabryki na 10, albo i później.
+
+<!-- more -->
+
+Jak mi tłumaczył Mayuresh z Pakistanu co siedzi koło mnie, on się woli wyspać, bo wieczorem i tak nie ma co robić w tej dziurze. Firma patrzy tylko na robotę, a nie na godziny in/out, więc nie ma problemu. Z kolei młódki przychodzą wcześniej, bo drop off w przedszkolach jest między 7 i 7:30, więc w fabryce są przed 8 i o 16 już ich nie ma.
+
+17:30 to jest bardzo dobra godzina, żeby zahaczyć o Tesco i kupić sobie jakiś żer na wieczór oraz tanie piwo w promocji 4 za 6 funtów. Już nie ma emerytów na wózkach, a jeszcze *managierstwo z Vodafone* nie dojechało. W 15 minut jestem z powrotem w domu, piwo i żer lądują w lodówce, a ja się mogę zastanowić co w tym całym Newbury można robić wieczorem żeby nie uświrknąć.
+
+No jakbym nie myślał, to zawsze wychodzi mi że **nic**. Nawet na spacer nie ma po co iść, bo *o tej porze ludzie to siedzą w domach* i można co najwyżej pooglądać architekturę, ale jest tego tutaj tyle, że jakbyś się nie szwendał, to i tak za 15 minut ponownie oglądasz te same budowle. Zwyczajne miasteczko. Jest jeden nocny klub którego strzeże cherlawy młodzieniec, a tak to jadłodajnie i puby. No i MacDonalds, miejsce spotkań miejscowych dilerów z klientami. I świecąca pustkami galeria handlowa Kennet Shopping Centre, o atmosferze zbliżonej do CH Land na Służewiu, kto był ten wie o czym mówię.
+
+Zostają puby, i to jest najjaśniejsza gwiazda na firmamencie. Nie z powodu podawanego tam piwa - te dwa które mają najbardziej wyszukany asortyment, czyli Cow & Cask oraz King Charles Tavern pomiędzy nalotami firmowych hord świecą pustkami. Tak samo jak Lock, Stock & Barrel czy The Document House, typowe pułapki na przyjezdnych. Bo turyści odwiedzają Newbury, a jakże. Tuż obok są pozostałości Donnington Castle (to dla dzieci i młodzieży) oraz dawna baza USAF w Wielkiej Brytanii Greenham Common, gdzie w latach 80-tych szczodrze opłacane przez ZSRR ruchy tzw "pacyfistyczne" urządzały pikiety oraz blokady, o których z tak wielką emfazą opowiadał na swoich cotygodniowych seansach Jerzy Urban. Miejsce pielgrzymek wszelkiego lewoskrętnego robactwa.
+
+Ja jednaże wyruszam do pubu na jakieś 2 piwka. Z pietyzmem dokonana selekcja każe mi skierować kroki do Coopers Arms, patronackiego pubu browaru Arkells. Niestety, tydzień temu zamknięto The Monument - robią tam remont. Zostały mi The Lion, właśnie Coopers Arms i kawałek dalej The Red House. Piwo w każdym z nich nie jest ani lepsze, ani gorsze niż gdzie indziej, i tak prawie wszyscy piją Stellę, Kronenbourga czy Amstela, a do tego któryś z przemysłowych cydrów. Jednak w The Lion i w Coopers Arms ale jest w najlepszym stanie, podejrzewam że ktoś mi je podpija i co jakiś czas dla niepoznaki zmieniają beczkę.
+
+Pub w takim zapyziałym miasteczku jak Newbury to jest instytucja najważniejsza, zaraz po Tesco. To jest miejsce, gdzie gadka-szmatka znajduje swoją kulminację. O, The Sun na pierwszej stronie ma, że ludzie którzy śpią więcej niż 7 godzin dziennie powinni się przebadać, bo mogą mieć poważne choroby. Omówmy ile kto śpi i jak twardy ma materac. Na przetrawienie tematu mamy czas równy temu, jaki jest potrzebny na wypicie jednego piwa, bo po wypiciu tego piwa koleżka wstaje i widzi na ulicy gościa który robi pompki. A, to tutejszy balwierz, Turek jakiś Ozlam czy tam Islam. Założył się jesienią o coś tam i przegrał, a teraz co wieczór musi wyjść przed swój salon i na chodniku zrobić 10 pompek. Nie, z nikim z baru, oni tylko sprawdzają, czy się nie wykręca. Balwierz wk*rwiony, ale 10 pompek robi, zamyka swój zamtuz i idzie do domu. Zaraz po nim zamykają swój sklep dwaj Rumuni, których nikt nie rozumie nawet jak mówią po angielsku. Przychodzą do baru, biorą po małym Kronenbourgu, wypijają i bez słowa idą do domu. Podobno kiedyś się do kogoś odezwali z takim dziwnym uśmiechem i tego kogoś już nikt nigdy więcej nie widział, więc na wszelki wypadek wszyscy wolą uważać. I ty też lepiej uważaj, Eryk (nie wszystkim wychodzi "Jarek"), nie wiadomo skąd oni się wzięli. A skąd ty wiesz skąd ja się wziąłem? Brata szwagra sąsiad cię przywiózł z Heathrow, to wiem wszystko. Acha.
+
+A tymczasem pojawia się nowy temat, bo właściciel pubu robi wszystko, żeby nie płacić SKY za licencję na pokazywanie meczów piłki nożnej i puszcza jakąś telewizję z Serbii czy z Czarnogóry, bo przecież w futbolu dźwięk nie ma żadnego znaczenia, nie? No to oglądamy ten mecz a jeden ze sztamgastów mówi ej, ty, jesteś Słowianinem to pewnie rozumiesz co oni tam mówią? Ja że piąte przez dziesiąte bo to jak mieszanka ruskiego z czeskim i zaraz się okazuje, że ten umie coś tam po rusku, ten coś tam po polsku... Czekam aż padnie to jedno słowo i to słowo sakramentalne nie pada. Skonsternowany pytam co jest, nie znacie tego słowa? Nie no, wszyscy znamy, ale dałeś się wkręcić, co? Historia z Tele Tygodnia prawie.
+
+Dobranoc paniom, cześć panowie, do zobaczenia jutro, idę coś zjeść i kimnąć przed telewizorem. Obiecuję na siebie uważać i wracam do domu. Po drodze zaraz za dworcem autobusowym chłopak co robi kebsy u Hassana się nudzi i macha że chce ze mną pogadać, ale wykręcam się że mi się chce do kibla - przecież nie powiem mu że jestem głodny, a w lodówce mam jakieś gotowe żarcie z Tesco, to byłby wyjątkowy brak szacunku. U niego to najgorsza godzina, dzienni klienci już poszli, a nocni jeszcze nie przyszli, więc stoi w drzwiach i woła mnie "el polaco, come to talk!". I'm afraid I desperately need to pee. Okej ale nie unikaj mnie, sąsiadów nie powinno się unikać - nie no, jasne, po prostu nie dzisiaj bo zaraz zaleję pory.
