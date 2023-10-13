@@ -9,7 +9,7 @@ const { frontmatter } = Astro.props;
   <p>Data publikacji: {frontmatter.pubDate.toLocaleDateString()}</p>
   <div class="tags">
     {
-      frontmatter.tags.map((tag: string) => (
+      frontmatter.tags.sort().map((tag: string) => (
         <p class="tag">
           <a href={`/tags/${tag}`}>{tag}</a>
         </p>

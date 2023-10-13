@@ -1,0 +1,7 @@
+---
+const { post } = Astro.props;
+---
+
+<a href={`/posts/${post.slug}`}>
+  ({post.data.pubDate.toLocaleDateString()}) {post.data.title}
+</a>

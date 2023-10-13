@@ -1,11 +1,11 @@
 import rss from '@astrojs/rss';
-import { getCollection } from 'astro:content';
+import { loadAndFormatCollection } from '../lib/collection';
 
 export async function GET(context) {
-  const posts = await getCollection('blog');
+  const posts = await loadAndFormatCollection('blog');
   return rss({
-    title: 'Astro Learner | Blog',
-    description: 'My journey learning Astro',
+    title: 'Jarek Zgoda | Blog',
+    description: 'Jarek Zgoda | Blog',
     site: context.site,
     items: posts.map((post) => ({
       title: post.data.title,

@@ -1,9 +1,9 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-const allPosts: any[] = await getCollection('blog');
+import { loadAndFormatCollection } from '../../lib/collection';
+const allPosts: any[] = await loadAndFormatCollection('blog');
 const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
-const pageTitle = 'Tag Index';
+const pageTitle = 'Wszystkie etykiety';
 ---
 
 <style>

@@ -1,9 +1,10 @@
 ---
-import { getCollection } from 'astro:content';
+import PostLink from '../../components/PostLink.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { loadAndFormatCollection } from '../../lib/collection';
 
 export async function getStaticPaths() {
-  const allPosts: any[] = await getCollection('blog');
+  const allPosts: any[] = await loadAndFormatCollection('blog');
 
   const uniqueTags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
 
@@ -22,13 +23,13 @@ const { tag } = Astro.params;
 const { posts } = Astro.props;
 ---
 
-<BaseLayout pageTitle={tag}>
-  <p>Posts tagged with {tag}</p>
+<BaseLayout pageTitle={tag.toLocaleUpperCase()}>
+  <p>Posty z etykietą <strong>{tag}</strong></p>
   <ul>
     {
-      posts.map((post: { slug: string; data: { title: string } }) => (
+      posts.map((post: any): any => (
         <li>
-          <a href={`/posts/${post.slug}`}>{post.data.title}</a>
+          <PostLink post={post} />
         </li>
       ))
     }
