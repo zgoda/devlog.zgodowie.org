@@ -15,7 +15,7 @@ Jeżeli używasz Fedory 31 lub nowszej, to bardzo możliwe, że cgroups V2 są t
 
 Control groups, w skrócie _cgroups_, są ficzerem jądra Linuksa, który umożliwia kontrolę przydzielonych zasobów dla poszczególnych procesów - cykli procesora, ilości pamięci, przepustowości podsystemu we/wy. Wersja 1 w głównej linii jądra pojawiła się pod koniec roku 2007, a wydana została wraz jądrem 2.6.24 w styczniu 2008. Prace nad wersją 2 rozpoczęły się w roku 2013 (ładnie opisane [powody przepisania tego systemu](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html#issues-with-v1-and-rationales-for-v2)), a wydana została w roku 2014 wraz z wersją 3.16. Po 5 latach prac developerzy Fedory w wydaniu 31 ustawili cgroups V2 jako domyślne i od tamtej pory nic nie jest takie samo. Pierwszym symptomem, że coś _jest inaczej_ było to, że nie uruchamiał się demon Dockera:
 
-```text
+```
 dockerd[10141]: Error starting daemon: Devices cgroup isn’t mounted
 ```
 
@@ -56,7 +56,7 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash systemd.unified_cgroup_hierarchy=1"
 
 Jeżeli mamy uruchomiony demon Dockera, to można go wyłączyć, żeby nie brudził w logach (bo i tak się nie uruchomi dopóki nie wyjdzie 20.10): `sudo systemctl stop docker && sudo systemctl disable docker`. W tym momencie pozostaje tylko `sudo update-grub && sudo reboot`. Po ponownym uruchomieniu będziemy już mieli cgroups V2.
 
-```shell-session
+```shellsession
 $ podman info --debug
 host:
   arch: amd64
@@ -76,7 +76,7 @@ host:
 
 Żeby jako domyślny program uruchamiający kontenery użyć `crun`, to najlepiej jest skonfigurować to sobie na koncie użytkownika.
 
-```shell-session
+```shellsession
 $ cp -v /etc/containers/containers.conf .config/containers/
 '/etc/containers/containers.conf' -> '.config/containers/containers.conf'
 ```

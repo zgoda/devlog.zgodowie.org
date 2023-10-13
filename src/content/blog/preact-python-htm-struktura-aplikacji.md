@@ -17,7 +17,7 @@ Po zebraniu do kupy wymagań co do aplikacji przyszedł czas na strukturę. Poni
 
 Dość typowa aplikacja we Flasku z dwoma blueprintami, `main` który generuje HTML i `api` z którym komunikuje się Javascript, który z kolei umieszczony jest w katalogu `static`. Preact i HTM są jako jeden plik, który dla niepoznaki nazwałem `preact.min.js`, ale tak naprawdę jest to składanka obu bibliotek. Kod Javascript który działa na konkretnej stronie jest w katalogu `static/js`, po jednym pliku na każdą stronę. Pliki te są dołączane do strony jako moduły (dzięks, ES6!):
 
-```django
+```jinja-html
 {% block pagejs %}
 <script type="module" src="{{ url_for('static', filename='js/poll.js') }}"></script>
 {% endblock %}
@@ -25,7 +25,7 @@ Dość typowa aplikacja we Flasku z dwoma blueprintami, `main` który generuje H
 
 Dzieje się to pod koniec sekcji `<body />` natomiast główny komponent Preacta jest montowany we wcześniejszym bloku:
 
-```django
+```jinja-html
 {% block content %}
 <h1>Poll {{ poll.title }}</h1>
 <p class="subtitle">{{ poll.description }}</p>

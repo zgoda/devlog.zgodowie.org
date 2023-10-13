@@ -26,7 +26,7 @@ Słabe okazało się to, że w przypadku zależności przechodnich w sumie nie 
 
 ## Nie da się przełączyć strumienia
 
-```shell-session
+```shellsession
 $ flutter channel beta
 Switching to flutter channel 'beta'...
 git: fatal: 'origin/beta' is not a commit and a branch 'beta' cannot be created from it

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: ActivityPub - plan implementacji
 author: Jarek
 pubDate: 2020-12-25T14:17:00

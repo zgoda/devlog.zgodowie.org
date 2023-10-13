@@ -39,7 +39,7 @@ Debian embraces systemd. Jakkolwiek erotycznie by to nie brzmiało, to nie może
 
 Czyli inaczej mówiąc było prosto, teraz jest źle. W przypadku tego ekraniku polega to na tym, że w `/etc/modules` są tylko wpisane nazwy modułów do załadowania (w naszym przypadku to `spi-bcm2835`, `flexfb` i `fbtft_device` - każdy w oddzielnej linijce) a w pliku `/etc/modprobe.d/fbtft.conf` (bo taki akurat mieliśmy kaprys) są opcje, czyli to co kiedyś w `/etc/modules`, tylko każda linijka poprzedzona słowem "options", np.:
 
-```text
+```
 options fbtft_device name=flexfb speed=16000000 gpios=reset:25,dc:24
 ```
 

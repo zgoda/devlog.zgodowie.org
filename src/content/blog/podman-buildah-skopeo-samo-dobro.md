@@ -21,7 +21,7 @@ W przypadku Dockera źródłem problemu jest `containerd`, czyli proces serwera,
 
 Proponuję mały teścik. Proszę sobie uruchomić kontener z Busyboxem:
 
-```shell-session
+```shellsession
 $ podman run --rm -ti -v .:/output docker.io/library/busybox
 # id
 uid=0(root) gid=0(root) groups=10(wheel)
@@ -30,7 +30,7 @@ uid=0(root) gid=0(root) groups=10(wheel)
 
 Jak widać, w kontenerze jestem rootem. A kto jest właścicielem nowo utworzonego pliku na hoście?
 
-```shell-session
+```shellsession
 $ ls -la test.txt
 -rw-r--r-- 1 jazg jazg 5 gru  5 19:59 test.txt
 ```
@@ -39,7 +39,7 @@ Tadam! Czy nie o tym właśnie marzył każdy, komu kod odpalony pod Dockerem [w
 
 Zaraz, upewnijmy się jak to wygląda w kontenerze.
 
-```shell-session
+```shellsession
 $ podman run --rm -ti -v .:/output docker.io/library/busybox
 # ls -la /output/test.txt
 -rw-r--r--    1 root     root             5 Dec  5 18:59 /output/test.txt
@@ -55,7 +55,7 @@ Czy to znaczy, że można przestać kombinować z uruchamianiem procesu z konta 
 
 Jeżeli uruchomimy w trybie _rootless_ kontener w którym proces jest uruchomiony z roota, efekt będzie taki, jak powyżej, proces będzie rootem w kontenerze, ale zwykłym użytkownikiem na hoście. A jak to zrobić, żeby proces był _mną_?
 
-```shell-session
+```shellsession
 $ id
 uid=1000(jazg) gid=1000(jazg)
 $ podman run -ti --rm --userns keep-id --user $(id -u):$(id -g) docker.io/library/busybox
@@ -65,7 +65,7 @@ uid=1000(jazg) gid=1000(jazg)
 
 Ma to pewne ograniczenia, na przykład system plików w kontenerze jest efektywnie tylko do odczytu, więc jedynym sposobem by zapisać jakiś artefakt jest zamontować z hosta wolumin. Zostanie on w kontenerze zamontowany z pełnymi uprawnieniami użytkownika uruchamiającego proces.
 
-```shell-session
+```shellsession
 $ podman run -ti --rm --userns keep-id --user $(id -u):$(id -g) -v .:/opt/app docker.io/library/busybox
 $ echo "test" > /opt/app/t1.txt
 $ cat /opt/app/t1.txt
@@ -100,7 +100,7 @@ buildah commit --rm ${cnt} "quay.io/zgoda/test:1.0.0"
 
 Efekt nie jest powalający.
 
-```shell-session
+```shellsession
 $ podman run -ti --rm -v .:/opt/app/test quay.io/zgoda/test:1.0.0
 $ ls -la
 total 12
@@ -115,7 +115,7 @@ Ups, wolumin został zamontowany z rootem jako właścicielem. Proces w kontener
 
 Spójrzmy najpierw kim jest nasz użytkownik w kontenerze.
 
-```shell-session
+```shellsession
 $ podman run -ti --rm -v .:/opt/app/test quay.io/zgoda/test:1.0.0
 $ id
 uid=100(app) gid=101(app)
@@ -123,7 +123,7 @@ uid=100(app) gid=101(app)
 
 Na hoście mam `uid=1000` i `gid=1000` (widać to w jednym z wcześniejszych przykładów), a `uid=100` jest przypisane do użytkownika `systemd-network`, więc odpada zmiana na żywca. Trzeba zmienić właściciela na na użytkownika z tymi `uid` i `gid` w **mojej przestrzeni nazw**. Do tego używa się `unshare`, a efekt będzie zgodny z tabelą mapowania w `/proc/self/uid_map`.
 
-```shell-session
+```shellsession
 $ podman unshare cat /proc/self/uid_map
          0       1000          1
          1     100000      65536
@@ -145,7 +145,7 @@ $ ls -la test/t1.txt
 
 Tyle przynajmniej się udało, ale zaraz, kto jest właścicielem tego artefaktu?
 
-```shell-session
+```shellsession
 $ ls -la v1/
 razem 20
 drwxrwxr-x 2 100099 100100 4096 gru  6 21:57 .
@@ -157,7 +157,7 @@ rm: nie można usunąć 'v1/t1.txt': Brak dostępu
 
 Wracamy do punktu wyjścia, a właściwie do tego samego rozwiązania, które zastosowaliśmy wcześniej uruchamiając kontener _rootfull_.
 
-```shell-session
+```shellsession
 $ podman run -ti --rm --userns keep-id --user $(id -u):$(id -g) -v ./v1:/opt/app/test quay.io/zgoda/test:1.0.0
 $ id
 uid=1000(jazg) gid=1000(jazg)

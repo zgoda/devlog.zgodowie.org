@@ -92,7 +92,7 @@ To co widać powyżej to jest oczywiście [JSX](https://facebook.github.io/jsx/)
 
 Zaczynamy od zainstalowania wszystkiego co będzie potrzebne.
 
-```shell-session
+```shellsession
 $ npm i -D @babel/core @babel/plugin-transform-react-jsx @rollup/plugin-babel @babel/preset-env
 
 + @babel/core@7.11.1

@@ -17,7 +17,7 @@ Docker (a za nim i Podman) do budowania obrazów kontenerów używa specjalnego 
 
 Buildah oczywiście potrafi zbudować obraz na podstawie Dockerfile, wystarczy użyć jego polecenia `bud` (_build using dockerfile_), ale nie to jest w tym programie interesujące. Żeby zaznać _prawdziwego mięsa_ spójrzmy najpierw na dostępne polecenia:
 
-```shell-session
+```shellsession
 $ buildah --help
 A tool that facilitates building OCI images
 
@@ -59,7 +59,7 @@ Co więcej, używając polecenia `mount` można zamontować lokalnie wewnętrzny
 
 Teraz słówko o budowaniu w trybie _rootless_, czyli z konta zwykłego użytkownika. Aby w takim trybie wykonać polecenie (np. uruchomić jakiś program) w kontekście użytkownika **wewnątrz** kontenera, trzeba wykonać polecenie `buildah unshare`, które najpierw [izoluje zasoby w kontekście użytkownika](https://man7.org/linux/man-pages/man2/unshare.2.html), a dzięki temu daje możliwość ograniczenia kontekstu do [prywatnej przestrzeni zasobów użytkownika](https://man7.org/linux/man-pages/man7/user_namespaces.7.html) (_user namespace_). Dotyczy to również operacji lokalnego montowania systemu plików kontenera. Jakkolwiek jest możliwe wykonywanie tego typu operacji w trybie interaktywnym, to jeżeli zachodzi taka konieczność najlepiej będzie zapisać je w postaci zwykłego skryptu powłoki i zmienić kontekst dla całego skryptu, na przykład:
 
-```shell-session
+```shellsession
 $ buildah unshare ./my-image.sh
 <long image hash>
 ```
@@ -143,7 +143,7 @@ buildah commit --rm ${cnt} ${imagetag}
 
 Obraz został zbudowany i Podman na jego podstawie będzie w stanie uruchomić kontener z aplikacją. Aby mógł go uruchomić Docker trzeba zrobić czujny `buildah push` do lokalnego demona Dockera, tego samego `push` używa się do _wypchnięcia_ obrazu do rejestru.
 
-```shell-session
+```shellsession
 $ buildah images
 REPOSITORY                      TAG               IMAGE ID       CREATED         SIZE
 localhost/simpleapp-app         1.0.0             e12738e5845e   2 hours ago     166 MB

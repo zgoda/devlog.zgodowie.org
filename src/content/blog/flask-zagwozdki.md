@@ -31,7 +31,7 @@ def login():
 
 Sprawdźmy czy wszystko jest w porządku, metoda `OPTIONS` jest obsługiwana zawsze, niezależnie czy się ją zadeklaruje czy nie:
 
-```shell-session
+```shellsession
 $ curl -IX OPTIONS http://127.0.0.1:5000/api/v1/login
 HTTP/1.0 200 OK
 Content-Type: text/html; charset=utf-8
@@ -42,7 +42,7 @@ Server: Werkzeug/1.0.1 Python/3.8.5
 
 No to powinno być gites.
 
-```shell-session
+```shellsession
 $ curl -IX HEAD http://127.0.0.1:5000/api/v1/login
 HTTP/1.0 404 NOT FOUND
 Content-Type: application/json

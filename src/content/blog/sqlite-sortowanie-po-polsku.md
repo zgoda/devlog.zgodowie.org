@@ -17,7 +17,7 @@ Jedną z najpopularniejszych obecnie używanych baz danych jest [SQLite](https:/
 
 Chodzi o sortowanie danych znakowych.
 
-```sqlite3
+```console
 sqlite> PRAGMA collation_list;
 0|RTRIM
 1|NOCASE

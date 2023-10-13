@@ -33,7 +33,7 @@ Sytuacja zmienia się diametralnie w kontenerze. Kontener posiada swoją własn�
 
 Aplikacja którą będziemy uruchamiać jest świadoma swojego PID i wypisze nam również linię poleceń uruchamiającą proces o PID 1. Budujemy obraz i uruchamiamy go.
 
-```shell-session
+```shellsession
 $ images/simple.sh
 cf9f286b1ae71d96713a025627921a101fd3496689cd0fb18248ade6c701b215
 41be248df9eb6dd4c5461bff77e6fdeb5f88f0d7c96adb862ae9ffac01d61eda
@@ -70,7 +70,7 @@ Co prawda nic specjalnego nie robi - ale przecież mógłby np ustawić `locale`
 
 Aby się z tego ambarasu wykaraskać wystarczy użyć w skrypcie polecenia `exec`. W skrócie proces tak uruchomiony zastępuje proces rodzica i w ten sposób aplikacja będzie już miała PID 1.
 
-```shell-session
+```shellsession
 $ cat scripts/entrypoint-exec.sh
 #! /bin/bash
 
@@ -146,7 +146,7 @@ if __name__ == '__main__':
 
 Mamy tu zarówno `atexit` jak i obsługę sygnału `SIGTERM`. Jeżeli uruchomimy sobie kontener z tym programem a w drugim terminalu wydamy polecenie `podman kill --signal TERM cnt1`, to zobaczymy mniej-więcej coś podobnego:
 
-```shell-session
+```shellsession
 $ podman run -ti --rm --name cnt1 quay.io/zgoda/test
 I am at your service
 Working hard for 2 seconds
@@ -161,7 +161,7 @@ Program otrzymał sygnał `TERM`, obsłużył go i ostatecznie zakończył dzia�
 
 A co się stanie, jeżeli nasz program nie będzie miał PID 1 dlatego, że zostanie uruchomiony przez powłokę?
 
-```shell-session
+```shellsession
 $ podman run -ti --rm --name cnt1 quay.io/zgoda/test
 I am at your service
 Working hard for 2 seconds
@@ -177,7 +177,7 @@ End of the world
 
 Program w ogóle nie zareagował na wysłany sygnał `TERM`, bo ten do niego nie dotarł - został skonsumowany przez proces powłoki który radośnie się zakończył, a nasz proces został zombie. Zatrzymał go dopiero `KeyboardInterrupt`, obsłużony przez CLI Podmana, które wysłało go do wszystkich procesów uruchomionych w zarządzanym interaktywnie kontenerze (`-ti`). Jeżeli kontener zostanie zatrzymany przy użyciu sygnału `KILL` (uwaga, jest to domyślny sygnał wysyłany przez `podman kill`, w odróżnieniu od systemowego `kill`, który wysyła sygnał `TERM`!), to oczywiście program również umrze, lecz będzie to śmierć gwałtowna i niespodziewana.
 
-```shell-session
+```shellsession
 $ podman run -ti --rm --name cnt1 quay.io/zgoda/test
 I am at your service
 Working hard for 2 seconds
