@@ -14,7 +14,7 @@
     "@astrojs/preact": "^3.0.1",
     "@astrojs/rss": "^3.0.0",
     "@picocss/pico": "^1.5.10",
-    "astro": "^3.2.3",
+    "astro": "^3.3.0",
     "preact": "^10.18.1"
   },
   "devDependencies": {
