@@ -5,8 +5,8 @@ const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout pageTitle={frontmatter.title}>
-  <p>Written by {frontmatter.author}</p>
-  <p>Published on {frontmatter.pubDate.toLocaleDateString()}</p>
+  <p>Autor: {frontmatter.author}</p>
+  <p>Data publikacji: {frontmatter.pubDate.toLocaleDateString()}</p>
   <div class="tags">
     {
       frontmatter.tags.map((tag: string) => (
