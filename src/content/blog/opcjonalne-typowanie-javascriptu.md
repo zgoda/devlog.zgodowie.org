@@ -15,50 +15,34 @@ Zacznijmy w ogóle od tego, że obowiązkowe deklarowanie typów w językach typ
 
 Takich _grubych misiów_ jest dwa: [TypeScript](https://www.typescriptlang.org/) od Microsoftu i [Flow](https://flow.org/en/) od Facebooka (jest jeszcze jakiś plankton, ale wcale nie lepszy). Na razie pominę kwestie osobiste, ale z każdym jest coś nie tak.
 
-W TypeScripcie deklarowanie typów jest **obowiązkowe**. Jak zadeklarujesz że robisz w TS, to wszystko ma być w TS i nie ma przebacz. W opisie oficjalnym ma słowo _optional_, ale cała opcjonalność polega na tym, że od czasu do czasu nie trzeba deklarować typu, bo sam się domyśli. Na szczęście zazwyczaj nie trzeba pisać modułów proxy do zewnętrznych modułóœ.
+W TypeScripcie deklarowanie typów jest **obowiązkowe**. Jak zadeklarujesz że robisz w TS, to wszystko ma być w TS i nie ma przebacz. W opisie oficjalnym ma słowo _optional_, ale cała opcjonalność polega na tym, że od czasu do czasu nie trzeba deklarować typu, bo sam się domyśli. Na szczęście zazwyczaj nie trzeba pisać modułów proxy do zewnętrznych bibliotek, bo jest to popularne _coś_.
 
 We Flow jak zadeklarujesz typowanie na poziomie modułu, to już musisz - ale możesz nie zadeklarować. Deklaracja odbywa się przez _pragmę_ w komentarzu i może nawet bym to jakoś przełknął, gdyby nie to, że takich zewnętrznych bibliotek które dostarczają definicji typów jest dosłownie parę, w tym React. Też od Facebooka. Efekt jest taki, że mając całkiem nietypowaną bibliotekę trzeba sobie dopisać moduł proxy, który te typy podefiniuje. Co zaoszczędzisz na nieco bardziej opcjonalnym typowaniu swojego kodu, to stracisz na typowaniu obcego kodu.
 
-Wspomniane kwestie osobiste dotyczą tego, że jednej i drugiej firmy nie lubię, a nawet trudno mi powiedzieć której bardziej (nie pomaga na to nic, nawet fakt że dla każdej z nich coś w życiu robiłem za pieniądze). Dogmatyczny nie jestem, ale skoro żaden nie spełnia wszsytkich wymagań, to po co się przymuszać?
+Wspomniane kwestie osobiste dotyczą tego, że jednej i drugiej firmy nie lubię, a nawet trudno mi powiedzieć której bardziej (nie pomaga na to nic, nawet fakt że dla każdej z nich coś w życiu robiłem za pieniądze). Dogmatyczny nie jestem, ale skoro żaden nie spełnia wszystkich wymagań, to po co się przymuszać?
 
 ### Alternatywa bez sensu
 
 Co jest naprawdę i w pełni opcjonalne, to komentarze [JSDoc](https://jsdoc.app/). Składnia tego jest typowa dla komentarzy dokumentacyjnych, nieprzyjemna i rozwlekła.
 
-```jsx
-import '../typedefs';
-
+```javascript
 /**
- * @typedef {Object} MessageListProps
- * @property {Map<string, Array<Message>>} messages all messages from application state
- * @property {string} currentTopic current selected topic
- * @property {string} userKey current user key (ID)
+ * @param {string} table
+ * @param {number} days
+ * @returns {import('..').Rate}
  */
-
-function mapToProps(/** @type MessageListProps */ { messages, currentTopic, userKey }) {
-    return { messages, currentTopic, userKey };
-}
-
-/**
- * Component that displays received messages.
- *
- * @param {MessageListProps} props
- * @returns HTML `div` element that is a container for message list
- */
-function MessageListBase({ messages, currentTopic, userKey }) {
-    const topicMessages = messages.get(currentTopic) || [];
-
-    return (
-        <div class="message-list">
-            {topicMessages.map((/** @type Message */ message) => (
-                <MessageItem
-                    message={message}
-                    key={message.pubDate.toString()}
-                    userKey={userKey}
-                />
-            ))}
-        </div>
-    );
+export function getSaltRate(table, days) {
+    const { low, high } = TYPE_TO_TABLE.get(table);
+    /** @type {number} */
+    let curingDays;
+    if (days >= 8 && days < 11) {
+        curingDays = CuringDays.EIGHT_TO_TEN;
+    } else if (days > 10) {
+        curingDays = CuringDays.ELEVEN_TO_THIRTEEN;
+    } else {
+        curingDays = DAYS[days - 1];
+    }
+    return { low: low.get(curingDays), high: high.get(curingDays) };
 }
 ```
 
