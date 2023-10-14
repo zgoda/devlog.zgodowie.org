@@ -3,5 +3,5 @@ const { post } = Astro.props;
 ---
 
 <a href={`/posts/${post.slug}`}>
-  ({post.data.pubDate.toLocaleDateString()}) {post.data.title}
+  ({post.data.pubDate.toLocaleDateString('pl-PL')}) {post.data.title}
 </a>

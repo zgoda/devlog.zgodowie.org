@@ -5,10 +5,12 @@ export async function loadAndFormatCollection(name) {
   posts
     .sort((a, b) => b.data.pubDate - a.data.pubDate)
     .forEach((post) => {
-      const date = post.data.pubDate;
-      const year = date.getFullYear();
-      const month = (date.getMonth() + 1).toString().padStart(2, '0');
-      post.slug = `${year}/${month}/${post.slug}`;
+      if (post.slug.split('/').length !== 3) {
+        const date = post.data.pubDate;
+        const year = date.getFullYear();
+        const month = (date.getMonth() + 1).toString().padStart(2, '0');
+        post.slug = `${year}/${month}/${post.slug}`;
+      }
     });
   return posts;
 }
