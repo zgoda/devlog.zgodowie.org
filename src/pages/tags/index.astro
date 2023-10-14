@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { loadAndFormatCollection } from '../../lib/collection';
-const allPosts: any[] = await loadAndFormatCollection('blog');
+import { loadAndFormatPostsCollection } from '../../lib/collection';
+const allPosts: any[] = await loadAndFormatPostsCollection();
 const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
 const pageTitle = 'Wszystkie etykiety';
 ---

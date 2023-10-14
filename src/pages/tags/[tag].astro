@@ -1,10 +1,10 @@
 ---
 import PostLink from '../../components/PostLink.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { loadAndFormatCollection } from '../../lib/collection';
+import { loadAndFormatPostsCollection } from '../../lib/collection';
 
 export async function getStaticPaths() {
-  const allPosts: any[] = await loadAndFormatCollection('blog');
+  const allPosts: any[] = await loadAndFormatPostsCollection();
 
   const uniqueTags = [...new Set(allPosts.map((post) => post.data.tags).flat())];
 

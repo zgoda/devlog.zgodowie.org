@@ -1,8 +1,22 @@
 ---
+import PostLink from '../components/PostLink.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { loadAndFormatPostsCollection } from '../lib/collection';
 const pageTitle = 'Jarek Zgoda - strona prywatna';
+
+const newestPosts: any[] = await loadAndFormatPostsCollection(10);
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <h2>Jak się człowiek spieszy to się diabeł cieszy, nie?</h2>
+  <p>Kilka najnowszych postów w blogu</p>
+  <ul>
+    {
+      newestPosts.map((post) => (
+        <li>
+          <PostLink post={post} />
+        </li>
+      ))
+    }
+  </ul>
 </BaseLayout>

@@ -1,7 +1,11 @@
 import { getCollection } from 'astro:content';
 
-export async function loadAndFormatCollection(name) {
-  const posts = await getCollection(name);
+/**
+ * @param {number} [limit]
+ * @returns {Promise<import('astro:content').CollectionEntry[]>}
+ */
+export async function loadAndFormatPostsCollection(limit = null) {
+  const posts = await getCollection('blog');
   posts
     .sort((a, b) => b.data.pubDate - a.data.pubDate)
     .forEach((post) => {
@@ -12,5 +16,8 @@ export async function loadAndFormatCollection(name) {
         post.slug = `${year}/${month}/${post.slug}`;
       }
     });
+  if (limit != null) {
+    return posts.slice(0, limit);
+  }
   return posts;
 }

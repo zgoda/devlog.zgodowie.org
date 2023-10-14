@@ -1,8 +1,8 @@
 import rss from '@astrojs/rss';
-import { loadAndFormatCollection } from '../lib/collection';
+import { loadAndFormatPostsCollection } from '../lib/collection';
 
 export async function GET(context) {
-  const posts = await loadAndFormatCollection('blog');
+  const posts = await loadAndFormatPostsCollection();
   return rss({
     title: 'Jarek Zgoda | Blog',
     description: 'Jarek Zgoda | Blog',

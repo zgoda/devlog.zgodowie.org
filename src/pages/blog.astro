@@ -1,8 +1,8 @@
 ---
-import { loadAndFormatCollection } from '../lib/collection';
+import { loadAndFormatPostsCollection } from '../lib/collection';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostLink from '../components/PostLink.astro';
-const allPosts: any[] = await loadAndFormatCollection('blog');
+const allPosts: any[] = await loadAndFormatPostsCollection();
 const pageTitle = 'Artykuły w blogu';
 ---
 
