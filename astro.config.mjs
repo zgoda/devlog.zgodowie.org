@@ -1,11 +1,8 @@
 import { defineConfig } from 'astro/config';
 
-import preact from '@astrojs/preact';
-
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://example.com',
-  integrations: [preact()],
+  site: 'https://devlog.zgodowie.org',
   markdown: {
     shikiConfig: {
       theme: 'nord',

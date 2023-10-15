@@ -5,6 +5,7 @@ author: Jarek
 tags:
     - blog
     - personal
+    - rower
 ---
 
 Po 2,5 roku _leżenia odłogiem_ postanowiłem przywrócić do życia Devlog. Jeszcze nie do końca wiem co z nim zrobię, ale przez ten czas trochę się w moim życiu zmieniło, więc również strona będzie miała nieco inną tematykę, choć wciąż jakoś związaną z branżą w której pracuję &mdash; oraz z moimi hobby. Na pewno w pewnej mierze będzie polem do eksperymentów.

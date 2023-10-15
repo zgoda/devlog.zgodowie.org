@@ -21,3 +21,24 @@ export async function loadAndFormatPostsCollection(limit = null) {
   }
   return posts;
 }
+
+/**
+ * @param {number} [limit]
+ * @returns {Promise<import('astro:content').CollectionEntry[]>}
+ */
+export async function loadAndFormatLinksCollection(limit = null) {
+  const links = await getCollection('links');
+  links.sort((a, b) => {
+    if (a.slug < b.slug) {
+      return -1;
+    }
+    if (b.slug < a.slug) {
+      return 1;
+    }
+    return 0;
+  });
+  if (limit != null) {
+    return links.slice(0, limit);
+  }
+  return links;
+}

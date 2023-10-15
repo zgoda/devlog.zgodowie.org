@@ -11,11 +11,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/preact": "^3.0.1",
     "@astrojs/rss": "^3.0.0",
     "@picocss/pico": "^1.5.10",
-    "astro": "^3.3.0",
-    "preact": "^10.18.1"
+    "astro": "^3.3.0"
   },
   "devDependencies": {
     "eslint": "^8.51.0",
