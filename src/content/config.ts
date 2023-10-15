@@ -8,6 +8,7 @@ const blog = defineCollection({
     tags: z.array(z.string()).optional(),
     pubDate: z.date(),
     author: z.enum(['Jarek']).default('Jarek'),
+    draft: z.boolean().default(false),
   }),
 });
 
@@ -15,6 +16,7 @@ const links = defineCollection({
   type: 'content',
   schema: z.object({
     category: z.array(z.string()).optional(),
+    draft: z.boolean().default(false),
   }),
 });
 

@@ -26,4 +26,4 @@ Kwota 3000 zł nie pojawiła się przypadkowo, ponieważ taki był mój pierwotn
 
 ## A po co to komu
 
-Moim celem (nie wiem jeszcze czy w roku 2024 czy 2025) jest przejechanie trasy z Lizbony do Santiago de Compostella, początkowo szlakiem Euro Velo 1, a następnie Camino Portugues. Kilka lat temu planowałem przejść pieszo odcinek z Porto do Santiago na moje 50-te urodziny, jednak los pokrzyżował moje plany za pomocą pandemii SARS-CoV-2 i musiałem odłożyć to na później. Teraz powracam do rzeczy, których nie zrealizowałem.
+Moim celem (nie wiem jeszcze czy w roku 2024 czy 2025) jest przejechanie trasy z Lizbony do Santiago de Compostella, początkowo szlakiem Euro Velo 1, a następnie Camino Portugues. Kilka lat temu planowałem przejść pieszo odcinek z Porto do Santiago na moje 50-te urodziny, jednak los pokrzyżował moje plany za pomocą pandemii SARS-CoV-2 i musiałem odłożyć to na później. Teraz powracam do rzeczy, których nie zrealizowałem, a jedną z nich jest pielgrzymka do św. Antoniego.

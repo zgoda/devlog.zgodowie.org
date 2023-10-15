@@ -5,7 +5,9 @@ import { getCollection } from 'astro:content';
  * @returns {Promise<import('astro:content').CollectionEntry[]>}
  */
 export async function loadAndFormatPostsCollection(limit = null) {
-  const posts = await getCollection('blog');
+  const posts = await getCollection('blog', ({ data }) => {
+    return import.meta.env.PROD ? data.draft !== true : true;
+  });
   posts
     .sort((a, b) => b.data.pubDate - a.data.pubDate)
     .forEach((post) => {
@@ -27,7 +29,9 @@ export async function loadAndFormatPostsCollection(limit = null) {
  * @returns {Promise<import('astro:content').CollectionEntry[]>}
  */
 export async function loadAndFormatLinksCollection(limit = null) {
-  const links = await getCollection('links');
+  const links = await getCollection('links', ({ data }) => {
+    return import.meta.env.PROD ? data.draft !== true : true;
+  });
   links.sort((a, b) => {
     if (a.slug < b.slug) {
       return -1;
