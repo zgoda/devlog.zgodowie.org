@@ -58,3 +58,7 @@ span.icon > svg {
 :is(p):has(img) {
   text-align: center;
 }
+
+.strava-wrapper :first-child {
+  margin: 0 auto;
+}

@@ -26,7 +26,11 @@ Po części ta _szportowość_ przyszła wraz z poprawą samopoczucia po rzuceni
 
 ![Boreysza](https://i.imgur.com/2jcXznYh.jpg)
 
-Przez kilka miesięcy rozkręcałem mój roweryzm, założyłem sobie konto na Stravie, przejechałem na Boreyszy ponad 1000 km (w tym [moją pierwszą trasę 100 km](https://www.strava.com/activities/9861592904)) i nawet pokusiłem się o samodzielne serwisowanie moich rowerów. W tej chwili, w związku z rychłym przybyciem kolejnego roweru, [poszukuję nowego właściciela](https://www.olx.pl/d/oferta/giant-allrounder-2003-CID767-IDVNxnJ.html) dla mojego Dżajanta, który pomimo dojrzałego wieku jest wciąż rowerem całkiem żwawym i cały czas utrzymywanym w stanie zdatnym do codziennej eksploatacji.
+Przez kilka miesięcy rozkręcałem mój roweryzm, założyłem sobie konto na Stravie, przejechałem na Boreyszy ponad 1000 km (w tym [moją pierwszą trasę 100 km](https://www.strava.com/activities/9861592904)) i nawet pokusiłem się o samodzielne serwisowanie moich rowerów.
+
+<div class="strava-wrapper"><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9861592904"></div><script src="https://strava-embeds.com/embed.js"></script></div>
+
+W tej chwili, w związku z rychłym przybyciem kolejnego roweru, [poszukuję nowego właściciela](https://www.olx.pl/d/oferta/giant-allrounder-2003-CID767-IDVNxnJ.html) dla mojego Dżajanta, który pomimo dojrzałego wieku jest wciąż rowerem całkiem żwawym i cały czas utrzymywanym w stanie zdatnym do codziennej eksploatacji.
 
 ![Dżajant](https://i.imgur.com/XDk0Lfhh.jpg)
 
