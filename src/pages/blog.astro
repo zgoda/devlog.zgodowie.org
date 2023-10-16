@@ -1,20 +1,12 @@
 ---
 import { loadAndFormatPostsCollection } from '../lib/collection';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PostLink from '../components/PostLink.astro';
+import PostPreview from '../components/PostPreview.astro';
 const allPosts: any[] = await loadAndFormatPostsCollection();
 const pageTitle = 'Artykuły w blogu';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <p>Chronologicznie posortowane wpisy w blogu.</p>
-  <ul>
-    {
-      allPosts.map((post) => (
-        <li>
-          <PostLink post={post} />
-        </li>
-      ))
-    }
-  </ul>
+  {allPosts.map((post) => <PostPreview post={post} />)}
 </BaseLayout>

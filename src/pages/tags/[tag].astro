@@ -1,5 +1,5 @@
 ---
-import PostLink from '../../components/PostLink.astro';
+import PostPreview from '../../components/PostPreview.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { loadAndFormatPostsCollection } from '../../lib/collection';
 
@@ -25,13 +25,5 @@ const { posts } = Astro.props;
 
 <BaseLayout pageTitle={tag.toLocaleUpperCase()}>
   <p>Posty z etykietą <strong>{tag}</strong></p>
-  <ul>
-    {
-      posts.map((post: any): any => (
-        <li>
-          <PostLink post={post} />
-        </li>
-      ))
-    }
-  </ul>
+  {posts.map((post: any): any => <PostPreview post={post} />)}
 </BaseLayout>

@@ -1,0 +1,15 @@
+---
+import PostLink from './PostLink.astro';
+
+const { post } = Astro.props;
+---
+
+<article>
+  <header>
+    <h3>{post.data.title}</h3>
+    <h5>{post.data.pubDate.toLocaleDateString('pl-PL')}</h5>
+    <p>Etykiety: {post.data.tags.sort().join(', ')}</p>
+  </header>
+  <p>{post.data.description}</p>
+  <footer>Czytaj: <PostLink post={post} /></footer>
+</article>
