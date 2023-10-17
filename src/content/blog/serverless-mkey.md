@@ -4,7 +4,9 @@ pubDate: 2020-01-23T13:23:00
 tags:
     - serverless
     - python
+    - rant
 author: Jarek
+description: Serverless, serverless, serverless!
 ---
 
 Serverless, serverless, serverless!

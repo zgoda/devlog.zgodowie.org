@@ -3,7 +3,9 @@ title: 'Warzywa w piwie'
 pubDate: 2012-11-05T09:38:00.000+01:00
 tags:
     - piwo
+    - rant
 author: Jarek
+description: Browar Kormoran wypuścił niedawno piwo Orkiszowe z Czosnkiem.
 ---
 
 Browar Kormoran wypuścił niedawno piwo Orkiszowe z Czosnkiem. Nie piłem go jeszcze, więc o samym piwie się nie będę wypowiadał. Ponieważ jest ono całkiem świeżą nowością, to jak sądzę naprawdę mało kto je pił. A jednak _interwebsy_ huczą od oburzenia.

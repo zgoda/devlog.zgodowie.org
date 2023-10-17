@@ -6,6 +6,7 @@ tags:
     - '2018'
     - newbury
     - historia
+description: Newbury 2018
 ---
 
 O 17:30 wychodzę z fabryki. Ani pierwszy, ani ostatni, ale na pewno jeden z ostatnich. Po mnie wychodzą już raczej tylko Azjaci. Nie żeby jakoś strasznie pracowici byli, oni przychodzą do fabryki na 10, albo i później.

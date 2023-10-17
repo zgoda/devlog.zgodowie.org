@@ -10,6 +10,7 @@ tags:
     - stm32
     - mcu
 author: Jarek
+description: 'Jakiś czas temu wpadłem na szatański pomysł, by kupić sobie OrangePi PC i kombinować z tym SBC. Szybko okazało się to straceńczą eskapadą, ale po dłuższym czasie udało mi się znaleźć sensowne wykorzystanie tego czegoś i nie jest przyciskiem do papieru. Jak się okazuje, niczego się nie nauczyłem.'
 ---
 
 Jakiś czas temu wpadłem na szatański pomysł, by [kupić sobie OrangePi PC](http://beergeek.zgodowie.org/2015/12/piwny-czy-nie-geek.html) i kombinować z tym SBC. Szybko okazało się to straceńczą eskapadą, ale po dłuższym czasie udało mi się znaleźć sensowne wykorzystanie tego czegoś i nie jest przyciskiem do papieru. Jak się okazuje, niczego się nie nauczyłem.

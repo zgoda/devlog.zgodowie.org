@@ -5,6 +5,7 @@ tags:
     - programowanie
     - python
 author: Jarek
+description: Po kilku miesiącach dłubania w drobnicy przyszedł czas powrotu do Flaska i SQLAlchemy.
 ---
 
 Nie, nie zapomniałem, że robię głównie w Pythonie i nie zapomniałem że moją główną dziedziną działalności są internety. Po kilku miesiącach dłubania w drobnicy przyszedł czas powrotu do Flaska i SQLAlchemy. Z przytupem.

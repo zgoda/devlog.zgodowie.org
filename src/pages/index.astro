@@ -4,7 +4,7 @@ import { loadAndFormatPostsCollection } from '../lib/collection';
 import PostPreview from '../components/PostPreview.astro';
 const pageTitle = 'Jarek Zgoda - strona prywatna';
 
-const newestPosts: any[] = await loadAndFormatPostsCollection(10);
+const newestPosts: any[] = await loadAndFormatPostsCollection(5);
 ---
 
 <BaseLayout pageTitle={pageTitle}>

@@ -4,6 +4,7 @@ pubDate: 2019-11-26T22:11:00.001+01:00
 author: Jarek
 tags:
     - programowanie
+description: 'Co jest najważniejszym narzędziem programisty, oczywiście poza jego mózgiem?'
 ---
 
 Co jest najważniejszym narzędziem programisty, oczywiście poza jego mózgiem? Klawiatura!

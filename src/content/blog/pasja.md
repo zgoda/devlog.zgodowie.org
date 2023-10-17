@@ -5,7 +5,9 @@ tags:
     - biznesy
     - przypiwie
     - polskiepiwo
+    - rant
 author: Jarek
+description: 'Tzw. "pasja" to marketingowe pierdu-pierdu.'
 ---
 
 > _If you’re lucky in your career, and success finds you, a reporter might someday put a microphone in your face and ask why you succeeded when others did not. You don’t want to say you were lucky because that sounds as if anyone could have done what you did. You don’t want to say you’re brilliant because that sounds arrogant. And you don’t want to say you worked hard because lots of unsuccessful people work hard too. The reporter is waiting for an answer. So you say the only thing that doesn’t make you sound like a lucky idiot or a total douchebag: “I’m passionate.”_

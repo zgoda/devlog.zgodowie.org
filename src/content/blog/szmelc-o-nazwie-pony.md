@@ -5,6 +5,7 @@ tags:
     - python
     - rant
 author: Jarek
+description: 'Jak się okazuje może się wysypać wszystko i na bardzo wiele sposobów.'
 ---
 
 Czasem do różnych małych projektów w Pythonie typu demo czy w ogóle do nauki potrzebuję małego ORM, który jest stosunkowo prosty do ustawienia i nie wchodzi zbytnio w drogę. To znaczy nie wymaga pisania setek linii kodu tylko po to, żeby połączyć się do bazy. Jak zobaczyłem [Pony](https://ponyorm.org/) to mi się oczy zaświeciły, bo to mogło być właśnie to.
@@ -15,7 +16,7 @@ Po czym zaraz przygasły. Kolejny szmelc.
 
 Co czyni Pony unikalnym jest język zapytań - pisze się je używając lambd i generatorów, przez co wygląda on bardzo czytelnie i już na pierwszy rzut oka widać co ten kod robi. Zainicjowanie biblioteki również jest proste, trzeba utworzyć obiekt swego rodzaju proxy, zainicjować połączenie z silnikiem bazy danych i w końcu podłączyć zadeklarowane encje do tabel w bazie danych - i to już. Operacje wykonuje się w sesji, która jednocześnie jest transakcją, wszystko ładnie-pięknie, niestety, tylko wtedy gdy działa.
 
-A zdecydowanie za szybko przestaje działać. I wtedy niestety okazuje się, że znikąd pomocy, a zgłoszone błędy są po prostu ignorowane. Mało kto tego używa, więc przepływ wiedzy jest właściwie żaden. Dokumentacja opisuje tylko _szczęśliwe zakończenia_, a zupełnie pomija przypadki tragiczne. Zdecydowanie również nie pomaga mocno dynamiczny charakter kodu samego Pony - podpowiedzi i pomoc dotycząca obiektów zasadniczo nie istnieją. Trudno powiedzieć jak coś działa i co się może wysypać. A jak się okazuje może się wysypać wszystko na bardzo wiele sposobów.
+A zdecydowanie za szybko przestaje działać. I wtedy niestety okazuje się, że znikąd pomocy, a zgłoszone błędy są po prostu ignorowane. Mało kto tego używa, więc przepływ wiedzy jest właściwie żaden. Dokumentacja opisuje tylko _szczęśliwe zakończenia_, a zupełnie pomija przypadki tragiczne. Zdecydowanie również nie pomaga mocno dynamiczny charakter kodu samego Pony - podpowiedzi i pomoc dotycząca obiektów zasadniczo nie istnieją. Trudno powiedzieć jak coś działa i co się może wysypać. A jak się okazuje może się wysypać wszystko i na bardzo wiele sposobów.
 
 Po znalezieniu szukanego obiektu jego [obiekty powiązane kluczem obcym są zwracane w losowej kolejności](https://stackoverflow.com/q/59127205/12138). Dlaczego? Czy można coś z tym zrobić?
 

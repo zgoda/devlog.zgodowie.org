@@ -4,6 +4,7 @@ pubDate: 2019-12-07
 author: Jarek
 tags:
     - ipaq
+description: 'Kolejne wieści z frontu przywracania trupa do nowego życia.'
 ---
 
 Kolejne wieści z frontu przywracania trupa do nowego życia.

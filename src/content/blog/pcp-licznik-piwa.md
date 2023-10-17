@@ -7,6 +7,7 @@ tags:
     - pcp
     - esp8266
 author: Jarek
+description: Nie żadne tam automatyki, zwykły gadżet do klikania.
 ---
 
 Nowa kategoria, zgodnie z panującym lata temu w Usenecie obyczajem nazwana "PCP" czyli "Patrzcie Co Popełniłem".

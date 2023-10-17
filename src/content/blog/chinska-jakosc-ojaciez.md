@@ -7,6 +7,7 @@ tags:
     - mcu
     - rant
 author: Jarek
+description: 'Trochę towaru z Chin już do mnie przyjechało, więc chyba mogę coś napisać o jakości tego szpeju, z czego również będzie można sobie pownioskować, czy w ogóle warto ryzykować zakup.'
 ---
 
 Trochę towaru z Chin już do mnie przyjechało, więc chyba mogę coś napisać o jakości tego szpeju, z czego również będzie można sobie pownioskować, czy w ogóle warto ryzykować zakup.

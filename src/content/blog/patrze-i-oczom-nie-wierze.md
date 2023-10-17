@@ -8,6 +8,7 @@ tags:
     - pcp
     - mcu
 author: Jarek
+description: I'm proud
 ---
 
 Będzie krótko.

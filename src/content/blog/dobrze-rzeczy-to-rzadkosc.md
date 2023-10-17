@@ -5,6 +5,7 @@ author: Jarek
 tags:
     - python
     - rant
+description: 'Potrzebowałem odświeżenia głowy i postanowiłem przy okazji zapoznawania się z Vue.js spróbować zrobić sobie backend w czymś innym. Żeby nie rzucać się od razu na głęboką wodę to pozostałem przy tradycyjnym WSGI, żeby chociaż deployment był w miarę obcykany.'
 ---
 
 Jak wielka jest to rzadkość to się mogłem przekonać opuściwszy moją _strefę komfortu_ ([Flask](https://flask.palletsprojects.com/) + [SQLAlchemy](https://www.sqlalchemy.org/)). Potrzebowałem odświeżenia głowy i postanowiłem przy okazji zapoznawania się z [Vue.js](https://vuejs.org/) spróbować zrobić sobie _backend_ w czymś innym. Żeby nie rzucać się od razu na głęboką wodę to pozostałem przy tradycyjnym WSGI, żeby chociaż deployment był w miarę _obcykany_.

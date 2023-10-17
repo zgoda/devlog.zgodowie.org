@@ -9,6 +9,7 @@ tags:
     - linux
     - ipaq
 author: Jarek
+description: 'Za 40 złotych z przesyłką kupiłem HP IPaq h3970.'
 ---
 
 Odkąd zostałem linuksiarzem, czyli już od jakichś 20 lat, chciałem mieć PDA z linuksem. Oczywiście, w początkach XXI wieku te urządzenia kosztowały nerkę (mniej więcej jak teraz iPhone), więc musiałem o nich zapomnieć. Ale teraz, gdy minęło trochę czasu i produkt typu PDA w ogóle zniknął z rynku zastąpiony coraz potężniejszymi smartfonami...

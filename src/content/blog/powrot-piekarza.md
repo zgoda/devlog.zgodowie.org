@@ -8,6 +8,7 @@ tags:
     - domowe
     - żarcie
 author: Jarek
+description: Wiejski piekarz, ale umie czytać.
 ---
 
 Trzy książki, każda dobra do czego innego, żadna nie jest idealna. Mieć wszystkie lub nie mieć żadnej.

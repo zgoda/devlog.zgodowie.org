@@ -43,6 +43,7 @@
 .center {
   text-align: center;
   margin: 0 auto;
+  margin-bottom: var(--typography-spacing-vertical);
 }
 
 body > svg {
@@ -61,4 +62,5 @@ span.icon > svg {
 
 .strava-wrapper :first-child {
   margin: 0 auto;
+  margin-bottom: var(--typography-spacing-vertical);
 }

@@ -4,7 +4,9 @@ pubDate: 2020-05-23
 tags:
     - python
     - async
+    - rant
 author: Jarek
+description: Ponownie zanurkowałem w rzeczywistość programowania asynchronicznego w Pythonie i prawdopodobnie wkrótce znowu wycofam się z uczuciem obrzydzenia.
 ---
 
 Ponownie zanurkowałem w rzeczywistość programowania asynchronicznego w Pythonie i prawdopodobnie wkrótce znowu wycofam się z uczuciem obrzydzenia.

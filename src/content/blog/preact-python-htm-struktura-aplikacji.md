@@ -5,6 +5,7 @@ tags:
     - python
     - preact
 author: Jarek
+description: Próbuję pożenić Pythona z Preactem.
 ---
 
 Czas zabrać się do roboty.

@@ -6,6 +6,7 @@ tags:
     - pozapiwne
     - linux
 author: Jarek
+description: Czujny reboot i można grać.
 ---
 
 Po wrzuceniu kilku ROM-ów na PSX okazało się, że karta SD z której bootuje się system jest za mała na to, żeby je tam trzymać. Inne opcje jakie przyszły mi do głowy to trzymać je na pendrive albo zamontować katalog z NAS po Sambie. W pomieszczeniu gdzie stoi telewizor WiFi działa co najwyżej jako-tako (nikt nie pomyślał o kablaturze podczas budowy...), więc na początek pójdzie 8GB pendrive. Powinno wystarczyć na parę dni.

@@ -6,6 +6,7 @@ tags:
     - rant
     - python
 author: Jarek
+description: 'Wyruszyłem wraz z Google na poszukiwanie króla dżungli.'
 ---
 
 ![Fuj](https://2.bp.blogspot.com/-LwUQVFQxODc/W7n9p-t6mcI/AAAAAAAAGGA/iCBkFRbuQXsZE0VBLSmQHs1jKdtShoxyQCLcBGAs/s800/grumpy-clint.jpg)

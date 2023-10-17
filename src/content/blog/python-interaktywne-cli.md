@@ -5,6 +5,7 @@ pubDate: 2020-05-06T23:16:00
 tags:
     - python
     - cli
+description: Mmmmmm, command line!
 ---
 
 Jakiś czas temu zacząłem robić hobbistycznie aplikację webową, która ma pewne dość szczególne wymagania, dość powiedzieć że nie można w niej użyć _zbyt nowoczesnych rzeczy_, takich jak np zbyt nowy Javascript. Dlatego większą jej część postanowiłem zrobić jako CLI.

@@ -6,6 +6,7 @@ tags:
     - python
     - django
     - flask
+description: Cena postępu.
 ---
 
 Gdy w 2007 roku odpalaliśmy produkcyjnie sporą aplikację w [Django 0.95](https://www.djangoproject.com/weblog/2006/jul/29/095/) (i wkrótce potem migrowaliśmy do [0.96](https://www.djangoproject.com/weblog/2007/mar/23/096/)), pojedynczy proces pod FastCGI zajmował w pamięci 36 MB resident set i było _ooo, ale dużo!_, ale niewiele dało się z tym zrobić.

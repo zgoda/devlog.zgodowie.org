@@ -5,7 +5,6 @@ tags:
     - rower
     - decathlon
     - projekt
-draft: true
 description: 'W ramach projektu zimowego kupiłem najtańszy sensowny rower szosowy z Decathlonu, Triban RC120 Disc. Po promocjach i zniżkach kosztował mnie 2500 zł i mając o nim sporo informacji postanowiłem zrobić z niego nosiciela sakw na przyszłe sezony.'
 ---
 

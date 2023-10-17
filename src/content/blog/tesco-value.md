@@ -11,8 +11,6 @@ description: Wielka Brytania miała kiedyś przebłyski wielkości, ale dziś je
 
 Gdy w lipcu okazało się, że znowu czeka mnie kilkutygodniowy wyjazd do Wielkiej Brytani to od razu przyszło mi do głowy kilka rzeczy, o których pomyślałem z nieskrywaną przyjemnością, a jedną z nich było full english breakfast.
 
-<!-- more -->
-
 Jestem wielkim fanem angielskiego śniadania, ogromnym. Jajka, kamberlandy, bekon, fasolka, kartoflaki, zapieczony pomidor, tosty, ewentualnie mogą być jeszcze pieczarki, ale niekoniecznie, bo nie do końca mi pasują. W ogóle najlepsze full english jakie zdarzyło mi się w życiu jeść było bez pieczarek, w dodatku przyrządzane przez Hiszpana w nieczynnej już hiszpańskiej grillowni w londyńskim Bayswater - tego nie zapomnę nigdy. I pomimo że fasolkę Heinza można dostać w każdym większym sklepie, to jednak jest ona tylko pierwszymi skrzypcami bez reszty orkiestry - może i ładnie grają, ale przy samych pierwszych skrzypcach nie potańczysz.
 
 Wybrałem sobie B&B na zadupiu kierowany komentarzami, jakie to dobre śniadania tam są, że och i ach i w ogóle. Nic to że do fabryki miałem stamtąd dobre pół godziny z buta, damy radę bo śniadania, ach śniadania! No i wreszcie mam to moje english na talerzu i zaczynam się rozglądać, kto mógł mi zwędzić połowę, ale widzę że inni dostali również połowę... No ok, nie ma co płakać, trzeba jeść. Ciach kiełbaskę i w sos od tej fasolki, ale coś mi nie pasuje, niby kamberland jak kamberland, o tradycyjnym smaku mielonej tektury, ale ten sos coś nie halo. Jakiś kwaśny, wodnisty, fasolka też tylko wygląda ok, bo niektóre z nich twarde jak kamulce. Kto zepsuł fasolkę? Kto zepsuł śniadanie?!

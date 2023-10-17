@@ -5,6 +5,7 @@ tags:
     - pozapiwne
     - przypiwie
 author: Jarek
+description: 'Czas chyba na chwilę refleksji, bo nie nadążam za życiem.'
 ---
 
 Tak, to było bardzo intensywne lato. Nie siedzieliśmy wiele w domu, z trudem też udawało mi się zrealizować plany warzelne, wiele też rzeczy mnie ominęło. Skąd to tak, dlaczego to tak, nagle zaczęło się więcej dziać, czy mój samochód wolniej jeździ? Czas chyba na chwilę refleksji, bo nie nadążam za życiem.

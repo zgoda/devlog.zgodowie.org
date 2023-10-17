@@ -6,6 +6,7 @@ tags:
     - domowe
     - żarcie
 author: Jarek
+description: 'Trzeba czasem coś zjeść normalnego, co nie szczekało dziś rano ani nie leżało przez ostatni tydzień na podłodze.'
 ---
 
 Na przykład słomianego, ale może być każdy inny. Przypuśćmy że odjechała ci żona. Impreza, te sprawy, pizza na telefon, chińczyk, kebab... Ale jednakowoż trzeba czasem coś zjeść normalnego, co nie szczekało dziś rano ani nie leżało przez ostatni tydzień na podłodze. I stąd ten poradnik.

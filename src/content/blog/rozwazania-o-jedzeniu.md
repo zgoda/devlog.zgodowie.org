@@ -4,6 +4,7 @@ pubDate: 2020-05-16T13:25:00.000
 tags:
     - żarcie
 author: Jarek
+description: 'Ludzi jako gatunek oraz kultury na najniższym poziomie łączy wiele.'
 ---
 
 _Spoiler alert_: ludzi jako gatunek oraz kultury na najniższym poziomie łączy wiele. Narody &mdash; prawie nic.

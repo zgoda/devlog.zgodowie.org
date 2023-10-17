@@ -6,6 +6,7 @@ tags:
     - projekty
     - python
 author: Jarek
+description: 'Ping!'
 ---
 
 W Pythonie jest obyczaj, że informacja o wersji jest dostępna pod zmienną `__version__` na najwyższym poziomie pakietu. Informacja ta powinna być zawarta również w skrypcie instalacji setup.py, jednakowoż zwykle złym pomysłem jest importowanie w nim własnego pakietu. Ludzie mają różne sposoby aby to obejść - parsują pliki jako tekst i szukają tam umówionego ciągu wyrażeniami regularnymi, albo trzymają tę informację gdzieś na boku.

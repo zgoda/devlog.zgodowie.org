@@ -8,9 +8,10 @@ tags:
     - python
     - preact
 author: Jarek
+description: 'Nie da się w dzisiejszych czasach robić w Pytongu i nie dotknąć się do Javascriptu.'
 ---
 
-Nie da się w dzisiejszych czasach robić w Pytongu i nie dotknąć się do Javascriptu. Jest to wszędzie i nawet przy największym wysiłku czasem nie da się tego ominąć. A jeszcze teraz namnożyło się tych _famenwerków do frontendu_, tak że nie da się obrócić żeby na jakiś nie wleźć. Nie mówiąc o politowaniu z jakim na człowieka patrzą _bomble_.
+Nie da się w dzisiejszych czasach _robić w Pytongu_ i nie dotknąć się do Javascriptu. Jest to wszędzie i nawet przy największym wysiłku czasem nie da się tego ominąć. A jeszcze teraz namnożyło się tych _famenwerków do frontendu_, tak że nie da się obrócić żeby na jakiś nie wleźć. Nie mówiąc o politowaniu z jakim na człowieka patrzą _bomble_.
 
 ![Ale super](https://1.bp.blogspot.com/-SpZJNx6kzzU/XeOe549_lHI/AAAAAAAAHHI/Lt8IXqKnve0UR5xB9X5jLqNfZkddhXScQCKgBGAsYHg/s800/IMG_0229.JPG)
 

@@ -5,6 +5,7 @@ tags:
     - python
     - ubuntu
 author: Jarek
+description: Czasem chwila nieuwagi może kosztować sporo nerwów. W szczególności nieuwagi podczas aktualizacji systemu do nowszej wersji.
 ---
 
 Czasem chwila nieuwagi może kosztować sporo nerwów. W szczególności nieuwagi podczas aktualizacji systemu do nowszej wersji.

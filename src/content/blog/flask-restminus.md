@@ -6,6 +6,7 @@ tags:
     - rest
     - python
 author: Jarek
+description: 'Zrobiwszy właściwie wszystko co potrzebne w moim nano-frameworku WSGI postanowiłem spojrzeć na kod popularnej konkurencji.'
 ---
 
 Zrobiwszy właściwie wszystko co potrzebne w moim _nano-frameworku WSGI_ postanowiłem spojrzeć na kod popularnej konkurencji. Jedną z najpopularniejszych bibliotek do robienia REST API jest Flask-RESTful i na początek spojrzałem właśnie tam.

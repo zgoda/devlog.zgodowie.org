@@ -6,6 +6,7 @@ tags:
     - historia
     - newbury
     - '2018'
+description: 'Newbury 2018'
 ---
 
 Newbury to bardzo przyjemne miasto dla kogoś, kto potrzebuje tylko w nim mieszkać i pracować.

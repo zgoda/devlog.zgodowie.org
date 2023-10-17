@@ -5,6 +5,7 @@ tags:
     - python
     - preact
 author: Jarek
+description: Żadnego specjalnego toolingu dla Javascriptu, tylko importowane moduły!
 ---
 
 To jest część 0, czyli wstęp do właściwego przewodnika tworzenia aplikacji wykorzystującej Pythona, Preact i HTM.

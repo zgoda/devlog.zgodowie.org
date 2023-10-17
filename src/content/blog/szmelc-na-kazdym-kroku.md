@@ -4,6 +4,8 @@ pubDate: 2019-12-10
 author: Jarek
 tags:
     - python
+    - rant
+description: Te nowoczesne projekty OS w Pythonie to w dużej mierze szajs.
 ---
 
 Te _nowoczesne_ projekty OS w Pythonie to w dużej mierze szajs.

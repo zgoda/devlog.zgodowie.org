@@ -6,6 +6,7 @@ tags:
     - newbury
     - '2018'
     - historia
+description: 'Newbury 2018'
 ---
 
 Godzina 19:30 a w hotelu robotniczym w Newbury po korytarzach snują się zapachy odległych ojczyzn. Indie, Bangladesz, Sri Lanka, Indonezja, Jemen, RPA, Egipt i wreszcie polski, swojski zapach duszonej wieprzowiny i pieczonych ziemniaków z czosnkiem i rozmarynem.

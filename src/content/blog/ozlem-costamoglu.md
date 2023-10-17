@@ -6,6 +6,7 @@ tags:
     - '2018'
     - newbury
     - historia
+description: 'Newbury 2018'
 ---
 
 Mężczyzna, o ile nie jest całkiem łysy albo jakiś hipis, dwa razy w roku idzie do fryzjera, żeby pozbyć się nadmiaru owłosienia na głowie w miejscach, które uznaje za newralgiczne. Które to to aż tak głęboko wnikać nie będę, niech każdy trzyma swoje tajemnice przy orderach - dzięki temu nikt ich nie pozna. Mnie akurat wypadło, że jedno z dwóch strzyżeń trzeba było zrobić w Newbury, West Berkshire. A u fryzjera to wiadomo, dowiesz się wszystkiego. Wystarczy tylko odpowiedzieć na zajawkę i słuchać.

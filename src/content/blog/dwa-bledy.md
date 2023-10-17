@@ -6,7 +6,7 @@ tags:
     - programowanie
     - javascript
     - unbundled
-description: Zachciało mi się unbundled, więc po przejrzeniu dostępnych opcji wybrałem Snowpack, ale już po tygodniu okazało się to sporym błędem. A właściwie dwoma, bo przy okazji chciałem łyknąć coś z TypeScript'u.
+description: 'Zachciało mi się unbundled, więc po przejrzeniu dostępnych opcji wybrałem Snowpack, ale już po tygodniu okazało się to sporym błędem. A właściwie dwoma, bo przy okazji chciałem łyknąć coś z TypeScriptu.'
 ---
 
 Pomysł wydawał się na pierwszy rzut oka przedni - poćwiczę sobie parę rzeczy, robiąc przy okazji jakiś projekt edukacyjny. Na _backendzie_ to miał być asynchroniczny Python, na frontendzie _unbundled_ + TypeScript. O ile backend poszedł gładko i z co najwyżej drobnymi przeszkodami, to _na froncie_ wpakowałem się w niezły szajs.
