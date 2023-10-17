@@ -8,6 +8,7 @@ tags:
     - es6
     - flask
 description: Gdzie kulawy Python nie może tam się Javascriptem podeprze i jakoś uda są spakietować moduły ES6 przy użyciu Flask-Assets. Polecam tego Allegrowicza.
+imageUrl: https://i.imgur.com/KCQ6rPth.jpg
 ---
 
 Spędziłem cały wieczór próbując spakietować (_bundle_) jeden moduł ES6 razem z kodem frameworku którego używał i muszę przyznać że nie jest to prosta rzecz. Być może egzotyczny wybór techologii lub platformy utrudnił mi życie, ale nie sądziłem że będzie _aż tak_.

@@ -7,6 +7,7 @@ tags:
     - python
     - async
 description: Sprawdziłem jak to z pisaniem asynchronicznych serwerów w Pythonie jest na początku 2021 i muszę państwu powiedzieć, że do zadowalającego stanu jest wciąż daleko, choć jest nieco lepiej niż półtora roku temu.
+imageUrl: https://i.imgur.com/GkfP6vUh.jpg
 ---
 
 Co jakiś czas lubię sobie _dłubnąć_ coś nowego, a to jakaś aplikacyjka na telefon, a to coś w Javascripcie, a to jakieś nowe narzędzie przetestować, wyciskając z niego ile się da (a czasem zwyczajnie nadużywając). Po ostatnich przygodach z Preactem i Flutterem zapragnąłem wrócić do Pythona, przy okazji sprawdzając jak się w początku 2021 roku pisze aplikacje asynchroniczne.

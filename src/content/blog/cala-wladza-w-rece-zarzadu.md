@@ -6,6 +6,7 @@ tags:
     - rant
     - przypiwie
 description: Coraz większa liczba usług polega na federated login, cedując decyzję kto może uzyskać dostęp do treści na paru nieodpowiedzialnych typów.
+imageUrl: https://i.imgur.com/d6lmIKyh.jpg
 ---
 
 20 lat temu, gdy robiłem pierwszą aplikację webową w PHP (3!), oczywiste było, że aby wykonać jakąś czynność w serwisie użytkownik musi się zidentyfikować, a potem aplikacja mu to umożliwi, albo nie. Minęło 20 lat i dziś nie jest to aż tak oczywiste.

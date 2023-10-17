@@ -8,6 +8,7 @@ tags:
     - polskiepiwo
     - polskiesmaki
 description: Przemyślenia o 3 nowych polskich chmielach oraz jednym starym
+imageUrl: https://i.imgur.com/MudtAW1h.jpg
 ---
 
 W sesonie piwowarskim 2019/20 używałem głównie polskiego chmielu, zarówno od Polish Hops jak i z Powiśla. Nie było zaskoczenia.

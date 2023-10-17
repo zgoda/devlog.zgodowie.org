@@ -8,6 +8,7 @@ tags:
     - jsx
     - snowpack
 description: I kolejny raz "miało być pięknie, a wyszło jak zwykle". Obietnica "unbundled development", początkowo bardzo kusząca, okazała się nie do końca pasować do niektórych modeli aplikacji.
+imageUrl: https://i.imgur.com/l7jfa5Ah.jpg
 ---
 
 Nowy zawodnik na dzielnicy obiecuje _unbundled development_, ale jednak gdy się bliżej zapoznać z ofertą, to jak zwykle najważniejsze jest to co małym drukiem. A małym drukiem napisane jest, że _oferta dotyczy wybranych modeli_. Których? Akurat nie tych, które mnie interesują.

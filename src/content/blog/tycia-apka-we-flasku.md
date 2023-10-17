@@ -9,6 +9,7 @@ tags:
     - programowanie
     - projekty
 description: Czasem naprawdę potrzeba dużo mniej, niż będą wmawiać doświadczeni architekci aplikacji webowych, a jednocześnie trochę więcej, niż proponują autorzy jutubowych tutoriali. Inaczej mówiąc, jak najmniejsza aplikacja we Flasku, ale tak żeby miała sens i dała się utrzymywać minimalnym nakładem sił.
+imageUrl: https://i.imgur.com/s5aLMzCh.jpg
 ---
 
 Przyglądając się baczniej mojemu Brewlogowi, który akurat przechodzi transformację do wersji 3 przy okazji tracąc kolejne nigdy nie użyte warstwy abstrakcji, doszedłem do wniosku, że nawet robiąc małą aplikację, zaczynam ze zbyt wysokiego poziomu. Jak zrobić małą aplikację we Flasku (naprawdę małą) ale tak, żeby miało to ręce i nogi?
@@ -19,7 +20,7 @@ Na pierwszy rzut oka wydaje się to bajecznie proste - obiekt aplikacji, parę 
 
 Czy aby na pewno? Czy to jest sytuacja bez wyjścia?
 
-->![Otóż nie tym razem](https://i.imgur.com/qBfzpOLh.jpg)<-
+![Otóż nie tym razem](https://i.imgur.com/qBfzpOLh.jpg)
 
 No nie do końca.
 

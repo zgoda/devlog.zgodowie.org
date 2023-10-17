@@ -8,6 +8,7 @@ tags:
     - flutter
     - dart
 description: Korzystając z okazji uczę się pisania aplikacji mobilnych we Flutterze. Fajna sprawa.
+imageUrl: https://i.imgur.com/cWQqdhnh.jpg
 ---
 
 Po upadku idei implementacji ActivityPub w Devlogu postanowiłem rzucić się na głęboką wodę i nauczyć się programować aplikacje mobilne, a backend dorobić _na rympał_, najprostszy jak się da. Idzie raz wolniej, raz szybciej, ale coś tam się udaje, a pomaga mi w tym kombo Dart + Flutter. _Na backendzie_ oczywiście Python, co daje mi ten komfort, że wprowadzanie zmian infrastrukturalnych jest szybkie, łatwe i przyjemne.

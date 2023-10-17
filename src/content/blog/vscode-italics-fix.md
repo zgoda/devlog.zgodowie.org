@@ -7,6 +7,7 @@ tags:
     - edytor
 author: Jarek
 description: Są takie rzeczy, których nie jestem w stanie znieść i póki żyję nie dopuszczę ich do siebie. Jedną z nich są italiki w widoku kodu.
+imageUrl: https://i.imgur.com/hdXOUkAl.jpg
 ---
 
 Są takie rzeczy, których nie jestem w stanie znieść i póki żyję nie dopuszczę ich do siebie. Jedną z nich są italiki w widoku kodu.

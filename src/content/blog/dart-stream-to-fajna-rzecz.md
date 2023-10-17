@@ -7,6 +7,7 @@ tags:
     - async
     - flutter
 description: Spędziłem nad tym kilkanaście godzin, próbując bezskutecznie zmusić różne rodzaje providerów z biblioteki Riverpod zmusić do cyklicznego powiadamiania o stanie zewnętrznej usługi. Ostatni okazał się być najlepszym, co ja mówię, jedynym jaki działał.
+imageUrl: https://i.imgur.com/v6JGOvzh.jpg
 ---
 
 W [mojej szkolnej aplikacji](https://github.com/zgoda/devlog-microblog-client) we Flutterze mam taki ficzer, że ona może działać również offline. Uznałem, że fajnie by było, jakby użytkownik widział od razu, czy ma połączenie z serwerem, czy nie ma (z jakiegokolwiek powodu, to akurat bez znaczenia - bo może sobie również ustawić ręcznie tryb _offline_). Niby nic trudnego, jakis timer, asynchroniczna metoda, która zwraca element wyliczenia reprezentujący stan - i rzeczywiście, implementacja okazała się prosta. Tylko jak skonsumować jej wynik?

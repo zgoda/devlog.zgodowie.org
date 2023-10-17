@@ -5,6 +5,7 @@ author: Jarek
 tags:
     - python
 description: Framework webowy w Pythonie? Mieliśmy kiedyś tego bardzo dużo. Co się z nimi stało?
+imageUrl: https://i.imgur.com/2mzFN4Oh.jpg
 ---
 
 Zniesmaczony stanem ramówek do robienia API w Pythonie postanowiłem spróbować sklecić coś, co miałoby szansę zaspokoić moje potrzeby. Kod nie jest jeszcze publicznie dostępny (ale będzie), za to wybrana podstawa na której buduję moją _niby-ramówkę_ od razu skojarzyła mi się z jednym z pierwszych dostępnych moich _kodów_. I niejako historia zatoczyła koło, chichocząc przy tym jak dzika.

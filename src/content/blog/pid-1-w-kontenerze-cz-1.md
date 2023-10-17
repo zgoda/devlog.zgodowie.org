@@ -7,6 +7,7 @@ tags:
     - python
     - linux
 description: Uruchomienie procesu w kontenerze jest proste, ale zakończenie go nie zawsze jest takie łatwe, jeżeli chce się to zrobic czysto i odpowiedzialnie.
+imageUrl: https://i.imgur.com/SEklf7qh.jpg
 ---
 
 ## Pan nie wiesz z kim pan mnie mylisz

@@ -6,15 +6,14 @@ tags:
     - python
     - rant
 description: 'Potrzebowałem odświeżenia głowy i postanowiłem przy okazji zapoznawania się z Vue.js spróbować zrobić sobie backend w czymś innym. Żeby nie rzucać się od razu na głęboką wodę to pozostałem przy tradycyjnym WSGI, żeby chociaż deployment był w miarę obcykany.'
+imageUrl: https://i.imgur.com/x9MQrRIl.jpg
 ---
 
 Jak wielka jest to rzadkość to się mogłem przekonać opuściwszy moją _strefę komfortu_ ([Flask](https://flask.palletsprojects.com/) + [SQLAlchemy](https://www.sqlalchemy.org/)). Potrzebowałem odświeżenia głowy i postanowiłem przy okazji zapoznawania się z [Vue.js](https://vuejs.org/) spróbować zrobić sobie _backend_ w czymś innym. Żeby nie rzucać się od razu na głęboką wodę to pozostałem przy tradycyjnym WSGI, żeby chociaż deployment był w miarę _obcykany_.
 
 Przed państwem _dymanic duo_ czyli [Falcon](https://falconframework.org/) + [Pony](https://ponyorm.org/).
 
-<!-- more -->
-
-->![Para z piekła rodem](https://i.imgur.com/x9MQrRIl.jpg)<-
+![Para z piekła rodem](https://i.imgur.com/x9MQrRIl.jpg)
 
 Zwykle zaczynam od modelu danych, więc na pierwszy ogień poszło Pony. Schemat prosty, bo i aplikacyjka prosta, tu nie było niespodzianek. Kilka metod dostępu do danych, pierwsze test i... WTF? Wyniki obiekty zależne przychodzą w losowej kolejności? Ano właśnie, tak one przychodzą, ponieważ wewnętrzną reprezentacją zbioru obiektów zależnych jest [pythonowy set](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset), czyli właśnie zbiór, który ma to do siebie, że jest nieuporządkowany. Co generalnie niczego nie psuje tak by się nie dało naprawić, ale czyni kod bardziej skomplikowanym. O to nam chodziło? **No łaczej nie bałdzo panie chłabio**.
 

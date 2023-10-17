@@ -6,6 +6,7 @@ tags:
     - python
     - orm
 description: 'Niektóre rzeczy narzucają się same.'
+imageUrl: https://i.imgur.com/sMEknSVh.jpg
 ---
 
 Nie jest to łatwe. I już nie chodzi o przyzwyczajenie, czy o cokolwiek innego. Mając aplikację we Flasku po prostu nie ma do czego odejść, a przynajmniej nie będzie łatwo.

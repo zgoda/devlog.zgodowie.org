@@ -7,6 +7,7 @@ tags:
     - rant
 author: Jarek
 description: 'Jest sobie taki kontrowersyjny gość, którego podejście do kwestii robienia oprogramowania OS niektórych odrzuca, a u innych powoduje atak białej gorączki, ale ja myślę że facet jest w porządku i robi dobrze. A wręcz najlepiej jak tylko można.'
+imageUrl: https://i.imgur.com/3mAWPWJh.jpg
 ---
 
 Jest sobie taki kontrowersyjny gość, którego podejście do kwestii robienia oprogramowania OS niektórych odrzuca, a u innych powoduje atak białej gorączki, ale ja myślę że facet jest w porządku i robi dobrze. A wręcz najlepiej jak tylko można.

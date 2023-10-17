@@ -7,6 +7,7 @@ tags:
     - programowanie
     - podman
 description: Im dłużej używam Podmana i Buildah tym bardziej mi się te narzędzia podobają. Co fajnego mają?
+imageUrl: https://i.imgur.com/PKhDCsuh.jpg
 ---
 
 Mija tydzień odkąd zacząłem używać Podmana i Buildah na poważnie. Podoba mi się coraz więcej rzeczy, choć dostrzegam również pewne braki. To będzie kolejny artykuł, który będzie WIP, bo zamierzam zebrać te wszystkie fajne rzeczy, które Podman i Buildah wniosły w moje programistyczne życie. Po kolei, każda z omówieniem.

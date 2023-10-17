@@ -7,6 +7,7 @@ tags:
     - javascript
 author: Jarek
 description: Nie zgadlibyście, ale nie udało mi się sensownie pożenić Pythona z Preactem.
+imageUrl: https://i.imgur.com/iOmtl8xh.jpg
 ---
 
 Planowałem napisać serię tutoriali o łączeniu Pythona z Javascriptem _po staremu_, ale skończy się na wprowadzeniu i jednym artykule. To nie ma sensu. Nikt tego nie potrzebuje w 2020 roku.

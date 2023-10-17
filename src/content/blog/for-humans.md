@@ -6,6 +6,7 @@ tags:
     - rant
 author: Jarek
 description: 'Kod dla ludzi i dla nieludzi.'
+imageUrl: https://i.imgur.com/xqszjDzh.jpg
 ---
 
 Kod dla ludzi i dla nieludzi. Ja wiem kto zaczął, ale teraz to już przekroczyło wszelkie normy dobrego smaku. _Forhumanizm_ musi odejść!

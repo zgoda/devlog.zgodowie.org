@@ -6,6 +6,7 @@ tags:
     - ubuntu
 author: Jarek
 description: Czasem chwila nieuwagi może kosztować sporo nerwów. W szczególności nieuwagi podczas aktualizacji systemu do nowszej wersji.
+imageUrl: https://i.imgur.com/5pLkcKOh.jpg
 ---
 
 Czasem chwila nieuwagi może kosztować sporo nerwów. W szczególności nieuwagi podczas aktualizacji systemu do nowszej wersji.

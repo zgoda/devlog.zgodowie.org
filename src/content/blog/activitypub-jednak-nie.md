@@ -7,6 +7,7 @@ tags:
     - python
     - activitypub
 description: Po dwóch tygodniach zmagań z implementacją ActivityPub w Devlogu rzuciłem to jednak w diabły. Pokładane nadzieje okazały się płonne, a obietnica mobilnego klienta - niespełniona. Bez większego żalu skasowałem branch z zaczątkami kodu obsługi AP i znowu jestem w punkcie wyjścia, choć znowu mam pewien pomysł.
+imageUrl: https://i.imgur.com/oUpkuigh.jpg
 ---
 
 Po dwóch tygodniach zmagań z implementacją ActivityPub w Devlogu rzuciłem to jednak w diabły. Pokładane nadzieje okazały się płonne, a obietnica _mobilnego klienta_ - niespełniona. Bez większego żalu skasowałem branch z zaczątkami kodu obsługi AP i znowu jestem w punkcie wyjścia, choć znowu mam pewien pomysł.

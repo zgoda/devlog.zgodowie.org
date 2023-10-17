@@ -9,6 +9,7 @@ const blog = defineCollection({
     pubDate: z.date(),
     author: z.enum(['Jarek']).default('Jarek'),
     draft: z.boolean().default(false),
+    imageUrl: z.string().optional(),
   }),
 });
 

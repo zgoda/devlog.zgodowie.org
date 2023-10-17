@@ -7,6 +7,7 @@ tags:
     - peewee
     - sqlite
 description: Modyfikacja istniejącej struktury jest szczególnie trudna wtedy, gdy trzeba dodać kolumnę, która podlega ograniczeniom. Czsem trzeba naprawdę dużo kombinować.
+imageUrl: https://i.imgur.com/LHaFk4Dh.jpg
 ---
 
 Potrzebowałem dodać do jednej tabelki kolumnę, która byłaby nie dość że niepusta, to jeszcze unikalna. Piorunująca mieszanka, szczególnie gdy obiektem operacji jest SQLite, którego zasób DDL jest bardziej niż skromny. No ale od czego _kiepełe_.

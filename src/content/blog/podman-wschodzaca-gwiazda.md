@@ -8,6 +8,7 @@ tags:
     - docker
     - podman
 description: W półświatku kontenerów rządzi jak na razie Docker, ale Podman w wersji 2.1 jest już dla niego poważną konkurencją.
+imageUrl: https://i.imgur.com/yybNouzh.jpg
 ---
 
 Uruchamianie aplikacji w kontenerach to od jakiegoś czasu standard, do czego walnie przyczyniła się stabilizacja systemów zarządzania grupami kontenerów (tzw _orkiestracji_) i w efekcie przyjęcie ich do powszechnie dostępnej oferty dostawców usług chmurowych. A jednocześnie dopiero całkiem niedawno do mainstreamu dołączył pierwszy konkurent dla Dockera, którego można nazwać _frontendem_ i interfejsem użytkownika systemu kontenerowego, który każdy ma dostarczony wraz z kernelem. No, każdy kto używa Linuksa, ale zakładam że wszyscy jesteśmy dorośli.

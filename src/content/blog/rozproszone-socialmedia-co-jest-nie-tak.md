@@ -7,6 +7,7 @@ tags:
     - socialmedia
     - distributed
 description: Po porażce z ActivityPub przejrzałem inne dostępne opcje. Wszędzie czegoś brakuje, i wszędzie tego samego.
+imageUrl: https://i.imgur.com/hT3LZJQh.jpg
 ---
 
 Wiele osób uświadomiło sobie niedawno, jak wielką władzę nad wolnością wypowiedzi posiadają _niewybieralne_ encje, takie jak Twitter, Google, Apple czy Amazon. Proponowanym przez niektórych rozwiązaniem jest _rozproszenie_ platform publikacji tak, by uwolnić się spod władzy gigantów tego świata. Idea fantastyczna, ale co się z tym wiąże?

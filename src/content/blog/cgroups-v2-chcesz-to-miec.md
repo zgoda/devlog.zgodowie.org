@@ -7,6 +7,7 @@ tags:
     - linux
     - podman
 description: Jak wiadomo, "wersja 2" jest zawsze lepsza od "wersji 1", tak też jest z control groups w linuksie. A co konkretnie jest lepsze?
+imageUrl: https://i.imgur.com/qBHFvDrh.jpg
 ---
 
 Jeżeli używasz Fedory 31 lub nowszej, to bardzo możliwe, że cgroups V2 są twoją codziennością. F31 to była pierwsza dystrybucja Linuksa, w której cgroups domyślnie są w wersji 2, a nie 1. O ile nic nie zmuszało cię do używania Dockera, to raczej nadal masz cgroups V2, ale jak ktoś jest ciekawy co to takiego, to nie zaszkodzi przeczytać.

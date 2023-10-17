@@ -10,6 +10,7 @@ tags:
     - pcp
     - javascript
     - preact
+imageUrl: https://i.imgur.com/rOCPghOh.jpg
 ---
 
 Plan był taki, żeby formularz wprowadzania i modyfikacji danych warki był _reaktywny_. Po kilku dniach walki z tematem doszedłem do wniosku, że jest to nierealne.

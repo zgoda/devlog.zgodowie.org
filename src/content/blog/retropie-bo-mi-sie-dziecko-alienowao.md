@@ -26,15 +26,15 @@ Opcjonalne w zależności od konfiguracji:
 
 Jak już to wszystko mamy, to możemy robić. Zajmie to parę godzin wszystkiego.
 
-### RetroPie
+## RetroPie
 
 Obraz RetroPie [pobieramy ze strony projektu](https://github.com/RetroPie/RetroPie-Setup/releases), to będzie ten którego nazwa kończy się na `rpi2.img.gz`. Następnie obraz ten trzeba rozpakować i nagrać w standardowy sposób na kartę SD. Wkładamy kartę do RPi, podłączamy pada do USB, bootujemy naszą zabawkę i zaczynamy konfigurowanko jak zwykle z RPi (z podłączonego klawikordu i na telewizorze, albo po ludzku, po zalogowaniu przez SSH), czyli najpierw używając skryptu raspi-config rozciągamy system plików na całą kartę, reboot, pełna aktualizacja systemu, być może reboot jak trzeba, doprowadzić system do wygodnej obsługi (np. wrzucić swoje klucze SSH, zmienić hasło użytkownika pi, wrzucić tam swoje _dotfiles_, wybrać wygodny edytor, itd, itp) i co tam kto lubi. W tej chwili powinniśmy już mieć działające EmulationStation, jakkolwiek całkiem gołe. Teraz wypadałoby skonfigurować pada, albo nawet i dwa pady, bo obsługa EmulationStation jest przystosowana do użycia właśnie pada.
 
-### ROM-y
+## ROM-y
 
 ROM-y skąd brać to każdy wie - z własnej kolekcji oryginalnych gier. Jako szczęśliwy były posiadacz PSX miałem coś tam pochowane po kątach, jakiś Tekken się znalazł, X-COM czy Final Fantasy. Używając legalnego oprogramowania z płyt CD zrobiłem komplety plików BIN/CUE, które to są znacznie lepiej obsługiwane przez RetroArch niż zwykłe ISO. Na początek postanowiłem użyć najprostszej metody transferu ROM-ów, czyli przez [pendrive z użyciem automatu](https://github.com/RetroPie/RetroPie-Setup/wiki/Transferring-Roms#usb) (działa literalnie jak jest w instrukcji, nie mam nic do dodania). Po wrzuceniu moich 3 szczęśliwie posiadanych gier okazało się, że karta SD 8GB to może być ciut za mało jak się chce obgrywać PSX, bo ROM-y mają po 500-650MB. Ale na razie ruszyło, tylko po restarcie EmulationStation nic się nowego w menu nie pojawiło.
 
-### Silnik emulatora do PSX
+## Silnik emulatora do PSX
 
 Zacznijmy od tego, że będzie potrzebny [BIOS konsoli](https://github.com/RetroPie/RetroPie-Setup/wiki/Playstation-1#bios). Skąd go wziąć? HGW, jak ktoś ma PSX pewnie może go jakoś z niej wydobyć. Jako legalny posiadacz postanowiłem skorzystać z dorodziejstw torrentów i sobie ściągnąć backup. Moja konsola od jakiegoś czasu jest już trupem, więc to było jedyne rozwiązanie, które nie wymagało wielkiej gimnastyki.
 
@@ -54,7 +54,7 @@ i następnie "pcsx-rearmed":
 
 Skrypt zadba o to, by wszystkie potrzebne do kompilacji pakiety zostały zainstalowane, następnie ściągnie sobie kod źródłowy, skompiluje go i wrzuci gdzie trzeba. Teraz wystarczy zrestartować EmulationStation i można grać.
 
-### Ale to słabo wygląda
+## Ale to słabo wygląda
 
 No słabo wygląda, bo na liście gier mamy np. 4x Tekken 2 i 14x X-COM. Dzieje się tak dlatego, że ES (EmulationStation, tak to teraz będę oznaczał) listuje wszystkie pliki w katalogu o dopuszczalnych rozszerzeniach dla silnika, czyli [w przypadku PSX i ROM-ów w postaci zbiorów BIN/CUE co najmniej 2x dla każdej gry](https://github.com/RetroPie/RetroPie-Setup/wiki/Playstation-1). Jest to trochę głupie, bo próba odpalenia gry z pliku BIN się nie powiedzie, zadziała to tylko dla plików CUE. Co trzeba zrobić? Ano, trzeba zmienić listę dopuszczalnych rozszerzeń w konfiguracji emulatora (w żargonie ES nasywa się to "system"). W tym celu kopiujemy sobie plik konfiguracyjny do siebie:
 

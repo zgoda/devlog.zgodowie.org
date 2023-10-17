@@ -1,10 +1,16 @@
 ---
+import OldPostWarning from '../components/OldPostWarning.astro';
 import BaseLayout from './BaseLayout.astro';
 
 const { frontmatter } = Astro.props;
+
+const isOld =
+  (new Date().getTime() - frontmatter.pubDate.getTime()) * 1000 * 60 * 60 * 24 > 720;
 ---
 
 <BaseLayout pageTitle={frontmatter.title}>
+  <slot name="head" slot="head" />
+  {isOld ? <OldPostWarning /> : ''}
   <p>Autor: {frontmatter.author}</p>
   <p>Data publikacji: {frontmatter.pubDate.toLocaleDateString('pl-PL')}</p>
   <div class="tags">

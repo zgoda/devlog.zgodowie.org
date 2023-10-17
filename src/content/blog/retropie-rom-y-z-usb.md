@@ -11,7 +11,7 @@ description: Czujny reboot i można grać.
 
 Po wrzuceniu kilku ROM-ów na PSX okazało się, że karta SD z której bootuje się system jest za mała na to, żeby je tam trzymać. Inne opcje jakie przyszły mi do głowy to trzymać je na pendrive albo zamontować katalog z NAS po Sambie. W pomieszczeniu gdzie stoi telewizor WiFi działa co najwyżej jako-tako (nikt nie pomyślał o kablaturze podczas budowy...), więc na początek pójdzie 8GB pendrive. Powinno wystarczyć na parę dni.
 
-### Albo rybka, albo pipka
+## Albo rybka, albo pipka
 
 RetroPie ma bardzo fajny ficzer [automatycznego transferu ROM-ów po podłączeniu storage do USB](https://github.com/RetroPie/RetroPie-Setup/wiki/Transferring-Roms#usb). Jakkolwiek bardzo miłe i user friendly, to zupełnie nie będzie przydatne w momencie, gdy będziemy tam trzymać ROM-y. W końcu jak będziemy chcieli sobie coś tam wgrać, to i tak trzeba będzie wyjąć pendrive i włożyć go ponownie. Zaczynamy więc od wyłączenia tego wodotrysku, odpalamy `retropie_setup.sh` i na ekranie głównym wybieramy "Setup / configuration", a następnie "USB ROM Service":
 
@@ -23,7 +23,7 @@ i dalej "Disable USB ROM Service":
 
 Wydaje mi się, że należałoby teraz zrestartować RPi, ale nie jestem pewien, YMMV. W każdym razie nie zaszkodzi.
 
-### Move your precious assets
+## Move your precious assets
 
 ```shell
 cp -r /home/pi/RetroPie/roms/* /media/usb/

@@ -7,6 +7,7 @@ tags:
     - personal
     - rower
 description: 'Po 2,5 roku leżenia odłogiem postanowiłem przywrócić do życia Devlog. Jeszcze nie do końca wiem co z nim zrobię, ale przez ten czas trochę się w moim życiu zmieniło, więc również strona będzie miała nieco inną tematykę, choć wciąż jakoś związaną z branżą w której pracuję - oraz z moimi hobby. Na pewno w pewnej mierze będzie polem do eksperymentów.'
+imageUrl: https://i.imgur.com/UyhIWexh.jpg
 ---
 
 Po 2,5 roku _leżenia odłogiem_ postanowiłem przywrócić do życia Devlog. Jeszcze nie do końca wiem co z nim zrobię, ale przez ten czas trochę się w moim życiu zmieniło, więc również strona będzie miała nieco inną tematykę, choć wciąż jakoś związaną z branżą w której pracuję &mdash; oraz z moimi hobby. Na pewno w pewnej mierze będzie polem do eksperymentów.
@@ -19,7 +20,7 @@ Dla ustalenia kontekstu, w kwietniu 2021 roku jeszcze mieliśmy pandemię SARS-C
 
 Przestałem gotować piwo. Po wyprowadzce z obszernego domu na wsi nie chciało mi się już wracać do gotowania w ciasnej kuchni w bloku i fermentowania po partyzancku w dziwnych temperaturach, licząc po cichu na to, że _drożdże sobie poradzą_. Wynika to również z tego, że przestałem pić piwo. Nie żeby mi ono przestało smakować, co to to nie, po prostu mi się już nie chce, bliższe moim upodobaniom stało się wino, a następnie z powodów zdrowotnych postanowiłem też ograniczyć spożycie alkoholu do minimum.
 
-Wyprowadzka nastąpiła z powodu znaczących zmian w życiu osobistym, z których również w konsekwencji wynikło to, że później związałem się z inną partnerką. Przeprowadziłem się do miasta na obrzeżach Warszawy i zamieszkałem w niezbyt dużym, za to bardzo wygodnym mieszkanku na jednym ze starszych osiedli. Mam przytulną sypialnię, praktycznie urządzoną kuchnię i prawie pusty pokój dzienny, w którym najczęściej tylko suszy się pranie i stoją stojaki na rowery.
+Wyprowadzka nastąpiła z powodu znaczących zmian w życiu osobistym. Przeprowadziłem się do miasta na obrzeżach Warszawy i zamieszkałem w niezbyt dużym, za to bardzo wygodnym mieszkanku na jednym ze starszych osiedli. Mam przytulną sypialnię, praktycznie urządzoną kuchnię i prawie pusty pokój dzienny, w którym najczęściej tylko suszy się pranie i stoją stojaki na rowery.
 
 Stojaki na rowery pojawiły się w pokoju wtedy, gdy stałem się właścicielem drugiego roweru. Pierwszy z moich rowerów kupiłem sobie wczesną wiosną 2022 roku, żeby szybciej pokonywać nieco ponad kilometrową trasę między mieszkaniami moim i mojej partnerki. Tak bardzo mi się spodobał _rowering_, że po roku zakupiłem drugi rower - _siutrówkę_ Romet Boreas 2 na osprzęcie Shimano GRX400, po po kolejnych kilku miesiącach kolejny, który ma mi od przyszłego sezonu służyć do _sakwiarstwa_, którego jednym z elementów ma być wyprawa do Portugalii, by przejechać [trasą Euro Velo 1](https://en.eurovelo.com/ev1/portugal) odcinek z Lizbony do Porto, a następnie z Porto do św. Antoniego z Compostelli tzw _drogą portugalską nadmorską_. _Szportowo_ się zrobiło.
 

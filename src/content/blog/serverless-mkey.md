@@ -7,6 +7,7 @@ tags:
     - rant
 author: Jarek
 description: Serverless, serverless, serverless!
+imageUrl: https://i.imgur.com/1MER1b7h.jpg
 ---
 
 Serverless, serverless, serverless!

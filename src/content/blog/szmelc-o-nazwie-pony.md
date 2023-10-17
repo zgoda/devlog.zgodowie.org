@@ -6,6 +6,7 @@ tags:
     - rant
 author: Jarek
 description: 'Jak się okazuje może się wysypać wszystko i na bardzo wiele sposobów.'
+imageUrl: https://i.imgur.com/nOuH9Wyh.jpg
 ---
 
 Czasem do różnych małych projektów w Pythonie typu demo czy w ogóle do nauki potrzebuję małego ORM, który jest stosunkowo prosty do ustawienia i nie wchodzi zbytnio w drogę. To znaczy nie wymaga pisania setek linii kodu tylko po to, żeby połączyć się do bazy. Jak zobaczyłem [Pony](https://ponyorm.org/) to mi się oczy zaświeciły, bo to mogło być właśnie to.

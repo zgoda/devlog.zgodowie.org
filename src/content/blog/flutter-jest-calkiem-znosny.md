@@ -10,6 +10,7 @@ tags:
     - androidstudio
     - vscode
 description: Do aplikacji mobilnych podchodziłem do tej pory jak do jeża, a zniechęcały mnie w jednakowym stopniu i Java, i Kotlin. Flutter w tej dziedzinie wiele zmienił.
+imageUrl: https://i.imgur.com/8M1oP64h.jpg
 ---
 
 Bliższe zapoznanie się z zagadnieniem pisania aplikacji na telefony chodziło za mną od bardzo dawna. Niby wszystko miało pasować - mam telefon do sprawdzenia jak działa (i ostatecznie pochwalenia się), znam Javę, mam na czym odpalić Android Studio. A jednak coś mnie cały czas w tym odpychało. To pewnie ta Java i jej bękart, Kotlin.

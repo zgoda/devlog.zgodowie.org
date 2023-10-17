@@ -7,6 +7,7 @@ tags:
     - fts
     - lingwistyka
 description: Po prawie 15 latach powracam do tematu wyszukiwania pełnotekstowego w języku polskim. Przyjrzę się ponownie narzędziom i opcjom dostępnym w 2020 roku, a także spróbuję sformułować jakieś podpowiedzi, co w tej dziedzinie może zrobić programista w Pythonie chcący dołączyć do swojej aplikacji wyszukiwanie pełnotekstowe.
+imageUrl: https://i.imgur.com/zRkHH3Ah.jpg
 ---
 
 Tego że język polski jest _trudny od strony programistycznej_ można się domyślić nawet nie dotykając dziedziny lingwistyki obliczeniowej. Jak bardzo jest on trudny może świadczyć wyjątkowo uboga oferta narzędzi językowych dla różnych silników wyszukiwania pełnotekstowego.

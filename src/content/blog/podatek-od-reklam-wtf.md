@@ -7,6 +7,7 @@ tags:
     - podatki
     - cieciarp
 description: Wczoraj miał miejsce protest "mediów niezamężnych" związany z wprowadzeniem "składki" liczonej od przychodu z reklam. Spójrzmy na liczby.
+imageUrl: https://i.imgur.com/YiuHzLCh.jpg
 ---
 
 Konieczność płacenia nowych podatków (nawet gdy się je nazwie "składką") to przykra sytuacja. Dogmatyczni libertarianie powiedzą, że nakładanie jakichkolwiek podatków jest złem samym w sobie, niezależnie od deklarowanego przeznaczenia spodziewanych dochodów, ale jak się przyjrzeć światu to raczej nikt się tymi opiniami za bardzo nie przejmuje - od niepamiętnych czasów władcy nakładają na poddanych podatki, pomimo głosów oburzenia ludu oraz zaleceń administracji finansowej. Można dyskutować, czy cele tych zbiórek były szczytne lub haniebne, ale w przytłaczającej liczbie przypadków nowe daniny mają uzasadnienie, choćby _deklaratywne_. Przykładem takiego _dobrego uzasadnienia_ była np w przypadku brytyjskiego podatku piwnego w połowie XIX wieku konieczność finansowania prowadzenia [wojny krymskiej](https://pl.wikipedia.org/wiki/Wojna_krymska) - rząd uznał to za żywotny interes państwa, co zostało potwierdzone przez parlament i od tej pory w Wielkiej Brytanii na piwo, oprócz zwykłych podatków, nakładane jest _beer duty_.

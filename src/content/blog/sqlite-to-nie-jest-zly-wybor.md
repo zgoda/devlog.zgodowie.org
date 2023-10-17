@@ -8,6 +8,7 @@ tags:
     - orm
 author: Jarek
 description: Mała baza, a całkiem dobrze sobie radzi w niektórych przypadkach. Mowa oczywiście o SQLite.
+imageUrl: https://i.imgur.com/HPG4qlBh.jpg
 ---
 
 Powszechnie uważa się, że SQLite to jest baza która nie nadaje się do użycia w aplikacji webowej, w każdym razie nie na etapie produkcji. Rzeczywiście, w wielu przypadkach (większości?) się nie sprawdzi z powodu ograniczeń jakie narzuca w kontekście współbieżnego dostępu, ale są pewne warunki, w których to nie ma żadnego znaczenia i wtedy SQLite sprawdza się doskonale.

@@ -10,6 +10,7 @@ tags:
     - projekty
     - pcp
 description: Lata mijają, a jeden projekt cały czas u mnie wisi
+imageUrl: https://i.imgur.com/XdKY5Uph.jpg
 ---
 
 Dziś poszedł pierwszy commit do gałęzi `v3` najstarszego mojego projektu. Długa droga do kolejnego kamienia milowego właśnie się rozpoczęła.

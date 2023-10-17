@@ -7,6 +7,7 @@ tags:
     - tagbylo
     - praca
 description: 'Był początek roku 2014.'
+imageUrl: https://i.imgur.com/gLpAfHOh.jpg
 ---
 
 Całkiem niedawno temu na pewnej fejsbókowej grupie pojawił się link do [pewnego artykułu](https://danluu.com/wat/) na temat _dewiacji_ w środowiskach IT, który po przeczytaniu zainspirował mnie do opisania historii z _najbardziej zjebanej firmy w której przyszło mi pracować_. Nie było to wcale tak dawno temu, a cała historia też nie jest bardzo długa, bo i krótko tam pracowałem.

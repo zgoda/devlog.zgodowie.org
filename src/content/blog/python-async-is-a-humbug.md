@@ -7,6 +7,7 @@ tags:
     - rant
 author: Jarek
 description: Ponownie zanurkowałem w rzeczywistość programowania asynchronicznego w Pythonie i prawdopodobnie wkrótce znowu wycofam się z uczuciem obrzydzenia.
+imageUrl: https://i.imgur.com/pRx9fWgh.jpg
 ---
 
 Ponownie zanurkowałem w rzeczywistość programowania asynchronicznego w Pythonie i prawdopodobnie wkrótce znowu wycofam się z uczuciem obrzydzenia.
