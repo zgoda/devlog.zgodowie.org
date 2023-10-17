@@ -8,3 +8,9 @@ const { post } = Astro.props;
 <meta property="og:description" content={post.data.description} />
 <meta property="og:image" content={post.data.imageUrl} />
 <meta property="og:url" content={canonicalURL} />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@JarekZgoda" />
+<meta name="twitter:title" content={post.data.title} />
+<meta name="twitter:description" content={post.data.description} />
+<meta name="twitter:image" content={post.data.imageUrl} />
