@@ -7,6 +7,7 @@ tags:
     - python
     - activitypub
 description: Domyślacie się już co będzie robione na Devlogu? Chodzi w skrócie o to, żeby mieć gdzie zapisywać krótkie notatki, jedno zdanie, może dwa. Czasem krótkie nagranie głosowe.
+isTechRelated: true
 ---
 
 Domyślacie się już co będzie robione na Devlogu? Chodzi w skrócie o to, żeby mieć gdzie zapisywać krótkie notatki, jedno zdanie, może dwa. Czasem krótkie nagranie głosowe.

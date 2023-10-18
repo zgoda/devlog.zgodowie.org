@@ -8,6 +8,7 @@ tags:
     - projekty
     - pcp
 description: Aktualizacja statusu projektu aplikacji BIP, wersja 0.6.2
+isTechRelated: true
 ---
 
 Dzisiaj [BIP](https://github.com/zgoda/bip) zyskał numerek wersji [0.6.2](https://pypi.org/project/biuletyn-bip/0.6.2/). W dalszym ciągu trwają prace nad wersją 0.7. A co nowego tam przyszło od _feature complete_, czyli od wersji 0.6.0?

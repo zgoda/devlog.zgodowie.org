@@ -8,6 +8,7 @@ tags:
     - podman
 description: Buildah jest fajnym narzędziem, ale jeszcze trochę mu brakuje, żeby używać go do wszystkiego.
 imageUrl: https://i.imgur.com/Z1RUvuEh.jpg
+isTechRelated: true
 ---
 
 Z mojego niedawnego tekstu o [Buildah](https://github.com/containers/buildah) można odnieść wrażenie, że jest to cudowne narzędzie, które uwolni ludzkość od wszelkich trosk i rozwiąże najbardziej palące problemy współczesnego świata. Tak oczywiście nie jest, Buildah jest stosunkowo nowym wynalazkiem i do dojrzałości jest jeszcze przed nim długa droga. Krytycznym okiem spróbuję spojrzeć na to, czego brakuje.

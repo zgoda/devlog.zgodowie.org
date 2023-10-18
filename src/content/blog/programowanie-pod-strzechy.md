@@ -9,6 +9,7 @@ tags:
     - mcu
 author: Jarek
 description: Dwa projekty, jeden cel
+isTechRelated: true
 ---
 
 Obietnice były wielkie, a efekty? Czy mamy to czego chcieliśmy?

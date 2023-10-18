@@ -8,6 +8,7 @@ tags:
     - jsx
 description: Nie jest to może szczególnie trudne, ale ręczne złożenie do kupy rzeczy, które normalnie robi jakiś skrypt (w dodatku napisany w javascripcie) nie zawsze jest trywialne. Jak np. transpilowanie JSX przez Rollup.
 imageUrl: https://i.imgur.com/VyTzB36h.jpg
+isTechRelated: true
 ---
 
 Decydując się na _dodanie reaktywności_ do Brewlogu v3 ustaliłem sobie bardzo prosty zestaw narzędzi - [Preact](https://preactjs.com/) + [HTM](https://github.com/developit/htm). Wydawało mi się to całkiem rozsądne, że w procesie obróbki Javascriptu nie występuje etap przetłumaczania czegoś dziwnego na Javascript. Powiedzmy sobie jednak szczerze, jest to umartwienie.

@@ -8,6 +8,7 @@ tags:
     - activitypub
 description: Postanowiłem jednak zrobić kawałek ActivityPub w Devlogu. Potem może następny i następny, ale powoli i bez pośpiechu, w dodatku traktując AP jako ramówkę, a nie specyfikację protokołu.
 imageUrl: https://i.imgur.com/FHT1ChNh.jpg
+isTechRelated: true
 ---
 
 Postanowiłem jednak zrobić kawałek [ActivityPub](https://www.w3.org/TR/activitypub/) w Devlogu. Potem może następny i następny, ale powoli i bez pośpiechu, w dodatku traktując AP jako _ramówkę_, a nie specyfikację protokołu.

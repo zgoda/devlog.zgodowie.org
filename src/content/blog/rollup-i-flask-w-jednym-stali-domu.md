@@ -10,6 +10,7 @@ tags:
     - es6
 description: Javascript na froncie i Flask na backu to są dwa światy, które pożenić nie jest ze sobą prosto. Oto dalszy ciąg moich przygód z Rollupem.
 imageUrl: https://i.imgur.com/PBUc7tIh.jpg
+isTechRelated: true
 ---
 
 Ostatnio spróbowałem zaprząc Webassets do tego, by wyprodukowały mi _bundle_ z kodem w JS tak, bym mógł go zaimportować. To się udało, ale szybko się okazało, że efekt jest daleki od zadowalającego - i to pomimo że działa.

@@ -7,6 +7,7 @@ tags:
     - linux
 author: Jarek
 description: Dziecko moje najdroższe alienowało mi się siedząc przed komputerem w swoim pokoju. Teraz się alienuje w salonie.
+isTechRelated: true
 ---
 
 Dziecko moje najdroższe alienowało mi się siedząc przed komputerem w swoim pokoju. Nie żebym jej zabraniał, ale skoro ma grać, to niech gra przy nas, w salonie. Przynajmniej będziemy wiedzieli w co gra.

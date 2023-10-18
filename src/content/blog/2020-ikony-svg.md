@@ -8,6 +8,7 @@ tags:
 pubDate: 2020-07-14T20:55:00
 description: 'Mamy rok 2020, czas zerwać z nawykami z poprzedniej dekady i wreszcie przestać używać krojów czcionek z ikonami, to jest epoka nowoczesna i właściwym formatem do wyświetlania ikon na WWW jest SVG!'
 imageUrl: https://i.imgur.com/xcU7UQIh.jpg
+isTechRelated: true
 ---
 
 Mamy rok 2020, czas zerwać z nawykami z poprzedniej dekady i wreszcie przestać używać krojów czcionek z ikonami, to jest epoka nowoczesna i właściwym formatem do wyświetlania ikon na WWW jest SVG!

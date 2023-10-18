@@ -10,6 +10,7 @@ tags:
     - pcp
     - flask
 imageUrl: https://i.imgur.com/hFTqgoHh.jpg
+isTechRelated: true
 ---
 
 W Brewlogu v3 zrezygnowałem z obsługi wielu języków. Działała ona dobrze, ale zwiększający się udział Javascriptu w aplikacji postawił pod znakiem zapytania integralność rozwiązania opartego na biliotece [Babel](https://github.com/python-babel/babel), dostosowanej tylko dla Pythona.

@@ -6,6 +6,7 @@ tags:
     - flutter
     - troubleshooting
 description: My Flutter broke and I am broken too! Czyli jak naprawić zepsute środowisko programistyczne i uruchomieniowe Fluttera.
+isTechRelated: true
 ---
 
 Coś się... Coś się popsuło i mi Flutter przestał działać. Sypie jakimiś błędami i w ogóle nie wiadomo o co chodzi.

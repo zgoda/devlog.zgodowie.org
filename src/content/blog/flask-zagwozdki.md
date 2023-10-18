@@ -7,6 +7,7 @@ tags:
     - programowanie
     - gotchas
 description: Flask, jakkolwiek fajny, ma również swoje idiosynkrazje. Czasem nie działa do końca tak, jakby się człowiek spodziewał, choć zwykle trudno mówić o błędzie.
+isTechRelated: true
 ---
 
 [Flask](https://palletsprojects.com/p/flask/), jakkolwiek fajny, ma również swoje idiosynkrazje. Czasem nie działa do końca tak, jakby się człowiek spodziewał, choć zwykle trudno mówić o błędzie. Ot, takie _zagwozdki_ i _dziwactwa_, a najczęściej sami do tego doprowadziliśmy.

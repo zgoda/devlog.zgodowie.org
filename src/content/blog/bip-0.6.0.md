@@ -11,6 +11,7 @@ tags:
     - pcp
 description: Robienie oprogramowania open source to nie jest łatwy kawalek chleba, w szczególności gdy nie ma na nie zapotrzebowania.
 imageUrl: https://i.imgur.com/qjNTKpCh.jpg
+isTechRelated: true
 ---
 
 10 miesięcy spędziłem nad tą aplikacją. W tym czasie jej potrzeba okazała się być znacznie mniej palącą, a wręcz przestała być potrzebna _w wymiarze osobistym_. A jednak doprowadziłem ją do stanu _feature complete_.

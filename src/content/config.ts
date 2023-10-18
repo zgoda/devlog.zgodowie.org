@@ -10,6 +10,7 @@ const blog = defineCollection({
     author: z.enum(['Jarek']).default('Jarek'),
     draft: z.boolean().default(false),
     imageUrl: z.string().optional(),
+    isTechRelated: z.boolean().default(false),
   }),
 });
 

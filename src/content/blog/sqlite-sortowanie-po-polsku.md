@@ -8,6 +8,7 @@ tags:
     - polski
 description: Większe bazy mają lepiej, ale ta mała wymaga specjalnego traktowania by "ą" posortowało się przed "b"
 imageUrl: https://i.imgur.com/ZapY7cDh.jpg
+isTechRelated: true
 ---
 
 O tym że język polski daje nam Polakom w kość wie każdy, kto spróbował skończyć szkołę podstawową. Niestety, potem, w dorosłym życiu zbieramy baty, o których się lingwistom nie śniło. A wszystko przez te nasze krzaczki.

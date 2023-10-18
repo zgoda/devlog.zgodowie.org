@@ -6,6 +6,7 @@ tags:
     - preact
 author: Jarek
 description: Próbuję pożenić Pythona z Preactem.
+isTechRelated: true
 ---
 
 Czas zabrać się do roboty.

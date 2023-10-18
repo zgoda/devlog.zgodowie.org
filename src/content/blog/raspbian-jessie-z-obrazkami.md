@@ -7,6 +7,7 @@ tags:
     - linux
 author: Jarek
 description: Jak to teraz odpalić na moim starym RPi?
+isTechRelated: true
 ---
 
 Wymyśliłem sobie jedno zastosowanie w domu dla starego RPi B (bez plusa, 26-pin GPIO, 900MHz single core i 512MB RAM). Do tego jednak potrzebowałem jakiegoś wyświetlacza z panelem dotykowym. Przypadkiem wpadł mi w ręce taki jeden, 4 calowy, całkiem popularny. Okazja była, to wziąłem. No to jak to teraz odpalić na moim RPi?

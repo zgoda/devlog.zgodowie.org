@@ -8,6 +8,7 @@ tags:
     - podman
 description: Buildah może dziwnie się nazywa, ale jest bardzo wygodnym narzędziem do budowania obrazów kontenerów na Linuksie.
 imageUrl: https://i.imgur.com/LbPDzfmh.jpg
+isTechRelated: true
 ---
 
 Niedawno napisałem parę ciepłych słów o programie [Podman](https://github.com/containers/podman) wyrażając nadzieję, że zyska na popularności. Dziś będzie o towarzyszącym mu programie [Buildah](https://github.com/containers/buildah), który służy do budowania obrazów kontenerów. Jest on wykorzystywany wewnętrznie w poleceniu `podman build`, ale jego samodzielne użycie bardzo się różni od tego, do czego przyzwyczaił nas Docker, a co również oferuje Podman w ramach utrzymywania zgodności z Dockerem.

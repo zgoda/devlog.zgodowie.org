@@ -7,6 +7,7 @@ tags:
 author: Jarek
 description: Wszyscy jarają się prędkością (i to normalne), w tym również który ORM w Pythonie jest najszybszy, ale ja postanowiłem spojrzeć na co innego. Jak pożerają pamięć różne biblioteki ORM w Pythonie?
 imageUrl: https://i.imgur.com/vLanTTNh.jpg
+isTechRelated: true
 ---
 
 Wszyscy jarają się prędkością (i to normalne), w tym również który ORM w Pythonie jest najszybszy, ale ja postanowiłem spojrzeć na co innego. Jak pożerają pamięć różne biblioteki ORM w Pythonie?

@@ -11,6 +11,7 @@ tags:
     - pcp
 description: Zrobiłem jedną z ostatnich rzeczy związanych z programowaniem w moim projekcie BIP, teraz już zostały same nieprzyjemności do obskoczenia. A może nie takie znowu nieprzyjemności?
 imageUrl: https://i.imgur.com/RiKjtNXh.jpg
+isTechRelated: true
 ---
 
 [BIP](https://pypi.org/project/biuletyn-bip/) wreszcie jako tako wygląda na telefonach. Myślę że jest jeszcze kilka rzeczy do poprawienia w tym kontekście, ale to już chyba będzie wymagało współpracy kogoś bardziej kompetentnego ode mnie.

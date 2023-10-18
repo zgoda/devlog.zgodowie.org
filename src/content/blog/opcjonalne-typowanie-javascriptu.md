@@ -8,6 +8,7 @@ tags:
     - typing
 description: Od wersji 3.6 Python ma opcjonalne deklaracje typów, z każdą wersją coraz lepsze. A co tam panie z Javascriptem?
 imageUrl: https://i.imgur.com/SmjCO9kh.jpg
+isTechRelated: true
 ---
 
 Zacznijmy w ogóle od tego, że obowiązkowe deklarowanie typów w językach typowanych dynamicznie to jest nieporozumienie, dlatego abominacje takie jak TypeScript w ogóle mnie nie interesują - wzięli i zrobili z języka typowanego dynamicznie język typowany statycznie. Rozumiem po co to komu, ale zupełnie to nie ma przełożenia na to, czego ja szukam. A szukam czegoś takiego, jak jest w Pythonie - zadeklarujesz typy, to jest dobrze, nie zadeklarujesz to też jest dobrze. Takie "typowanie żeby pomóc edytorowi", ale w sumie nic więcej.

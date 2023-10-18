@@ -6,6 +6,7 @@ tags:
 author: Jarek
 description: 'Ping!'
 imageUrl: https://i.imgur.com/6scMUqQh.jpg
+isTechRelated: true
 ---
 
 Jest kilka sposobów, żeby w skrypcie instalacyjnym pakietu pobrać wersję w sposób bezpieczny. Niepełną listę takich możliwości można znaleźć np. [w jednym z dokumentów PyPA](https://packaging.python.org/guides/single-sourcing-package-version/) (proszę zauważyć, że ostatnia propozycja nie jest taka całkiem bezpieczna, o czym jest wspomniane w notce). Ale oczywiście to nie koniec.

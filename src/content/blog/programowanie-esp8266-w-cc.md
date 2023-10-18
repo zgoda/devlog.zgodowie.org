@@ -7,6 +7,7 @@ tags:
     - esp8266
 author: Jarek
 description: Pan Chińczyk zrobił, to się da oprogramować.
+isTechRelated: true
 ---
 
 ESP8266 powoli ustępuje miejsca swojemu następcy ESP32, ale jest to proces wyjątkowo powolny. Może to ceny tak samych chipów jak i płytek developerskich to powodują (niewiele jest gotowych modułów w cenie poniżej $10 z przesyłką), a może rozbudowany ekosystem bibliotek do ESP8266. W każdym razie ze starszym bratem ESP32 jeszcze długo będziemy mieć do czynienia, zwłaszcza że jest to wciąż jedna z najlepszych opcji jeżeli chodzi o mikrokontrolery.

@@ -7,6 +7,7 @@ tags:
 author: Jarek
 description: 'Z racji konieczności zawodowych musiałem pod koniec 2019 roku zapoznać się z kilkoma wiodącymi Javascriptowymi frameworkami UI. Doznałem przy tym niemałego zawrotu głowy.'
 imageUrl: https://i.imgur.com/L1j2unXh.jpg
+isTechRelated: true
 ---
 
 Z racji konieczności zawodowych musiałem pod koniec 2019 roku zapoznać się z kilkoma _wiodącymi_ Javascriptowymi frameworkami UI. Doznałem przy tym niemałego zawrotu głowy. Oraz deja vu, do czego dotrzemy za chwię.

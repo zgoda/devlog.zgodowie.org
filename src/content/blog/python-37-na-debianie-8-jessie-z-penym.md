@@ -9,6 +9,7 @@ tags:
     - python
 author: Jarek
 description: Dłubian
+isTechRelated: true
 ---
 
 Jakkolwiek wszyscy dobrze wiedzą, że Debian Jessie to jest staroć i w ogóle nikt go nie używa, to czasem jest potrzeba odpalić nowego Pythona (3.7 oraz nowszy) na takim archaicznym systemie. Problem jest taki, że ten stary Debian ma stare OpenSSL, z którym Python 3.7 nie gada. Nie ma rady, trzeba sobie zmielić nowe libssl i nowego Pythona.
