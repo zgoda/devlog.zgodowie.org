@@ -6,10 +6,21 @@ const { post } = Astro.props;
 
 <article>
   <header>
-    <h3>{post.data.title}</h3>
+    <h3><a href={`/posts/${post.slug}`}>{post.data.title}</a></h3>
     <h5>{post.data.pubDate.toLocaleDateString('pl-PL')}</h5>
     <p>Etykiety: {post.data.tags.sort().join(', ')}</p>
   </header>
-  <p>{post.data.description}</p>
+  <div class="post">
+    <div><img src={post.data.imageUrl} /></div>
+    <div><p>{post.data.description}</p></div>
+  </div>
   <footer>Czytaj: <PostLink post={post} /></footer>
 </article>
+
+<style>
+  .post {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 8px 8px;
+  }
+</style>
