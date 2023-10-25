@@ -6,6 +6,7 @@ tags:
     - rower
     - aliexpress
     - madeinchina
+    - decathlon
 imageUrl: https://i.imgur.com/0n8qbGbh.jpg
 description: Już pierwszy zakup spodenek i koszulek w Decathlonie zakończył się bólem portfela, a przez całą drogę ze sklepu do domu mój wewnętrzny Żyd łkał cichutko.
 ---
@@ -37,6 +38,8 @@ Jak to ze wszystkim, czasem jest, czasem nie jest. Trzeba uważnie oglądać ka�
 Nie mam za to materiału, żeby porównać jakość generycznych produktów chińskich do wyrobów marek uznanych producentów i patrząc na ceny zapewne nigdy nie będę miał, bo coś mnie powstrzymuje przed wydaniem 350 zł na koszulkę z krótkim rękawem, choćby nie wiadomo jak _premium brand_ to był (za 350 zł to będzie najniższa półka _premium brand_ lub produkt firmy _aspirującej_). Niektórzy ludzie mawiają, że lepiej jest mieć mniej za to lepszej jakości, ale jest jeszcze czynnik _przyzwoitości_. Dobra jakościowo odzież rowerowa nie musi być oszałamiająco droga, vide [produkty polskiej firmy Stanteks](https://www.stanteks.pl/kategoria-produktu/stroje-rowerowe-i-do-biegania/) (mam kilka różnych koszulek i spokojnie polecam, chociaż spodenek już raczej nie, a to z powodu marnej wkładki), jednak podobnych przypadków jest jak kot napłakał, więc albo jesteśmy skazani na _marki aspirujące_ oraz _premium brands_, albo znośne ciuchy w kolorze pogrzebowym z francuskiego marketu, albo... No właśnie. Import z Chin, kuszący, choć obarczony pewnym ryzykiem.
 
 Tanio i dobrze, tak ma być.
+
+Powyższe przemyślenia dotyczą **tylko** ciuchów i w mniejszym zakresie drobnych akcesoriów. Moje wcześniejsze doświadczenia z pochodzącą z Chin generyczną elektroniką każą mi zachować wyjątkowy dystans zarówno wobec prostych urządzeń, jak oświetlenie, jak i bardziej skomplikowanych, jak liczniki rowerowe, bo bardzo często zdarza się, że podawane parametry nijak się mają do rzeczywistości, co też widziałem niejednokrotnie w recenzjach np oświetlenia (deklarowany strumień świetlny i pojemność baterii). Do tego w licznikach dochodzą błędy arytmetyki w programach i mała dokładność lokalizacji GPS.
 
 Przy okazji, francuski market sportowy napisał mi, że dostawa mojego nowego roweru opóźni się o dodatkowy tydzień albo i więcej (z pierwotnych 13 dni). Poczułem się jak w roku 2021.
 
