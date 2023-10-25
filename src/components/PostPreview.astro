@@ -1,4 +1,5 @@
 ---
+import EmptyBlock from './EmptyBlock.astro';
 import PostLink from './PostLink.astro';
 
 const { post } = Astro.props;
@@ -11,7 +12,7 @@ const { post } = Astro.props;
     <p>Etykiety: {post.data.tags.sort().join(', ')}</p>
   </header>
   <div class="post">
-    <img src={post.data.imageUrl} />
+    {post.data.imageUrl ? <img src={post.data.imageUrl} /> : <EmptyBlock />}
     <p>{post.data.description}</p>
   </div>
   <footer>Czytaj: <PostLink post={post} /></footer>
