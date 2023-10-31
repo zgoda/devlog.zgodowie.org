@@ -1,18 +1,17 @@
 ---
 title: Projekt Triban
-pubDate: 2023-10-17T12:18:52+02:00
+pubDate: 2023-10-31T13:59:26+01:00
 tags:
     - rower
     - decathlon
     - projekt
 description: W ramach projektu zimowego kupiłem najtańszy sensowny rower szosowy z Decathlonu, Triban RC120 Disc. Po promocjach i zniżkach kosztował mnie 2500 zł i mając o nim sporo informacji postanowiłem zrobić z niego nosiciela sakw na przyszłe sezony.
-draft: true
-imageUrl: https://i.imgur.com/WDApauih.jpg
+imageUrl: https://i.imgur.com/4VdCmDoh.jpg
 ---
 
-W ramach _projektu zimowego_ kupiłem najtańszy **sensowny** rower szosowy z Decathlonu, [Triban RC120 Disc](https://www.decathlon.pl/p/rower-szosowy-triban-rc120-z-hamulcami-tarczowymi/_/R-p-302301). Po promocjach i zniżkach kosztował mnie 2500 zł i mając o nim sporo informacji postanowiłem zrobić z niego _nosiciela sakw_ i jednocześnie _szybką dojazdówkę_ na przyszłe sezony.
+W ramach _projektu zimowego_ kupiłem najtańszy **sensowny** rower szosowy z Decathlonu, [Triban RC120 Disc](https://www.decathlon.pl/p/rower-szosowy-triban-rc120-z-hamulcami-tarczowymi/_/R-p-302301). Po promocjach i zniżkach kosztował mnie 2500 zł i mając o nim sporo informacji postanowiłem zrobić z niego _szybką dojazdówkę_ na przyszłe sezony.
 
-![Triban RC120 Disc](https://i.imgur.com/WDApauih.jpg)
+![Triban RC120 Disc](https://i.imgur.com/4VdCmDoh.jpg)
 
 W recenzjach na świecie rower ten jest ogólnie bardzo chwalony, bo pomimo kilku kompromisów wynikających z ograniczeń budżetowych, dostarcza wszystkiego, czego się oczekuje od _pierwszej kolarki_, a nawet znacznie więcej, przy czym będąc [wdzięczną bazą do przeróbek](https://steffsworld.jimdo.com/bikesport/test-triban-rc-120-disc-en/). Ludzie najczęściej przerabiają je w kierunku _uterenowienia_ lub traktują je jako rowery do szybkich dojazdów w okolicach podmiejskich, zmieniając w nich głownie ogumienie i detale akcesoriów, ale nawet jako rower wykorzystywany typowo szosowo zbiera również [bardzo](https://www.bikeradar.com/reviews/bikes/road-bikes/triban-rc120-disc-review/) [dobre](https://velo.outsideonline.com/road/road-racing/field-test-2022-decathlon-triban-rc120-review/) [recenzje](https://road.cc/content/review/decathlon-triban-rc120-disc-road-bike-266488).
 
@@ -42,7 +41,7 @@ Co oczywiście nie znaczy, że RC120 GRVL jest słabą opcją - gdybym z moją o
 
 A mam taką jedną rzecz do objechania...
 
-Moim celem na rok 2025 jest przejechanie trasy z Lizbony do Santiago de Compostela, początkowo z Lizbony do Porto szlakiem [Euro Velo 1](https://euroveloportugal.com/en/), a następnie od Porto drogą [Camino Portugues da Costa](https://www.caminodesantiago.gal/en/make-plans/the-ways/portuguese-coastal-way). Kilka lat temu planowałem przejść pieszo odcinek z Porto do św. Jakuba na moje 50-te urodziny w 2021 roku, jednak los pokrzyżował te plany za pomocą pandemii SARS-CoV-2 i musiałem odłożyć to na później. Teraz powracam do rzeczy, których nie zrealizowałem, a jedną z nich jest pielgrzymka do św. Jakuba. Przyszły rok poświęcę na przygotowania, zbudowanie formy i skompletowanie wyposażenia (wielkie określenia na zwyczajny trening i _okołopodróżną logistykę_), tak by w drogę móc wyruszyć w kwietniu 2025 i do św. Jakuba dotrzeć w okolicy moich urodzin.
+Moim celem na rok 2025 jest przejechanie trasy z Lizbony do Santiago de Compostela, początkowo z Lizbony do Porto szlakiem [Euro Velo 1](https://euroveloportugal.com/en/), a następnie od Porto drogą [Camino Portugues da Costa](https://www.caminodesantiago.gal/en/make-plans/the-ways/portuguese-coastal-way). Kilka lat temu planowałem przejść pieszo odcinek z Porto do św. Jakuba z Compostela na moje 50-te urodziny w 2021 roku, jednak los pokrzyżował te plany za pomocą pandemii SARS-CoV-2 i musiałem odłożyć to na później. Teraz powracam do rzeczy, których nie zrealizowałem, a jedną z nich jest pielgrzymka do Santiago de Compostela. Przyszły rok poświęcę na przygotowania, zbudowanie formy i skompletowanie wyposażenia (wielkie określenia na zwyczajny trening, wymianę kół na mocniejsze i _okołopodróżną logistykę_), tak by w drogę móc wyruszyć w kwietniu 2025 i do Santiago dotrzeć w okolicy moich urodzin.
 
 No i przede wszystkim &mdash; dla funu.
 
