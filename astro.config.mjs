@@ -8,7 +8,4 @@ export default defineConfig({
       theme: 'nord',
     },
   },
-  redirects: {
-    '/posts': '/posts/1',
-  },
 });
