@@ -1,0 +1,31 @@
+---
+import type { Page } from 'astro';
+import Pagination from '@philnash/astro-pagination';
+import PostPreview from '../../components/PostPreview.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { loadAndFormatPostsCollection } from '../../lib/collection';
+
+interface Props {
+  page: Page;
+}
+
+export async function getStaticPaths({ paginate }) {
+  const allPosts: any[] = await loadAndFormatPostsCollection();
+  return paginate(allPosts, { pageSize: 5 });
+}
+
+const { page } = Astro.props;
+
+const pageTitle = `Artykuły w blogu, strona ${page.currentPage}`;
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <p>Chronologicznie posortowane wpisy w blogu.</p>
+  {page.data.map((post: any) => <PostPreview post={post} />)}
+  <Pagination
+    page={page}
+    urlPattern="/posts/{}"
+    previousLabel="« Poprzednia"
+    nextLabel="Następna »"
+  />
+</BaseLayout>
