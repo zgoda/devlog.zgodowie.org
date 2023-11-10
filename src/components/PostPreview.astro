@@ -7,7 +7,7 @@ const { post } = Astro.props;
 
 <article>
   <header>
-    <h3><a href={`/posts/${post.slug}`}>{post.data.title}</a></h3>
+    <h3><a href={`/posts/${post.slug}`} data-astro-prefetch>{post.data.title}</a></h3>
     <h5>{post.data.pubDate.toLocaleDateString('pl-PL')}</h5>
     <p>Etykiety: {post.data.tags.sort().join(', ')}</p>
   </header>

@@ -32,7 +32,9 @@ const pageTitle = 'Wszystkie etykiety';
     {
       tags.map((tag) => (
         <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
+          <a href={`/tags/${tag}`} data-astro-prefetch>
+            {tag}
+          </a>
         </p>
       ))
     }
