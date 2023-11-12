@@ -1,0 +1,14 @@
+---
+import EmptyBlock from './EmptyBlock.astro';
+import PostLink from './PostLink.astro';
+const { prevEntry, nextEntry } = Astro.props;
+---
+
+<div class="grid">
+  <div class="center">
+    {prevEntry.frontmatter != null ? <PostLink post={prevEntry} /> : <EmptyBlock />}
+  </div>
+  <div class="center">
+    {nextEntry.frontmatter != null ? <PostLink post={nextEntry} /> : <EmptyBlock />}
+  </div>
+</div>

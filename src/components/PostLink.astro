@@ -1,7 +1,9 @@
 ---
 const { post } = Astro.props;
+
+const linkTitle = `(${post.data.pubDate.toLocaleDateString('pl-PL')}) ${
+  post.data.title
+}`;
 ---
 
-<a href={`/posts/${post.slug}`} data-astro-prefetch>
-  ({post.data.pubDate.toLocaleDateString('pl-PL')}) {post.data.title}
-</a>
+<a href={`/posts/${post.slug}`} data-astro-prefetch> {linkTitle}</a>

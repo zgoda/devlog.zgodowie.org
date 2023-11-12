@@ -5,17 +5,26 @@ import { loadAndFormatPostsCollection } from '../../lib/collection';
 
 export async function getStaticPaths() {
   const blogEntries: any[] = await loadAndFormatPostsCollection();
-  return blogEntries.map((entry) => ({
+  return blogEntries.map((entry, i) => ({
     params: { slug: entry.slug },
-    props: { entry },
+    props: {
+      entry,
+      prevEntry:
+        blogEntries.length === i + 1 ? { frontmatter: null } : blogEntries[i + 1],
+      nextEntry: i === 0 ? { frontmatter: null } : blogEntries[i - 1],
+    },
   }));
 }
 
-const { entry } = Astro.props;
+const { entry, prevEntry, nextEntry } = Astro.props;
 const { Content } = await entry.render();
 ---
 
-<MarkdownPostLayout frontmatter={entry.data}>
+<MarkdownPostLayout
+  frontmatter={entry.data}
+  nextEntry={nextEntry}
+  prevEntry={prevEntry}
+>
   <OgHead post={entry} slot="head" />
   <Content />
 </MarkdownPostLayout>
