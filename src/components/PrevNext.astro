@@ -2,13 +2,27 @@
 import EmptyBlock from './EmptyBlock.astro';
 import PostLink from './PostLink.astro';
 const { prevEntry, nextEntry } = Astro.props;
+const prevTitle = prevEntry.id != null ? `« ${prevEntry.data.title}` : '';
+const nextTtile = nextEntry.id != null ? `${nextEntry.data.title} »` : '';
 ---
 
 <div class="grid">
   <div class="center">
-    {prevEntry.frontmatter != null ? <PostLink post={prevEntry} /> : <EmptyBlock />}
+    {
+      prevEntry.id != null ? (
+        <PostLink post={prevEntry} title={prevTitle} />
+      ) : (
+        <EmptyBlock />
+      )
+    }
   </div>
   <div class="center">
-    {nextEntry.frontmatter != null ? <PostLink post={nextEntry} /> : <EmptyBlock />}
+    {
+      nextEntry.id != null ? (
+        <PostLink post={nextEntry} title={nextTtile} />
+      ) : (
+        <EmptyBlock />
+      )
+    }
   </div>
 </div>

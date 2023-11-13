@@ -9,9 +9,8 @@ export async function getStaticPaths() {
     params: { slug: entry.slug },
     props: {
       entry,
-      prevEntry:
-        blogEntries.length === i + 1 ? { frontmatter: null } : blogEntries[i + 1],
-      nextEntry: i === 0 ? { frontmatter: null } : blogEntries[i - 1],
+      prevEntry: blogEntries.length === i + 1 ? { id: null } : blogEntries[i + 1],
+      nextEntry: i === 0 ? { id: null } : blogEntries[i - 1],
     },
   }));
 }

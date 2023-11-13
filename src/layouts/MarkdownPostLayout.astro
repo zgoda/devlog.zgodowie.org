@@ -1,10 +1,10 @@
 ---
 import OldPostWarning from '../components/OldPostWarning.astro';
+import PrevNext from '../components/PrevNext.astro';
 import { isPostTechRelated } from '../lib/content';
 import BaseLayout from './BaseLayout.astro';
 
 const { frontmatter, nextEntry, prevEntry } = Astro.props;
-
 const isOld =
   (new Date().getTime() - frontmatter.pubDate.getTime()) / (1000 * 60 * 60 * 24) > 720;
 const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
@@ -24,7 +24,9 @@ const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
       ))
     }
   </div>
+  <PrevNext prevEntry={prevEntry} nextEntry={nextEntry} />
   <slot />
+  <PrevNext prevEntry={prevEntry} nextEntry={nextEntry} />
 </BaseLayout>
 
 <style>
