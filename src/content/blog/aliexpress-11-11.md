@@ -20,6 +20,8 @@ Jak kazdy przeciętny _kolarzysta_ szybko zorientowałem się, że **rowering to
 
 Przy okazji 11.11 pozwoliłem sobie lekko zaszaleć, kupiłem również kilka rzeczy które oględnie mówiąc nie są mi w tej chwili potrzebne, ale kiedyś tam zostaną wykorzystane. Czego będę oczekiwał w ciągu najbliższych 3-4 tygodni?
 
+### Pimp my Dżajant
+
 ![Napęd do Dżajanta](https://i.imgur.com/wIIZWwDh.png)
 
 ![Korba do Dżajanta](https://i.imgur.com/kqadGJEh.png)
@@ -38,15 +40,19 @@ Na co zwrócić uwagę wybierając korbę na Aliexpress, oczywiście poza system
 
 Słówko jeszcze o tarczach marki Deckas &mdash; powszechnie uważa się je za wyrób jakościowy, który wytrzymuje kilka sezonów umiarkowanej eksploatacji i nie stwarza problemów. Są z aluminium, więc nie spodziewam się że wytrzymają 20 lat jak obecne w Dżajancie tarcze korby Sunrace, ale na kilka sezonów niezbyt instensywnej eksploatacji powinny wystarczyć.
 
-![Pomarańczka](https://i.imgur.com/MiOh9dTh.png)
-
-Owijka do Trabanta. A może do Boreyszy? Na wiosnę się zobaczy w którym ona zląduje. Praktycznie przez cały rok jeżdżę w rękawiczkach, więc mam nieco niższe wymagania od owijek, jednak estetyka nadal odgrywa dużą rolę. A przynajmniej w Trabancie będzie ona zmieniana kilkukrotnie, więc 2 czy 3 w zapasie to zdecydowanie nie jest za dużo. Ta jest trzecia.
+### Szmatex
 
 ![Szmaty 1](https://i.imgur.com/KnIxslRh.png)
 
 ![Szmaty 2](https://i.imgur.com/OQeyHD1h.png)
 
 Szmaty. Ani dobre, ani złe, przeciętne i zwyczajnie tanie. W roku 2023 jeździłem w ciuchach do MTB, dopóki nie schudłem na tyle, żeby nie wyglądać w obcisłych rzeczach jak _miś kuleczka w lajkrze_. Jako że te czasy są już przeszłością, to w roku 2024 będę śmigał w normalnych szmatach. A że 4 sztuki? Mam już obcykane, że 4 komplety koszulka + bibsy + czapeczka to jeden wsad do mojej pralki, więc potrzebuję razem 6 kompletów. Te koszulki są do kompletów od 4 do 6.
+
+### Pimp my Trabant
+
+![Pomarańczka](https://i.imgur.com/MiOh9dTh.png)
+
+Owijka do Trabanta. A może do Boreyszy? Na wiosnę się zobaczy w którym ona zląduje. Praktycznie przez cały rok jeżdżę w rękawiczkach, więc mam nieco niższe wymagania od owijek, jednak estetyka nadal odgrywa dużą rolę. A przynajmniej w Trabancie będzie ona zmieniana kilkukrotnie, więc 2 czy 3 w zapasie to zdecydowanie nie jest za dużo. Ta jest trzecia.
 
 ![Blat do Trabanta](https://i.imgur.com/CR4GaC5h.png)
 
