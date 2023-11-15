@@ -14,7 +14,7 @@
     "@astrojs/rss": "^3.0.0",
     "@philnash/astro-pagination": "^0.3.0",
     "@picocss/pico": "^1.5.10",
-    "astro": "^3.5.3"
+    "astro": "^3.5.4"
   },
   "devDependencies": {
     "eslint": "^8.53.0",

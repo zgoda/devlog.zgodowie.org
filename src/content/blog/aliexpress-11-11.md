@@ -20,10 +20,6 @@ Jak kazdy przeciętny _kolarzysta_ szybko zorientowałem się, że **rowering to
 
 Przy okazji 11.11 pozwoliłem sobie lekko zaszaleć, kupiłem również kilka rzeczy które oględnie mówiąc nie są mi w tej chwili potrzebne, ale kiedyś tam zostaną wykorzystane. Czego będę oczekiwał w ciągu najbliższych 3-4 tygodni?
 
-![Blat do Trabanta](https://i.imgur.com/CR4GaC5h.png)
-
-Blat 46T do Trabanta, pasujący do korby od Clarisa R2000 2&times;8. Oryginalnie jest tam tradycyjny kompakt 50/34, a ja chcę trochę zmniejszyć obciążenie na dużym blacie, więc założę koło zębate tej samej wielkości, jaką mam w GRX400 w Boreyszy i jaka doskonale się sprawdza w naszych warunkach na tyle, że praktycznie nie muszę używać małego blatu. Wszystko po to, by było jeszcze bardziej rekreacyjnie. Póki co kompakt sprawuje się całkiem dobrze i nie jest odczuwalnie zbyt twardy.
-
 ![Napęd do Dżajanta](https://i.imgur.com/wIIZWwDh.png)
 
 ![Korba do Dżajanta](https://i.imgur.com/kqadGJEh.png)
@@ -50,7 +46,11 @@ Owijka do Trabanta. A może do Boreyszy? Na wiosnę się zobaczy w którym ona z
 
 ![Szmaty 2](https://i.imgur.com/OQeyHD1h.png)
 
-Szmaty. Ani dobre, ani złe, po prostu tanie. W roku 2023 jeździłem w ciuchach do MTB, dopóki nie schudłem na tyle, żeby nie wyglądać w obcisłych rzeczach jak _miś kuleczka w lajkrze_. Jako że te czasy są już przeszłością, to w roku 2024 będę śmigał w normalnych szmatach. A że 4 sztuki? Mam już obcykane, że 4 komplety koszulka + bibsy + czapeczka to jeden wsad do mojej pralki, więc potrzebuję razem 6 kompletów. Te koszulki są do kompletów od 4 do 6.
+Szmaty. Ani dobre, ani złe, przeciętne i zwyczajnie tanie. W roku 2023 jeździłem w ciuchach do MTB, dopóki nie schudłem na tyle, żeby nie wyglądać w obcisłych rzeczach jak _miś kuleczka w lajkrze_. Jako że te czasy są już przeszłością, to w roku 2024 będę śmigał w normalnych szmatach. A że 4 sztuki? Mam już obcykane, że 4 komplety koszulka + bibsy + czapeczka to jeden wsad do mojej pralki, więc potrzebuję razem 6 kompletów. Te koszulki są do kompletów od 4 do 6.
+
+![Blat do Trabanta](https://i.imgur.com/CR4GaC5h.png)
+
+Blat 46T do Trabanta, pasujący montażowo do korby od Clarisa R2000 2&times;8; narrow-wide, więc raczej będzie używany głównie testowo z odpiętą przednią przerzutką. Oryginalnie jest tam tradycyjny kompakt 50/34, a ja chcę sprawdzić jak się jeździ z trochę mniejszym obciążeniem na dużym blacie, więc założę koło zębate tej samej wielkości, jaką mam w GRX400 w Boreyszy i jaka doskonale się sprawdza w naszych warunkach na tyle, że praktycznie nie muszę używać małego blatu. Wszystko po to, by było jeszcze bardziej rekreacyjnie. Póki co kompakt sprawuje się całkiem dobrze i nie jest odczuwalnie zbyt twardy, więc testy odbędą się dopiero wiosną.
 
 ![Klamkomanetki na 9s](https://i.imgur.com/b7HSLx4h.png)
 
