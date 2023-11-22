@@ -7,10 +7,10 @@ tags:
     - rower
     - trabant
 pubDate: 2023-11-11T16:11:26+01:00
-description: Począwszy od 11 listopada chiński serwis zakupowy Aliexpress urządza spore promocje. Jeżeli ktoś planuje sobie coś kupić, to warto jest tak wycyrklować, żeby wstrzelić się w ten dzień, bo zniżki są konkretne.
+description: Począwszy od 11 listopada przez około tydzień chiński serwis zakupowy Aliexpress urządza spore promocje. Jeżeli ktoś planuje sobie coś kupić, to warto jest tak wycyrklować, żeby wstrzelić się w ten dzień, bo zniżki są konkretne.
 ---
 
-Począwszy od 11 listopada chiński serwis zakupowy Aliexpress urządza spore promocje. Jeżeli ktoś planuje sobie coś kupić, to warto jest tak wycyrklować, żeby wstrzelić się w ten dzień, bo zniżki są konkretne.
+Począwszy od 11 listopada przez około tydzień chiński serwis zakupowy Aliexpress urządza spore promocje. Jeżeli ktoś planuje sobie coś kupić, to warto jest tak wycyrklować, żeby wstrzelić się w ten dzień, bo zniżki są konkretne.
 
 ![Listonosz zawsze dzwoni dwa razy](https://i.imgur.com/cOCSuLoh.png)
 
@@ -62,7 +62,7 @@ Blat 46T do Trabanta, pasujący montażowo do korby od Clarisa R2000 2&times;8; 
 
 ![Przerzutka 9s](https://i.imgur.com/5Os1P2hh.png)
 
-Te dwie rzeczy wpadły raczej z rozpędu (i dla zaspokojenia pokusy), niż z rzeczywistej potrzeby, bo napęd Trabanta na 2&times;9 będę przerabiał prawdopodobnie dopiero po przyszłym sezonie, ale nie mogłem sobie odmówić widząc _takie tłuste promki_. Co do wyboru klamkomanetek &mdash; psioczyłem na systemy z jedną dźwignią _do wszystkiego_, ale jednak postanowiłem dać sobie szansę, może będzie mi łatwiej do tego przywyknąć, niż do systemu Microshiftu z przyciskiem _na zewnątrz klamki_ (z systemem L-TWOO z przyciskiem od wewnętrznej strony nawet nie będę się mierzył, bo tylko w jednym chwycie do niego dosięgam bez problemów, a i to niezbyt wygodnie).
+Te dwie rzeczy wpadły raczej z rozpędu (i dla zaspokojenia pokusy), niż z rzeczywistej potrzeby, bo napęd Trabanta na 2&times;9 będę przerabiał prawdopodobnie dopiero po przyszłym sezonie, ale nie mogłem sobie odmówić widząc _takie tłuste promki_. Co do wyboru klamkomanetek &mdash; psioczyłem na systemy z jedną dźwignią _do wszystkiego_, ale jednak postanowiłem dać sobie szansę, może będzie mi łatwiej do tego przywyknąć, niż do systemu Microshiftu z przyciskiem _na zewnątrz klamki_ (z systemem L-TWOO z przyciskiem od wewnętrznej strony nawet nie będę się mierzył, bo tylko w jednym chwycie do niego dosięgam bez problemów, a i to niezbyt wygodnie). Ostatecznie jeżeli nie podpasuje mi system z _jedną dźwignią do wszystkiego_, to będę się rozglądał za czymś innym, ale do tego to jeszcze dużo czasu upłynie.
 
 Z kolei przerzutka L-TWOO R5 jest jedyną masowo dostępną na Aliexpress dziewięciobiegową przerzutką, która ma rolki przymocowane do wózka śrubami, a nie na stałe nitami. Przez taki sposób montażu żadna z przerzutek od konkurencji nie daje możliwości wyczyszczenia rolek gdy dostanie się do nich normalny, drogowy syf (a im gorsze drogi, tym tego syfu jest więcej, o czym przekonałem się jeżdżąc Boreyszą po chaszczach). Cena całego urządzenia zbliżona do 70 zł sugeruje raczej, że w takim przypadku należałoby je wymienić w całości na nowe, ale bardzo mocno kłuje mnie to w mój _zmysł ekologiczny_, który nakazuje mi zepsute urządzenia naprawiać, a nie wymieniać. Nawet jeżeli kosztują _psi pieniądz_ &mdash; wyprodukowanie czegokolwiek jest obciążeniem dla środowiska, niezależnie od tego czy w Chinach, czy gdzie indziej. Obciążeniem jest wydobycie surowców, przetransportowanie ich do chińskiej fabryki, wstępne i ostateczne przetworzenie w element rzeczy. Potem to obciążenie rośnie jeszcze bardziej, bo rzecz trzeba przetransportować do Europy, do Polski i na Mazowsze. Ekonomicznie wyprodukowanie przerzutki w Chinach jest tańsze, ale od strony ekologii kosztuje nas więcej o tysiące kilometrów transportu.
 
