@@ -12,9 +12,10 @@
   },
   "dependencies": {
     "@astrojs/rss": "^3.0.0",
+    "@astrojs/sitemap": "^3.0.3",
     "@philnash/astro-pagination": "^0.3.0",
     "@picocss/pico": "^1.5.10",
-    "astro": "^3.5.7"
+    "astro": "^3.6.0"
   },
   "devDependencies": {
     "eslint": "^8.54.0",
