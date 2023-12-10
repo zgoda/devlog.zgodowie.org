@@ -33,6 +33,8 @@ Niewiele również się ryzykuje kupując znane marki _aspirujące_ jak X-Tiger 
 
 Sytuację zdaje się trochę gmatwać fakt, że oryginalne produkty są również sprzedawane poza oficjalnymi sklepami marek i to najczęściej w nieco niższych cenach, jednak nigdy nie jest to połowa ceny oryginalnej, ot 20-25% taniej. I tu również pomaga lektura komentarzy od nabywców.
 
+No i jeszcze jeden czynnik &mdash; dynamika rynku powoduje, że pozycja marki jest płynna. Aspiracja może zostać spełniona i marka stanie się _uznana_, a może również zostać zaprzepaszczona i pójdzie na dno. Zgodnie z tym ceny również będą się zmieniać, w chwili pisania tego artykułu właściciel marki X-Tiger po pół roku starań zdaje się właśnie poczuł wiatr w żaglach, a wraz z tym ceny również wyruszyły w podróż w górę.
+
 ## Towar generyczny
 
 ![Uwaga!](https://i.imgur.com/g79t55Sh.png)
@@ -43,4 +45,6 @@ To jest obszar dla osób lubiących ryzyko. Towar przychodzi w zwykłej torebce 
 
 No to w końcu może pokuszę się o jakąś konkluzję.
 
-W aspekcie zakupu spodenek rowerowych chińska oferta na kolana nie rzuca. Rzeczy które są wyraźnie tańsze, a przy tym nie straszą podłą jakością jest niewiele. Biorąc pod uwagę ile par spodenek ma w szufladzie przeciętny kolarzysta, to oszczędności będą spore, ale nie oszałamiające. Na nowe koła nie wystarczy, może co najwyżej na nowe opony. Czy warto? Każdy zna swojego węża we własnej kieszeni i najlepiej sam sobie na takie pytanie odpowie.
+W aspekcie zakupu spodenek rowerowych chińska oferta na kolana nie rzuca. Rzeczy które są wyraźnie tańsze, a przy tym nie straszą podłą jakością jest niewiele. Biorąc pod uwagę ile par spodenek ma w szufladzie _przeciętny kolarzysta_, to oszczędności mogą być spore, ale nie oszałamiające &mdash; na nowe koła nie wystarczy, może co najwyżej na nowe opony. Czy zatem warto kupować _tanie szmaty od majfrenda_?
+
+Każdy zna swojego węża we własnej kieszeni i najlepiej sam sobie na takie pytanie odpowie. W moim przypadku za tą decyzją stały szybkie zmiany mojej sylwetki &mdash; dość powiedzieć że gdy w lipcu kupowałem moje pierwsze spodenki z wkładką za 100 zł w Decathlonie, to ważyłem 98 kg, a już w październiku było to prawie 10 kg mniej i wszystko to, co kupiłem sobie latem było na mnie za duże i nie nadawało się już do noszenia, choć wcale nie było zużyte. W tej sytuacji wydawanie kilkuset złotych na ciuchy, które mają szansę być użyte co najwyżej parę razy nie wydało mi się rozsądną decyzją. Na jesień i zimę kupiłem już _tanie szmaty od majfrenda_, a wiosną... Kto wie co będzie wiosną? Zima w tym roku zaczęła się wcześnie i nie wiadomo jak długo potrwa.
