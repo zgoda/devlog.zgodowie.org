@@ -11,15 +11,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/rss": "^3",
+    "@astrojs/rss": "^4.0.1",
     "@astrojs/sitemap": "^3.0.3",
-    "@philnash/astro-pagination": "^0.3.0",
+    "@philnash/astro-pagination": "^0.4.0",
     "@picocss/pico": "^1.5.10",
-    "astro": "^3"
+    "astro": "^4.0.5"
   },
   "devDependencies": {
     "eslint": "^8.55.0",
-    "eslint-plugin-astro": "^0.30.0",
+    "eslint-plugin-astro": "^0.31.0",
     "eslint-plugin-jsx-a11y": "^6.8.0"
   }
 }
