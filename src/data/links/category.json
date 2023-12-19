@@ -1,0 +1,12 @@
+{
+  "category": [
+    {
+      "name": "WebDev",
+      "description": "Web development tools"
+    },
+    {
+      "name": "SysDev",
+      "description": "Systems development / operation utilities"
+    }
+  ]
+}

@@ -14,12 +14,4 @@ const blog = defineCollection({
   }),
 });
 
-const links = defineCollection({
-  type: 'content',
-  schema: z.object({
-    category: z.array(z.string()).optional(),
-    draft: z.boolean().default(false),
-  }),
-});
-
-export const collections = { blog, links };
+export const collections = { blog };

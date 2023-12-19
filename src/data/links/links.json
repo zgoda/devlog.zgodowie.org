@@ -1,0 +1,28 @@
+{
+  "links": [
+    {
+      "name": "Coolors",
+      "url": "https://coolors.co",
+      "category": "WebDev",
+      "description": "generator palet kolorów - jako programista, a w szczególności jako mężczyzna, jestem ogólnie ślepy na kolory, a ten generator palet pozwala wygenerować gotową, ładnie wyglądającą paletę o ustalonej ilości kolorów"
+    },
+    {
+      "name": "Feather Icons",
+      "url": "https://feathericons.com/",
+      "category": "WebDev",
+      "description": "śliczne ikony w SVG - Feather Icons są najładniejsze, i nie zapraszam do dyskusji"
+    },
+    {
+      "name": "Google Fonts Helper",
+      "url": "https://google-webfonts-helper.herokuapp.com/fonts",
+      "category": "WebDev",
+      "description": "hostowanie fontów z Google - jak to zrobić, żeby font z Google mieć hostowany u siebie?, ano właśnie tak, narzędzie generuje kawałek CSS oraz paczkę z plikami fontów, wystarczy rozpakować w `static` i mamy bez szpiegowania; zecydowałem się na to gdy okazało się, że kilka popularnych pakietów NPM zawiera tylko glify w podstawowym skrypcie łacińskim, czyli bez naszych _chaszczy_"
+    },
+    {
+      "name": "Proot",
+      "url": "https://proot-me.github.io/",
+      "category": "SysDev",
+      "description": "chroot dla zwykłego użytkownika - ile ja się nakombinowałem kiedyś żeby nie będąc `root`em zbudować debianową paczkę `armhf` na `amd64`, to głowa mała, a tu proszę, rach-ciach"
+    }
+  ]
+}
