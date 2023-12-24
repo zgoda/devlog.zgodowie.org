@@ -15,7 +15,7 @@
     "@astrojs/sitemap": "^3.0.3",
     "@philnash/astro-pagination": "^0.4.0",
     "@picocss/pico": "^1.5.10",
-    "astro": "^4.0.6"
+    "astro": "^4.0.7"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
