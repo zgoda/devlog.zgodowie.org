@@ -10,7 +10,7 @@ const isOld =
 const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
 ---
 
-<BaseLayout pageTitle={frontmatter.title}>
+<BaseLayout pageTitle={`Blog | ${frontmatter.title}`}>
   <slot name="head" slot="head" />
   {displayOldPostWarning ? <OldPostWarning /> : ''}
   <p>Autor: {frontmatter.author}</p>
