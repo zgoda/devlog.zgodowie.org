@@ -7,7 +7,6 @@ tags:
     - rant
 description: Pod wieloma względami rok 2023 był dla mnie rokiem zmian, a jedną z nich był rowering. Co prawda pierwszy rower (Dżajanta) kupiłem wiosną 2022, ale służył mi on tylko do drobnych przejażdżek wokół komina, natomiast regularny rowering zaczął się na dobre od zakupu Boreyszy w lipcu 2023. Na te pół roku spojrzę krytycznym okiem.
 imageUrl: https://i.imgur.com/uFjdWfYh.jpg
-draft: true
 ---
 
 Pod wieloma względami rok 2023 był dla mnie rokiem zmian, a jedną z nich był _rowering_. Co prawda pierwszy rower (Dżajanta) kupiłem wiosną 2022, ale służył mi on tylko do drobnych przejażdżek wokół komina, natomiast regularny _rowering_ zaczął się na dobre od zakupu Boreyszy w lipcu 2023. Na te pół roku spojrzę krytycznym okiem.
@@ -26,6 +25,8 @@ Nie mając wielkiego pojęcia na temat geometrii rowerów, po przymierzeniu się
 
 I tu się ujawnił mój błąd, którego potwierdzenie później znalazłem na stronie, która wylicza różne matematyczne współczynniki z wymiarów różnych elementów ram rowerów. O ile do rozmiaru L rowery tego modelu mają geometrię _komfortową_ (dającą bardziej wyprostowaną sylwetkę), tak w rozmiarze XL staje się ona _sportowa_, a to oznacza bardziej pochyloną sylwetkę, większe obciążenie górnej części ciała podczas jazdy i ogólnie stawia większe wymagania względem przygotowania kondycyjnego jeźdźca.
 
+![2023](https://i.imgur.com/ZS9Rczbh.png)
+
 Którego, jak nie muszę chyba nadmieniać, po latach siedzącego trybu życia nie miałem.
 
 ![Jeden z moich ulubionych odcinków](https://i.imgur.com/uFjdWfYh.jpg)
@@ -42,7 +43,7 @@ Przez pół roku kręcenia się po okolicy na Boreyszy starałem się poznać mo
 
 ![Mmm, water!](https://i.imgur.com/NfxgZBxh.jpg)
 
-Rower z szosowym napędem (2&times;8, 2&times;9, może w przyszłości 2&times;11), z tarczowymi hamulcami sterowanymi raczej mechanicznie, najchętniej z zewnętrznym prowadzeniem linek, z kierownicą z _szutrówkową flarą_ i na koniec najważniejsze: na oponach o szerokości 34-35 mm typu semi-slick zamontowanymi w systemie bezdętkowym. Karbonowy widelec, a reszta dowolnie, np aluminium. Siodło, owijka, pedały &mdash; takie jak w Boreyszy są super, niczego nie trzeba zmieniać, ale tak naprawdę to kwestia drugorzędna.
+Rower z jakimkolwiek napędem, który zapewni szeroki zakres przelożeń o niezbyt dużym rozstrzale, np z szosowym (2&times;8, 2&times;9, może w przyszłości 2&times;11), z tarczowymi hamulcami sterowanymi raczej mechanicznie, najchętniej z zewnętrznym prowadzeniem linek, z kierownicą z _szutrówkową flarą_ i na koniec najważniejsze: na oponach o szerokości 34-35 mm typu semi-slick zamontowanymi w systemie bezdętkowym. Karbonowy widelec, a reszta dowolnie, np aluminium. Siodło, owijka, pedały &mdash; takie jak w Boreyszy są super, niczego nie trzeba zmieniać, ale tak naprawdę to kwestia drugorzędna. To co dla użyteczności tego roweru jest kluczowe to komfort jazdy na długim dystansie (na początek niech to będzie około 200 km) i minimum _dzielności terenowej_, która umożliwi przejazd _drogami utwardzonymi niekoniecznie asfaltem_.
 
 I jakkolwiek nie wykluczam w przyszłości typowo _szutrowego_ napędu 1&times;11 (nawet zamówiłem sobie taki _od majfrenda_ i już niedługo do mnie przyjedzie...) to zdecydowanie nie napęd jest tym, co decyduje o przydatności roweru dla moich celów, podobnie jak inne elementy osprzętu.
 
@@ -52,7 +53,7 @@ O te pół roku, zanim kupiłem Boreyszę? Zakładając, że cofnąłbym się w 
 
 ![More water](https://i.imgur.com/hRRUxd6h.jpg)
 
-Ale też wcale nie jestem pewien, czy już wiedząc gdzie i jak lubię jeździć kupiłbym _szutrówkę_, ponieważ nawet w wersji _fabrycznej_ Trabant miał wiele z tego, czego dziś oczekuję od _roweru wycieczkowego_. Jakkolwiek opony 28 mm są wciąż typowo szosowe, to już dają trochę więcej terenowej dzielności, tyle ile w wielu przypadkach uznałbym za całkiem wystarczające na początek. Do tego _miły nodze_ napęd z przełożeniem 1:1. A że trzeba w nim parę rzeczy wymienić, w tym niektóre _na dzień dobry_? Nie poczytuję tego za problem.
+Ale też wcale nie jestem pewien, czy już wiedząc gdzie i jak lubię jeździć kupiłbym _szutrówkę_, ponieważ nawet w wersji _fabrycznej_ Trabant miał wiele z tego, czego dziś oczekuję od _roweru wycieczkowego_. Jakkolwiek opony 28 mm są wciąż typowo szosowe, to już dają trochę więcej terenowej dzielności, tyle ile w wielu przypadkach uznałbym za całkiem wystarczające na początek. Do tego _miły nodze_ napęd z przełożeniem 1:1. A że trzeba w nim parę rzeczy wymienić, w tym niektóre _na dzień dobry_? Nie poczytuję tego za problem. Być może jedynie chcąc wydać większe pieniądze kupiłbym nieco lepiej wyposażoną _szosówkę_, ale prawdę mówiąc w wyższych modelach Tribana nie dostrzegam wartości dodanej, która mogłaby mnie skłonić do szerszego otwarcia portfela. Oczywiście, Shimano 105 jest lepsze od Miscroshifta R8, mieć dostępne 22 przełożenia również jest lepiej niż mieć ich tylko 16. Myślę że bym to rozważył.
 
 ## Oby nam się
 
