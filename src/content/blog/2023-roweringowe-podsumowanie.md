@@ -5,35 +5,35 @@ tags:
     - rower
     - podsumowanie
     - rant
-description: Pod wieloma względami rok 2023 był dla mnie rokiem zmian, a jedną z nich był rowering. Co prawda pierwszy rower (Dżajanta) kupiłem wiosną 2022, ale służył mi on tylko do drobnych przejażdżek wokół komina, natomiast regularny rowering zaczął się na dobre od zakupu Boreyszy w lipcu 2023. Na te pół roku spojrzę krytycznym okiem.
+description: Pod wieloma względami rok 2023 był dla mnie rokiem zmian, a jedną z nich był rowering. Co prawda pierwszy rower (Dżajanta) kupiłem już wiosną 2022, ale służył mi on tylko do drobnych przejażdżek wokół komina, natomiast regularny rowering zaczął się na dobre od zakupu Boreyszy w lipcu 2023. I to na te pół roku spojrzę krytycznym okiem.
 imageUrl: https://i.imgur.com/uFjdWfYh.jpg
 ---
 
-Pod wieloma względami rok 2023 był dla mnie rokiem zmian, a jedną z nich był _rowering_. Co prawda pierwszy rower (Dżajanta) kupiłem wiosną 2022, ale służył mi on tylko do drobnych przejażdżek wokół komina, natomiast regularny _rowering_ zaczął się na dobre od zakupu Boreyszy w lipcu 2023. Na te pół roku spojrzę krytycznym okiem.
+Pod wieloma względami rok 2023 był dla mnie rokiem zmian, a jedną z nich był _rowering_. Co prawda pierwszy rower (Dżajanta) kupiłem już wiosną 2022, ale służył mi on tylko do drobnych przejażdżek wokół komina, natomiast regularny _rowering_ zaczął się na dobre od zakupu Boreyszy w lipcu 2023. I to na te pół roku spojrzę krytycznym okiem.
 
 ![Boreysza jesienny](https://i.imgur.com/wQk42fyh.jpg)
 
 ## Motywacja
 
-Do zakupu roweru _wycieczkowego_ skłoniła mnie znaczna zmiana mojego stylu życia, którą wprowadziłem wiosną roku 2023 &mdash; w związku z większą niż przypuszczałem nadwagą przeszedłem na niskowęglowodanowy styl żywienia aby ułatwić sobie chudnięcie. Jak się okazało, spadająca waga przyniosła również znaczną lekkość w poruszaniu się, która zaczęła mnie pchać do coraz dłuższych przejażdżek. Jako _narzędzie do palenia kalorii_ Dżajant sprawdzał się doskonale dzięki sporej wadze i znacznemu oporowi powietrza, ale jednak brakowało mi przyjemności z docierania coraz dalej. Przezwyciężając początkowy sceptycyzm wobec _szutrówek_ zdecydowałem się kupić jeden z tańszych modeli, jakkolwiek wciąż drogi wg mojej _skali drożyzny_.
+Do zakupu roweru _wycieczkowego_ skłoniła mnie znaczna zmiana mojego stylu życia, którą wprowadziłem wiosną roku 2023 &mdash; w związku z większą niż przypuszczałem nadwagą przeszedłem na niskowęglowodanowy styl żywienia aby ułatwić sobie chudnięcie. Jak się okazało, spadająca waga przyniosła również znaczną lekkość w poruszaniu się, która zaczęła mnie pchać do coraz dłuższych przejażdżek. Jako _narzędzie do palenia kalorii_ Dżajant sprawdzał się doskonale dzięki sporej wadze i znacznemu oporowi powietrza, ale jednak brakowało mi przyjemności z docierania coraz dalej. Przezwyciężając początkowy sceptycyzm wobec _szutrówek_ zdecydowałem się kupić jeden z tańszych modeli, jakkolwiek wciąż drogi wg mojej _skali drożyzny_. Chciałem jeździć daleko i zaznawać wolności.
 
 Jak większość moich kosztownych pomysłów tak i ten opierał się w dużej mierze na liczeniu na łut szczęścia, a to mnie niestety tym razem zawiodło.
 
 ## Ignorance is bliss
 
-Nie mając wielkiego pojęcia na temat geometrii rowerów, po przymierzeniu się do rozmiaru L (56 cm) stwierdziłem, że większy będzie lepszy. Pomimo ponad tygodniowych poszukiwań w sklepach Warszawy i okolic, nie udało mi się trafić na egzemplarz w rozmiarze XL (58 cm). Przez ten tydzień przymierzałem inne modele rowerów w zbliżonych rozmiarach i każdy z nich mi pasował, więc niemal w ciemno zamówiłem przez internet rower w rozmiarze XL. Miał być _wszystkomający_ &mdash; i taki był. Napęd _szutrowy_ 2&times;10 ze sprzęgłem, hamulce hydrauliczne, kierownica _z flarą_, klamkomanetki Shimano o niezrównanej ergonomii, wszystko to wydało mi się konieczne do tego, by ciesząc się każdym przejechanym kilometrem wyruszyć na całodniowe wyprawy w nieznane (no, z grubsza).
+Nie mając wielkiego pojęcia na temat geometrii rowerów, po przymierzeniu się do rozmiaru L (56 cm) stwierdziłem, że większy będzie lepszy. Przez ponad tydzień poszukiwań w sklepach Warszawy i okolic nie udało mi się trafić na dostępny od ręki egzemplarz w rozmiarze XL (58 cm) &mdash; tłumaczenia sklepów że _nie mają bo przymierzają i nie kupują_ to w ogóle oddzielna historia. Przez ten tydzień przymierzałem inne modele rowerów w zbliżonych rozmiarach i każdy z nich mi pasował, więc niemal w ciemno zamówiłem przez internet rower w rozmiarze XL. Miał być _wszystkomający_ &mdash; i taki był. Napęd _szutrowy_ 2&times;10 ze sprzęgłem, hamulce hydrauliczne, kierownica _z flarą_, klamkomanetki Shimano o niezrównanej ergonomii, wszystko to wydało mi się konieczne do tego, by ciesząc się każdym przejechanym kilometrem wyruszyć na całodniowe wyprawy w nieznane (no, z grubsza).
 
 I tu się ujawnił mój błąd, którego potwierdzenie później znalazłem na stronie, która wylicza różne matematyczne współczynniki z wymiarów różnych elementów ram rowerów. O ile do rozmiaru L rowery tego modelu mają geometrię _komfortową_ (dającą bardziej wyprostowaną sylwetkę), tak w rozmiarze XL staje się ona _sportowa_, a to oznacza bardziej pochyloną sylwetkę, większe obciążenie górnej części ciała podczas jazdy i ogólnie stawia większe wymagania względem przygotowania kondycyjnego jeźdźca.
 
 ![2023](https://i.imgur.com/ZS9Rczbh.png)
 
-Którego, jak nie muszę chyba nadmieniać, po latach siedzącego trybu życia nie miałem.
+Którego, jak nie muszę chyba nadmieniać, po latach siedzącego trybu życia zwyczajnie nie miałem.
 
 ![Jeden z moich ulubionych odcinków](https://i.imgur.com/uFjdWfYh.jpg)
 
-Po kilku miesiącach jeżdżenia udało mi się poprawić kondycję na tyle, by nie dokuczał mi ból podczas jazdy, w celu poprawienia pozycji na rowerze założyłem nieco krótszy mostek i zamontowałem go _odwrotnie_ (z dodatnim uniesieniem). Wszystko to razem doprowadziło do tego, że ostatnie jazdy w roku 2023 były już całkiem przyjemne.
+Po kilku miesiącach jeżdżenia udało mi się poprawić kondycję na tyle, by nie dokuczał mi ból podczas jazdy, w celu poprawienia pozycji na rowerze założyłem nieco krótszy mostek i zamontowałem go _odwrotnie_ (z dodatnim uniesieniem). Wszystko to razem doprowadziło do tego, że ostatnie jazdy w roku 2023 były już całkiem przyjemne. Boreysza cały czas jeździł jak zły, ale przez większość czasu nie miałem z tego przyjemności, a wręcz sporo bólu mięśni.
 
-Nauka wyciągnięta z przejść z Boreyszą oraz doświadczenie z przejechanych ponad 1000 kilometrów zostały wykorzystane w całości podczas zakupu Trabanta.
+Nauka wyciągnięta z przejść z Boreyszą oraz doświadczenie z przejechanych ponad 1500 kilometrów zostały wykorzystane w całości podczas zakupu Trabanta.
 
 ## Dłubbing
 
@@ -53,7 +53,7 @@ O te pół roku, zanim kupiłem Boreyszę? Zakładając, że cofnąłbym się w 
 
 ![More water](https://i.imgur.com/hRRUxd6h.jpg)
 
-Ale też wcale nie jestem pewien, czy już wiedząc gdzie i jak lubię jeździć kupiłbym _szutrówkę_, ponieważ nawet w wersji _fabrycznej_ Trabant miał wiele z tego, czego dziś oczekuję od _roweru wycieczkowego_. Jakkolwiek opony 28 mm są wciąż typowo szosowe, to już dają trochę więcej terenowej dzielności, tyle ile w wielu przypadkach uznałbym za całkiem wystarczające na początek. Do tego _miły nodze_ napęd z przełożeniem 1:1. A że trzeba w nim parę rzeczy wymienić, w tym niektóre _na dzień dobry_? Nie poczytuję tego za problem. Być może jedynie chcąc wydać większe pieniądze kupiłbym nieco lepiej wyposażoną _szosówkę_, ale prawdę mówiąc w wyższych modelach Tribana nie dostrzegam wartości dodanej, która mogłaby mnie skłonić do szerszego otwarcia portfela. Oczywiście, Shimano 105 jest lepsze od Miscroshifta R8, mieć dostępne 22 przełożenia również jest lepiej niż mieć ich tylko 16. Myślę że bym to rozważył.
+Ale też wcale nie jestem pewien, czy już wiedząc gdzie i jak lubię jeździć kupiłbym _szutrówkę_, ponieważ nawet w wersji _fabrycznej_ Trabant miał wiele z tego, czego dziś oczekuję od mojego dopasowanego _roweru wycieczkowego_. Jakkolwiek opony 28 mm są wciąż typowo szosowe, to już dają trochę więcej terenowej dzielności, akurat tyle ile w wielu przypadkach uznałbym za całkiem wystarczające na początek. Do tego _miły nodze_ napęd z przełożeniem 1:1 (mała zębatka z przodu 34T, tylna największa też 34T). A że trzeba w nim parę rzeczy wymienić, w tym niektóre _na dzień dobry_? Nie poczytuję tego za problem. Być może jedynie chcąc wydać większe pieniądze kupiłbym nieco lepiej wyposażoną _szosówkę_, ale prawdę mówiąc w wyższych modelach Tribana dostrzegam stosunkowo mało wartości dodanej, która mogłaby mnie skłonić do szerszego otwarcia portfela. Oczywiście, Shimano 105 jest lepsze od Miscroshifta R8, mieć dostępne 22 przełożenia również jest lepiej niż mieć ich tylko 16. Myślę że bym to rozważył.
 
 ## Oby nam się
 
