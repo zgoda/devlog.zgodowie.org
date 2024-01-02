@@ -1,5 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import data from '../data/links.json';
+import { parseLinksDataset } from '../lib/content';
+import LinkCategory from '../components/LinkCategory.astro';
+
+const categories = parseLinksDataset(data.links);
 
 const pageTitle = 'Bardziej i mniej przydatne linki';
 ---
@@ -10,4 +15,5 @@ const pageTitle = 'Bardziej i mniej przydatne linki';
     ich aktualności, więc może się zdarzyć że któryś z nich będzie prowadził w kosmos.
     Takie jest smutne życie w internecie.
   </p>
+  {categories.map(([key, value]) => <LinkCategory name={key} links={value} />)}
 </BaseLayout>

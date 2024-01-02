@@ -1,0 +1,12 @@
+---
+import LinkItem from './LinkItem.astro';
+const { links, name } = Astro.props;
+---
+
+<h2>{name}</h2>
+
+{
+  links.map(({ name, url, description }) => (
+    <LinkItem name={name} url={url} description={description} />
+  ))
+}
