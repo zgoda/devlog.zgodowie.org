@@ -1,19 +1,15 @@
 ---
-import dayjs from 'dayjs';
-import utc from 'dayjs/plugin/utc';
 import OldPostWarning from '../components/OldPostWarning.astro';
 import PrevNext from '../components/PrevNext.astro';
 import { isPostTechRelated } from '../lib/content';
 import BaseLayout from './BaseLayout.astro';
 
-const { frontmatter, nextEntry, prevEntry } = Astro.props;
-
-dayjs.extend(utc);
-const lastModified = dayjs
-  .utc(frontmatter.lastModified)
-  .local()
-  .toDate()
-  .toLocaleDateString('pl-PL');
+const {
+  frontmatter,
+  nextEntry,
+  prevEntry,
+  dateLastModified: lastModified,
+} = Astro.props;
 
 const isOld =
   (new Date().getTime() - frontmatter.pubDate.getTime()) / (1000 * 60 * 60 * 24) > 720;

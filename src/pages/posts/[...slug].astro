@@ -1,4 +1,6 @@
 ---
+import dayjs from 'dayjs';
+import utc from 'dayjs/plugin/utc';
 import OgHead from '../../components/OgHead.astro';
 import MarkdownPostLayout from '../../layouts/MarkdownPostLayout.astro';
 import { loadAndFormatPostsCollection } from '../../lib/collection';
@@ -16,13 +18,20 @@ export async function getStaticPaths() {
 }
 
 const { entry, prevEntry, nextEntry } = Astro.props;
-const { Content } = await entry.render();
+const { Content, remarkPluginFrontmatter } = await entry.render();
+dayjs.extend(utc);
+const lastModified = dayjs
+  .utc(remarkPluginFrontmatter.lastModified)
+  .local()
+  .toDate()
+  .toLocaleDateString('pl-PL');
 ---
 
 <MarkdownPostLayout
   frontmatter={entry.data}
   nextEntry={nextEntry}
   prevEntry={prevEntry}
+  dateLastModified={lastModified}
 >
   <OgHead post={entry} slot="head" />
   <Content />
