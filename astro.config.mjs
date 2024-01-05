@@ -1,8 +1,7 @@
 import { defineConfig } from 'astro/config';
-
+import { remarkModifiedTime } from './remark-modified-time.mjs';
 import sitemap from '@astrojs/sitemap';
 
-// https://astro.build/config
 export default defineConfig({
   prefetch: true,
   site: 'https://devlog.zgodowie.org',
@@ -10,6 +9,7 @@ export default defineConfig({
     shikiConfig: {
       theme: 'nord',
     },
+    remarkPlugins: [remarkModifiedTime],
   },
   integrations: [sitemap({ i18n: { defaultLocale: 'pl', locales: { pl: 'pl-PL' } } })],
 });

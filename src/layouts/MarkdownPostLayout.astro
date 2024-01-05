@@ -1,10 +1,16 @@
 ---
+import dayjs from 'dayjs';
 import OldPostWarning from '../components/OldPostWarning.astro';
 import PrevNext from '../components/PrevNext.astro';
 import { isPostTechRelated } from '../lib/content';
 import BaseLayout from './BaseLayout.astro';
 
 const { frontmatter, nextEntry, prevEntry } = Astro.props;
+
+const lastModified = dayjs(frontmatter.lastModified)
+  .toDate()
+  .toLocaleDateString('pl-PL');
+
 const isOld =
   (new Date().getTime() - frontmatter.pubDate.getTime()) / (1000 * 60 * 60 * 24) > 720;
 const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
@@ -13,8 +19,12 @@ const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
 <BaseLayout pageTitle={frontmatter.title}>
   <slot name="head" slot="head" />
   {displayOldPostWarning ? <OldPostWarning /> : ''}
-  <p>Autor: {frontmatter.author}</p>
-  <p>Data publikacji: {frontmatter.pubDate.toLocaleDateString('pl-PL')}</p>
+  <div class="grid">
+    <p>
+      Opublikowano: {frontmatter.pubDate.toLocaleDateString('pl-PL')}
+    </p>
+    <p>Ostatnia modyfikacja: {lastModified}</p>
+  </div>
   <div class="tags">
     {
       frontmatter.tags.sort().map((tag: string) => (
