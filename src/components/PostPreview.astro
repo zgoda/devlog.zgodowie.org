@@ -1,8 +1,10 @@
 ---
+import { marked } from 'marked';
 import EmptyBlock from './EmptyBlock.astro';
 import PostLink from './PostLink.astro';
 
 const { post } = Astro.props;
+const description = marked.parse(post.data.description);
 ---
 
 <article>
@@ -13,7 +15,7 @@ const { post } = Astro.props;
   </header>
   <div class="post">
     {post.data.imageUrl ? <img src={post.data.imageUrl} /> : <EmptyBlock />}
-    <p>{post.data.description}</p>
+    <div set:html={description} />
   </div>
   <footer>Czytaj więcej: <PostLink post={post} /></footer>
 </article>

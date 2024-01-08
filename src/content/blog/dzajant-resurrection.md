@@ -5,7 +5,7 @@ tags:
     - rower
     - giant
     - diy
-description: Plan na zimę 2023/24 zakładał zrobienie z mojego Dżajanta "najlepszej wersji siebie, edycja 2023" i mając właśnie to na względzie kupiłem sporo rzeczy zarówno od majfrenda, jak i w kraju. Gwoździem programu miała być wymiana napędu z archaicznego 3x6 na 1x10 (lub opcjonalnie 1x9, na to również się przygotowałem, chociaż bardziej chociaż bardziej z przypadku niż z zamysłu), a do tego rower miał zostać odchudzony o kilka kilogramów. Nie obyło się bez przygód i kompromisów.
+description: Plan na zimę 2023/24 zakładał zrobienie z mojego Dżajanta _najlepszej wersji siebie, edycja 2023_ i mając właśnie to na względzie kupiłem sporo rzeczy zarówno _od majfrenda_, jak i w kraju. Gwoździem programu miała być wymiana napędu z archaicznego 3&times;6 na 1&times;10 (lub opcjonalnie 1&times;9 &mdash; na to również się przygotowałem, chociaż bardziej z przypadku niż z zamysłu), a do tego rower miał zostać odchudzony o kilka kilogramów. Nie obyło się bez przygód i kompromisów.
 imageUrl: https://i.imgur.com/IBiTmpGh.jpg
 ---
 

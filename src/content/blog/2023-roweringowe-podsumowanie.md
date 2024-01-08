@@ -5,7 +5,7 @@ tags:
     - rower
     - podsumowanie
     - rant
-description: Pod wieloma względami rok 2023 był dla mnie rokiem zmian, a jedną z nich był rowering. Co prawda pierwszy rower (Dżajanta) kupiłem już wiosną 2022, ale służył mi on tylko do drobnych przejażdżek wokół komina, natomiast regularny rowering zaczął się na dobre od zakupu Boreyszy w lipcu 2023. I to na te pół roku spojrzę krytycznym okiem.
+description: Pod wieloma względami rok 2023 był dla mnie rokiem zmian, a jedną z nich był _rowering_. Co prawda pierwszy rower (Dżajanta) kupiłem już wiosną 2022, ale służył mi on tylko do drobnych przejażdżek wokół komina, natomiast regularny _rowering_ zaczął się na dobre od zakupu Boreyszy w lipcu 2023. I to na te pół roku spojrzę krytycznym okiem.
 imageUrl: https://i.imgur.com/uFjdWfYh.jpg
 ---
 
