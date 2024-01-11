@@ -16,11 +16,11 @@
     "not dead"
   ],
   "dependencies": {
-    "@astrojs/rss": "^4.0.1",
+    "@astrojs/rss": "^4.0.2",
     "@astrojs/sitemap": "^3.0.4",
     "@philnash/astro-pagination": "^0.4.0",
     "@picocss/pico": "^1.5.11",
-    "astro": "^4.1.1",
+    "astro": "^4.1.2",
     "dayjs": "^1.11.10",
     "marked": "^11.1.1"
   },

@@ -19,12 +19,15 @@ export async function getStaticPaths() {
 
 const { entry, prevEntry, nextEntry } = Astro.props;
 const { Content, remarkPluginFrontmatter } = await entry.render();
+let lastModified = '';
 dayjs.extend(utc);
-const lastModified = dayjs
-  .utc(remarkPluginFrontmatter.lastModified)
-  .local()
-  .toDate()
-  .toLocaleDateString('pl-PL');
+if (remarkPluginFrontmatter.lastModified !== lastModified) {
+  lastModified = dayjs
+    .utc(remarkPluginFrontmatter.lastModified)
+    .local()
+    .toDate()
+    .toLocaleDateString('pl-PL');
+}
 ---
 
 <MarkdownPostLayout

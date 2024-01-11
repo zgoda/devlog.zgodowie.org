@@ -4,7 +4,7 @@ import EmptyBlock from './EmptyBlock.astro';
 import PostLink from './PostLink.astro';
 
 const { post } = Astro.props;
-const description = marked.parse(post.data.description);
+const description = marked.parse(post.data.description || '');
 ---
 
 <article>
