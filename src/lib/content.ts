@@ -1,13 +1,14 @@
 import { marked } from 'marked';
+import type { LinkData } from '../types';
 
-export function isPostTechRelated(meta) {
+export function isPostTechRelated(meta: Record<string, unknown>) {
   if (meta.isTechRelated) {
     return true;
   }
   return false;
 }
 
-export function parseLinksDataset(links) {
+export function parseLinksDataset(links: LinkData[]) {
   const categories = new Map();
   links.forEach((link) => {
     const parsedLink = {

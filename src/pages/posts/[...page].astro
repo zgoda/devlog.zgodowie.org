@@ -1,5 +1,5 @@
 ---
-import type { Page } from 'astro';
+import type { Page, PaginateFunction } from 'astro';
 import Pagination from '@philnash/astro-pagination';
 import PostPreview from '../../components/PostPreview.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
@@ -9,7 +9,11 @@ interface Props {
   page: Page;
 }
 
-export async function getStaticPaths({ paginate }) {
+interface PathOptions {
+  paginate: PaginateFunction;
+}
+
+export async function getStaticPaths({ paginate }: PathOptions) {
   const allPosts: any[] = await loadAndFormatPostsCollection();
   return paginate(allPosts, { pageSize: 5 });
 }

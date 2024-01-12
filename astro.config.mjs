@@ -1,5 +1,5 @@
 import { defineConfig } from 'astro/config';
-import { remarkModifiedTime } from './remark-modified-time.mjs';
+import { remarkModifiedTime } from './remark-modified-time';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({

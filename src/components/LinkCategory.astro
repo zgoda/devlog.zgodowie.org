@@ -1,12 +1,18 @@
 ---
 import LinkItem from './LinkItem.astro';
 const { links, name } = Astro.props;
+
+interface LinkInfo {
+  name: string;
+  url: string;
+  description: string;
+}
 ---
 
 <h2>{name}</h2>
 
 {
-  links.map(({ name, url, description }) => (
-    <LinkItem name={name} url={url} description={description} />
+  links.map(({ name: linkName, url, description }: LinkInfo) => (
+    <LinkItem name={linkName} url={url} description={description} />
   ))
 }
