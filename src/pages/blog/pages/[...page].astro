@@ -1,9 +1,9 @@
 ---
 import type { Page, PaginateFunction } from 'astro';
 import Pagination from '@philnash/astro-pagination';
-import PostPreview from '../../components/PostPreview.astro';
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import { loadAndFormatPostsCollection } from '../../lib/collection';
+import PostPreview from '../../../components/PostPreview.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { loadAndFormatPostsCollection } from '../../../lib/collection';
 
 interface Props {
   page: Page;
@@ -28,7 +28,7 @@ const pageTitle = `Artykuły w blogu, strona ${page.currentPage}`;
   {page.data.map((post: any) => <PostPreview post={post} />)}
   <Pagination
     page={page}
-    urlPattern="/posts/{}"
+    urlPattern="/blog/pages/{}"
     previousLabel="« Poprzednia"
     nextLabel="Następna »"
   />
