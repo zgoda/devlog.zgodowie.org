@@ -1,7 +1,7 @@
 ---
-import PostPreview from '../../components/PostPreview.astro';
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import { loadAndFormatPostsCollection } from '../../lib/collection';
+import PostPreview from '../../../components/PostPreview.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { loadAndFormatPostsCollection } from '../../../lib/collection';
 
 export async function getStaticPaths() {
   const allPosts: any[] = await loadAndFormatPostsCollection();

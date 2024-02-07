@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+
+import PostList from '../../../../components/PostList.astro';
+
+import path from 'path';
+import { getSubdirs } from '../../../../lib/filesystem';
+import { loadAndFormatPostsCollection } from '../../../../lib/collection';
+
+export async function getStaticPaths() {
+  const collectionDir = path.resolve(process.cwd(), './src/content/blog/');
+  const yearsInDir = getSubdirs(collectionDir);
+
+  const paths = yearsInDir.flatMap((yearDirectory) => {
+    const yearDir = path.resolve(process.cwd(), './src/content/blog/', yearDirectory);
+    const monthsInYearDir = getSubdirs(yearDir);
+
+    const fullPaths = monthsInYearDir.map((monthDirectory) => {
+      return {
+        params: { year: yearDirectory, month: monthDirectory },
+      };
+    });
+
+    return fullPaths;
+  });
+
+  return paths;
+}
+
+const { year, month } = Astro.params;
+
+const posts = await loadAndFormatPostsCollection().then((posts) =>
+  posts.filter(
+    (post) =>
+      post.data.pubDate.getFullYear().toString() === year &&
+      post.data.pubDate.getMonth() === parseInt(month || '0', 10) - 1,
+  ),
+);
+
+const options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'long' };
+const today = new Date(`${year}-${month}-01`);
+const titleDate = today.toLocaleDateString('pl-PL', options);
+
+const pageTitle = `Posty z ${titleDate}`;
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <PostList posts={posts} />
+</BaseLayout>
