@@ -6,6 +6,7 @@ tags:
     - madeinchina
     - rower
     - trabant
+    - tanio
 pubDate: 2023-11-11T16:11:26+01:00
 description: Począwszy od 11 listopada przez około tydzień chiński serwis zakupowy Aliexpress urządza spore promocje. Jeżeli ktoś planuje sobie coś kupić, to warto jest tak wycyrklować, żeby wstrzelić się w ten dzień, bo zniżki są konkretne.
 ---

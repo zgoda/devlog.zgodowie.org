@@ -5,6 +5,7 @@ tags:
     - aliexpress
     - madeinchina
     - rower
+    - tanio
 description: Wśród sknerusów popularne są ciuchy rowerowe kupowane bezpośrednio w Chinach przez serwis Aliexpress. Jest tanio, czas realizacji zamówienia zwykle jest znośny, a jakość bywa do zaakceptowania. Dziś szerszym spojrzeniem ogarnę krótkie bibsy, czyli spodenki rowerowe na szelkach.
 imageUrl: https://i.imgur.com/EjIy7wth.png
 ---

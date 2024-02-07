@@ -4,6 +4,8 @@ pubDate: 2023-11-10T16:43:09+01:00
 tags:
     - rower
     - trabant
+    - decathlon
+    - tanio
 description: Pierwsze wrażenia po kilku kilometrach przejażdżki nowym rowerem. Czy będą z niego ludzie?
 imageUrl: https://i.imgur.com/ur6oZKNh.jpg
 ---

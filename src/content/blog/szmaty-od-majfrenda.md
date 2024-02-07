@@ -7,6 +7,7 @@ tags:
     - aliexpress
     - madeinchina
     - decathlon
+    - tanio
 imageUrl: https://i.imgur.com/0n8qbGbh.jpg
 description: Już pierwszy zakup spodenek i koszulek w Decathlonie zakończył się bólem portfela, a przez całą drogę ze sklepu do domu mój wewnętrzny Żyd łkał cichutko.
 ---
