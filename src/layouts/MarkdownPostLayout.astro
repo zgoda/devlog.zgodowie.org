@@ -1,6 +1,7 @@
 ---
 import OldPostWarning from '../components/OldPostWarning.astro';
 import PrevNext from '../components/PrevNext.astro';
+import TagLink from '../components/TagLink.astro';
 import { isPostTechRelated } from '../lib/content';
 import BaseLayout from './BaseLayout.astro';
 
@@ -26,13 +27,7 @@ const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
     <p>Ostatnia modyfikacja: {lastModified}</p>
   </div>
   <div class="tags">
-    {
-      frontmatter.tags.sort().map((tag: string) => (
-        <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </p>
-      ))
-    }
+    {frontmatter.tags.sort().map((tag: string) => <TagLink tag={tag} />)}
   </div>
   <PrevNext prevEntry={prevEntry} nextEntry={nextEntry} />
   <slot />
@@ -40,22 +35,9 @@ const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
 </BaseLayout>
 
 <style>
-  .tag a {
-    color: #00539f;
-  }
-
   .tags {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: var(--typography-spacing-vertical);
-  }
-
-  .tag {
-    margin: 0.25em;
-    border: dotted 1px #a1a1a1;
-    border-radius: 0.5em;
-    padding: 0.25em 0.5em;
-    font-size: 0.75em;
-    background-color: #f8fcfd;
   }
 </style>
