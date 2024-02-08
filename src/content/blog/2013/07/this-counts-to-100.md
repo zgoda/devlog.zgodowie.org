@@ -6,11 +6,12 @@ tags:
     - piwo
 author: Jarek
 description: W początkach lipca uwarzyłem moją warkę nr 100, zbiegiem okoliczności była to jasna pszenica - dokładnie jak moja warka nr 1.
+imageUrl: https://i.imgur.com/H2L02g0h.png
 ---
 
 W początkach lipca uwarzyłem moją warkę nr 100, zbiegiem okoliczności była to jasna pszenica - dokładnie jak moja warka nr 1. Po tym nastąpiła trzytygodniowa przerwa na urlop w Grecji, a do warzenia miałem wrócić zaraz po powrocie z wakacji. Plany uległy jednak zmianie i warzenie musiało zostać przełożone o tydzień, trochę z lenistwa, a trochę z niechęci do powtarzania w kółko tych samych receptur. W najbliższy piątek będę zacierał moją warkę nr 101, rozpoczynając jednocześnie nową setkę i nowy sezon. Trudno było mi się do tego zebrać, ale trzeba. Trzeba, bo dobre piwo z kranu nie leci. Trzeba również dlatego, że umiejętności należy rozwijać.
 
-->![Mmm, beer!](http://3.bp.blogspot.com/-8BO1IfTQ2D8/UdFKlNH9WBI/AAAAAAAAC6U/-FQhkjbrRUc/s800/%255BUNSET%255D)<-
+![Mmm, beer!](https://i.imgur.com/H2L02g0h.png)
 
 Od około 20-tej warki czuję, że jako tako panuję nad procesem warzenia. Od 50-tej czuję, że panuję nad surowcami, słodem i chmielem. Nadal jednak nie panuję nad drożdżami, ich efekt działania jest więcej dziełem zbiegu korzystnych okoliczności a czasem przypadku, niż moich celowych działań. Tego właśnie dotyczy plan na następne 100 warek, aby w końcu zapanować nad drożdżami i uniezależnić się od kaprysów pogody. Zima 2012/13 była szczególnie bolesna dla moich lagerów przez swoją zmienność.
 
