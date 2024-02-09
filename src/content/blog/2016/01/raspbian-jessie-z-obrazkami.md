@@ -8,6 +8,7 @@ tags:
 author: Jarek
 description: Jak to teraz odpalić na moim starym RPi?
 isTechRelated: true
+imageUrl: https://i.imgur.com/WMXkpsxh.png
 ---
 
 Wymyśliłem sobie jedno zastosowanie w domu dla starego RPi B (bez plusa, 26-pin GPIO, 900MHz single core i 512MB RAM). Do tego jednak potrzebowałem jakiegoś wyświetlacza z panelem dotykowym. Przypadkiem wpadł mi w ręce taki jeden, 4 calowy, całkiem popularny. Okazja była, to wziąłem. No to jak to teraz odpalić na moim RPi?
@@ -51,7 +52,7 @@ Reszta jak w oryginale, tylko oczywiście trzeba przeprowadzić kalibrację, bo 
 
 Do zrobienia zostało mi zmienić orientację ekranu (z domyślnej poziomej na pionową, tak żeby wtyczka zasilania była od góry) i środowisko graficzne (z lxde na fluxboxa, potrzebuję tylko managera okien, a im mniej graficznych wodotrysków tym lepiej). Ale to już zupełnie inna historia.
 
-Okazuje się, że to już prościzna. Najpierw trzeba zainstalować fluxboxa (nikt by się nie domyślił) i dopisać odpowiednią linijkę w pliku .xsession swojego użytkownika. Powiedzmy, że będzie to wyglądać jakoś tak:
+Okazuje się, że to już prościzna. Najpierw trzeba zainstalować fluxboxa (nikt by się nie domyślił) i dopisać odpowiednią linijkę w pliku `.xsession` swojego użytkownika. Powiedzmy, że będzie to wyglądać jakoś tak:
 
 ```shell
 sudo apt-get install fluxbox
@@ -60,7 +61,7 @@ echo "fluxbox" > .xsession
 
 Oryginalna instrukcja dobrze podpowiada co trzeba zrobić by obrócić ekran, jednak dla 4" nie wystarczy zmienić porządku opcji kalibracji, ale dla pewności lepiej jest tę kalibrację przeprowadzić od nowa ze zmienioną geometrią. Szczęśliwie xinput-calibrator w Jessie jest już w repo, więc w porównaniu do Wheezy obejdzie się bez kompilowania ze źródeł. Efekt tymczasowo wygląda tak:
 
-![Mmm, beer!](http://4.bp.blogspot.com/-JHudjiPmjuE/VqOp8r9PivI/AAAAAAAAEgc/qBlsLLmDeLY/s800/upload_-1)
+![Mmm, beer!](https://i.imgur.com/WMXkpsxh.png)
 
 ### Remove bloatware
 
@@ -74,4 +75,4 @@ echo '[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && exec startx' >> .profile
 echo 'exec startfluxbox' > .xinitrc
 ```
 
-Potem oczywiście można sobie pokonfigurować tego naszego fluxboxa jak się chce, oczywiście ręcznie edytując pliki w ~/.fluxbox. A jak. W raspi-config pozostaje ustawić sobie automatyczne bootowanie do sesji terminalowej i wuala.
+Potem oczywiście można sobie pokonfigurować tego naszego fluxboxa jak się chce, oczywiście ręcznie edytując pliki w `~/.fluxbox`. A jak. W `raspi-config` pozostaje ustawić sobie automatyczne bootowanie do sesji terminalowej i wuala.

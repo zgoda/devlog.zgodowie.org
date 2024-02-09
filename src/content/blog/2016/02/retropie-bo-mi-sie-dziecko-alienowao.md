@@ -8,6 +8,7 @@ tags:
 author: Jarek
 description: Dziecko moje najdroższe alienowało mi się siedząc przed komputerem w swoim pokoju. Teraz się alienuje w salonie.
 isTechRelated: true
+imageUrl: https://i.imgur.com/SehpKpeh.png
 ---
 
 Dziecko moje najdroższe alienowało mi się siedząc przed komputerem w swoim pokoju. Nie żebym jej zabraniał, ale skoro ma grać, to niech gra przy nas, w salonie. Przynajmniej będziemy wiedzieli w co gra.
@@ -47,11 +48,11 @@ sudo RetroPie-Setup/retropie_setup.sh
 
 Tam w pierwszym menu wybieramy "Experimental packages":
 
-![The Suchy Experiment](https://2.bp.blogspot.com/-FXzJslV6BAw/VsRgmrYzvPI/AAAAAAAAEhg/n2RHZDAo8Sc/s800/rpie01-exp-packages.png)
+![The Suchy Experiment](https://i.imgur.com/EaPh2iQh.png)
 
 i następnie "pcsx-rearmed":
 
-![Armed again](https://1.bp.blogspot.com/-qZ6JR0gJWVY/VsRg4_og8eI/AAAAAAAAEhk/pY0NKtpY-Vc/s800/rpie02-pcsx-rearmed.png)
+![Armed again](https://i.imgur.com/maESKejh.png)
 
 Skrypt zadba o to, by wszystkie potrzebne do kompilacji pakiety zostały zainstalowane, następnie ściągnie sobie kod źródłowy, skompiluje go i wrzuci gdzie trzeba. Teraz wystarczy zrestartować EmulationStation i można grać.
 
@@ -75,14 +76,14 @@ Po restarcie ES już powinno być lepiej, ale nie całkiem dobrze, bo wciąż ma
 
 Wracamy do naszego skryptu `retropie_setup.sh` i z Experimental packages wybieramy Scraper:
 
-![Scrap, scrap, scrap](https://1.bp.blogspot.com/-kijLzWD4kQQ/VsRk5wI935I/AAAAAAAAEh0/fsZDzivqvdM/s800/rpie03-scraper.png)
+![Scrap, scrap, scrap](https://i.imgur.com/knyVbdmh.png)
 
 Po uruchomieniu wybieramy sobie albo albo "Scrape all systems" albo tylko wybrane, może na początek lepiej sobie pojechać po całości, ale i tak uprzednio dobrze będzie się upewnić czy nie ma nowszej wersji i dać "Update scraper". Tak dla pewności.
 
-![Scrap it!](https://1.bp.blogspot.com/-0TkIpcQzdbU/VsRltYgYB5I/AAAAAAAAEh8/dkSMkefbylU/s800/rpie04-scraper-scrap.png)
+![Scrap it!](https://i.imgur.com/E1PqAbth.png)
 
 Ten program zadziała tylko wtedy, gdy ES nie będzie uruchomione, o czym nam uprzejmie przypomni w innym przypadku. W każdym razie po chwili będziemy mieli już metadane naszych gierek ściągnięte i z przyjemnością przejrzymy sobie ich listę, a następnie z przyjemnością w nagrodę pukniemy partyjkę w X-COM.
 
-![X-Com się skończyło na Kill'Em All](https://3.bp.blogspot.com/-yMRvqFAvltw/VsRmeEsDLlI/AAAAAAAAEiI/bD6GK8wtfH8/s800/upload_-1)
+![X-Com się skończyło na Kill'Em All](https://i.imgur.com/SehpKpeh.png)
 
 Po południu przyjdzie dzieć ze szkoły i już nie pogramy, więc lepiej korzystać.
