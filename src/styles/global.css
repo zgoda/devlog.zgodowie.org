@@ -1,42 +1,4 @@
-@import url('../../node_modules/@picocss/pico/css/pico.min.css');
-
-/* Light-green Light scheme (Default) */
-/* Can be forced with data-theme="light" */
-[data-theme='light'],
-:root:not([data-theme='dark']) {
-  --primary: #7cb342;
-  --primary-hover: #689f38;
-  --primary-focus: rgba(124, 179, 66, 0.125);
-  --primary-inverse: #fff;
-}
-
-/* Light-green Dark scheme (Auto) */
-/* Automatically enabled if user has Dark mode enabled */
-@media only screen and (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
-    --primary: #7cb342;
-    --primary-hover: #8bc34a;
-    --primary-focus: rgba(124, 179, 66, 0.25);
-    --primary-inverse: #fff;
-  }
-}
-
-/* Light-green Dark scheme (Forced) */
-/* Enabled if forced with data-theme="dark" */
-[data-theme='dark'] {
-  --primary: #7cb342;
-  --primary-hover: #8bc34a;
-  --primary-focus: rgba(124, 179, 66, 0.25);
-  --primary-inverse: #fff;
-}
-
-/* Light-green (Common styles) */
-:root {
-  --form-element-active-border-color: var(--primary);
-  --form-element-focus-color: var(--primary-focus);
-  --switch-color: var(--primary-inverse);
-  --switch-checked-background-color: var(--primary);
-}
+@import url('../../node_modules/@picocss/pico/css/pico.lime.min.css');
 
 /* Global styles */
 
@@ -46,11 +8,11 @@
   margin-bottom: var(--typography-spacing-vertical);
 }
 
-body > svg {
+body>svg {
   display: none;
 }
 
-span.icon > svg {
+span.icon>svg {
   width: 1rem;
   height: 1rem;
   vertical-align: text-top;

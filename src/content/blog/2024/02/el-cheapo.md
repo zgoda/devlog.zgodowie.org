@@ -6,12 +6,12 @@ tags:
     - rant
     - tanio
 description: Przez internety przetacza się lawina opowieści z mchu i paproci, jakoby to influencerzy rowerowi wcale a wcale to nie byli na smyczy sponsorów, ktorzy każą im pompować sprzedaż drogich rowerów, bo _na każdym rowerze można mieć przyjemność z jazdy_ (że jakoby również na tanim). A tu, o, mi tramwaj jedzie. Nie oszukujmy się, nie powiedzieliby niczego, co mogłoby choć trochę zdenerwować tych, którzy im płacą.
-imageUrl: https://i.imgur.com/tPxoDhWh.jpg
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/tPxoDhWh.jpg
 ---
 
 Przez internety przetacza się lawina opowieści z mchu i paproci, jakoby to influencerzy rowerowi wcale a wcale to nie byli na smyczy sponsorów, ktorzy każą im pompować sprzedaż drogich rowerów, bo _na każdym rowerze można mieć przyjemność z jazdy_ (że jakoby również na tanim). A tu, o, mi tramwaj jedzie. Nie oszukujmy się, nie powiedzieliby niczego, co mogłoby choć trochę zdenerwować tych, którzy im płacą.
 
-![To było bardzo dobre](https://i.imgur.com/tPxoDhWh.jpg)
+![To było bardzo dobre](https://storage.googleapis.com/public.zgodowie.org/images/tPxoDhWh.jpg)
 
 Influencerzy mówią to, co chcą usłyszeć ich widzowie (obecni oraz przyszli), ale tylko to, na co im pozwala sponsor. To w odróżnieniu o zwykłych blogerów, którzy bez zastanowienia plotą co im ślina na język przyniesie, nie przejmując się niczym i nikim. W kontekście tego, o czym teraz piszę, ci drudzy w ogóle mnie nie interesują, a spośród nich ci, którzy opowiadają o drogich rowerach interesują mnie _mniej niż zero_, więc pomijam ten cały kontekst.
 
@@ -39,7 +39,7 @@ Mając już rozjaśnione na czym polega ten cyrk i kto w nim jest małpą na szn
 
 Nie mając szczególnych wymagań ponad turystykę i rekreację, na liście tego co koniecznie musi rower mieć z _drogich rzeczy_ pozostaną tylko opony i siodło (bo ani dobre opony ani dobre siodło nie są tanie). Kompromisy jakie pociągną za sobą hamulce mechaniczne, szybkozamykacze, 8- czy 9-rzędowa przerzutka z tyłu zamiast 11 są marginalne &mdash; nie odczujemy ich zanadto. Rzeczy te są sztucznie przewartościowane, nie wnosząc do życia przeciętnego _nawijacza kilometrów_ niczego szczególnego poza świadomością, że w rowerze ma się _coś nowoczesnego_, co właściwie nie wiadomo co daje i jakie ma zalety, poza _byciem nowszym od tego co stare_.
 
-![Dżajant jak żywy](https://i.imgur.com/E8wG3ILh.jpg)
+![Dżajant jak żywy](https://storage.googleapis.com/public.zgodowie.org/images/E8wG3ILh.jpg)
 
 Istnieją zastosowania roweru, które wymuszają pewne rozwiązania techniczne &mdash; różne formy wyścigów będą premiować zmniejszony opór powietrza, niższą masę, wyższą sztywność konstrukcji, lepsze pochłanianie drgań czy precyzyjny dobór przełożenia do warunków na trasie. Żadna z tych rzeczy nie będzie za to miała wielkiego znaczenia w przypadku użytkowania rekreacyjnego typu wycieczka nad rzekę czy niedzielna przejażdżka na kawę i lody. Ma być wygodnie, przyjemnie, bez ciśnięcia (bo nikt nie lubi być spocony jak ruda mysz) i dopóki nie trzeba jechać na Gassy, to właściwie wystarczy tylko to, co rowerowi konieczne do jazdy oraz wymagane przez PoRD.
 
