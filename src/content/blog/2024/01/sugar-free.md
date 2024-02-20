@@ -5,13 +5,13 @@ tags:
     - lowcarb
     - keto
     - żarcie
-imageUrl: https://i.imgur.com/95KIqjrh.jpg
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/kura-w-swince-2023-08.jpg
 description: Wiosną 2023 roku przestałem jeść cukier (ogólnie, a nie tylko sacharozę) i wiele rzeczy od razu stało się prostsze, nie wspominając o tym, że i jednocześnie lżejsze. I o ile popularna obecnie dieta ketogeniczna być może nie jest dla wszystkich, tak niskowęglowodanowy styl żywienia już jak najbardziej.
 ---
 
 Wiosną 2023 roku przestałem jeść cukier (ogólnie, a nie tylko sacharozę) i wiele rzeczy od razu stało się prostsze, nie wspominając o tym, że i jednocześnie lżejsze. I o ile popularna obecnie dieta ketogeniczna być może nie jest dla wszystkich, tak niskowęglowodanowy styl żywienia już jak najbardziej.
 
-![Mniam](https://i.imgur.com/95KIqjrh.jpg)
+![Mniam](https://storage.googleapis.com/public.zgodowie.org/images/kura-w-swince-2023-08.jpg)
 
 Od początku muszę zaznaczyć, że nie mam przygotowania medycznego, a moje podstawy z zakresu fizjologii człowieka opierają się na rozszerzonym programie nauczania biologii w liceum pod koniec lat 80-tych XX wieku. Pozwala mi to rozumieć istotę procesów biologicznych zachodzących podczas trawienia, ale raczej nie więcej, więc zdecydowanie nie polecam wprowadzania radykalnych zmian w sposobie żywienia jedynie na podstawie mojej inspiracji, bez jakiejkolwiek konsultacji z fachowcami. _You know the drill._
 
@@ -27,7 +27,7 @@ Nastąpiło otwarcie oczu.
 
 Gdy już decyzja zapadła, to wystarczyło tylko trochę konsekwencji przy wprowadzaniu w życie planu zmiany. Aby zorientować się ile czego właściwie zjadam zacząłem notować posiłki z rozbiciem na makroskładniki (w aplikacji Fitatu, ale jest też wiele innych o podobnej funkcjonalności). Początkowo zmniejszyłem dzienną dawkę węglowodanów do ok. 100 g &mdash; to może niewiele mówić o rzeczywistej ilości w przełożeniu na produkty, ale to mniej-więcej 3 kromki chleba lub 2 średnie ziemniaki. Trzymając się tego limitu w ciągu 2 tygodni udało mi się przemodelować mój jadłospis tak, by wyeliminować z niego pieczywo, produkty zbożowe, kasze, ryż i warzywa korzeniowe. Bolesne było rozstanie z makaronem, potrawami z ziemniaków i pierogami, ale jak trzeba, to trzeba. Po początkowych 2 tygodniach adaptacji zmniejszyłem limit dzienny węglowodanów do ok 50 g, a tyle dziennie dostarczam w warzywach, nabiale i wyrobach mięsnych.
 
-![Fritatta z kurkami](https://i.imgur.com/KyXjUFvh.jpg)
+![Fritatta z kurkami](https://storage.googleapis.com/public.zgodowie.org/images/fritatta-z-kurkami-2023-08.jpg)
 
 Okazało się to prostsze niż się obawiałem z początku, jednak kosztem spędzania dłuższego czasu w kuchni. Nie dało się już opędzić śniadania paroma kanapkami z serem czy z wędliną, podobnie jak dodatek do obiadu też był bardziej skomplikowany niż gotowane ziemniaki. Nie żeby to było przykre, bo lubię gotować, ale jednak wymaga więcej mobilizacji i również planowania. Z rzeczy które uważam za _żywieniowo dobre_ to na pewno jem więcej warzyw, ryb i owoców morza.
 
@@ -37,7 +37,7 @@ Zdecydowanie nie jest tak, że całkowicie odrzuciłem wszystkie źródła węgl
 
 Zaskakujące było to, jak szybko przyszły pierwsze efekty. Co prawda początkowy spadek wagi jest związany głównie z utratą nadmiaru wody po obniżeniu poziomu cukru, ale ostatecznie zaczęła mi również schodzić tkanka tłuszczowa, w tym z brzucha, co widać np. po spodniach, które kupiłem sobie pod koniec lata i jesienią 2022 &mdash; założyłem je ponownie pierwszy raz wczesną jesienią i okazały się na mnie o dobre 3 rozmiary za szerokie.
 
-![Rypka](https://i.imgur.com/UR8RDRCh.jpg)
+![Rypka](https://storage.googleapis.com/public.zgodowie.org/images/rybka-z-ziemniaczkami-2023-07.jpg)
 
 Po początkowym szybkim spadku wagi tempo zwolniło i tak pełzając waga ustabilizowała się w okolicach 90 kg. W tym momencie była już późna jesień, co oznaczało zmniejszenie aktywności fizycznej, a to z kolei pociągnęło za sobą całkowitą stagnację, bo nie zamierzałem się zadręczać dodatkową dietą. Próbowałem z siłownią, ale tylko utwierdziłem się w przekonaniu, że to nie dla mnie. Nie pozostało mi nic innego, jak tylko ćwiczyć w domu, no a to jednak jest znacząco mniejsze obciążenie treningowe, niż nawijanie kilometrów na rowerze lub trening pod czyjeś dyktando. Przezwyciężając wszystkie przeciwności wyruszyłem w wirtualny objazd Peloponezu (w aplikacji Tacx Training) i dzięki temu udało mi się przywrócić trend spadkowy. Powoli ale do przodu, w styczniu 2024 jest to 88 kg i do celu jakim jest BMI&lt;25 pozostało już tylko 2 kg. Plan jest taki, żeby nie ogladając się na wskazania wagi utrzymać umiarkowaną aktywność fizyczną, tj. około 200 km na rowerze w miesiącach zimowych i 400 km miesięcznie od wiosny do jesieni.
 
