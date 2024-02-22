@@ -6,12 +6,12 @@ tags:
     - rant
     - tanio
 description: Tanie rowery to szmelc i wszyscy doskonale o tym wiedzą. Da się na nich jako-tako pojeździć jeden sezon, może dwa jeżeli tylko na wycieczki latem w niedziele, bo potem zaczynają się psuć na potęgę i ostatecznie po kilku latach ledwo można je opchnąć za jakieś grosze na OLX / Fejsbuku. Minimalna cena za jaką obecnie można nabyć sensowny rower to jest 5500-6000 złotych i nijak nie chce wyjść inaczej. Taki rower posłuży z 5 lat, zanim zepsuje się tak, że koszt naprawy przekroczy jego wartość.
-imageUrl: https://i.imgur.com/GYXhhNxh.jpg
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/korba-resurrection.jpg
 ---
 
 Tanie rowery to szmelc i wszyscy doskonale o tym wiedzą. Da się na nich jako-tako pojeździć jeden sezon, może dwa jeżeli tylko na wycieczki latem w niedziele, bo potem zaczynają się psuć na potęgę i ostatecznie po kilku latach ledwo można je opchnąć za jakieś grosze na OLX / Fejsbuku. Minimalna cena za jaką obecnie można nabyć sensowny rower to jest 5500-6000 złotych i nijak nie chce wyjść inaczej. Taki rower posłuży z 5 lat, zanim zepsuje się tak, że koszt naprawy przekroczy jego wartość.
 
-![Resurrection](https://i.imgur.com/GYXhhNxh.jpg)
+![Resurrection](https://storage.googleapis.com/public.zgodowie.org/images/korba-resurrection.jpg)
 
 Taki pogląd jest wciąż żywy, a w internetach co chwilę pojawiają się podobne opinie, często wzbogacone przykładami rowerów, do których _nikt się nie musi dotykać przez lata_. Nie mnie osądzać ile w tych opowieściach prawdy, chociaż z moich własnych doświadczeń wiem, że może tej prawdy tam być całkiem sporo, bo mam taki 20-letni rower, z którym rzeczywiście nie trzeba wiele robić:
 

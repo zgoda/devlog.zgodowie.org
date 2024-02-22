@@ -1,6 +1,6 @@
 ---
 title: Imieniny listopada na Aliexpress
-imageUrl: https://i.imgur.com/cOCSuLoh.png
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/listonosz-pat.jpeg
 tags:
     - aliexpress
     - madeinchina
@@ -13,7 +13,7 @@ description: Począwszy od 11 listopada przez około tydzień chiński serwis za
 
 Począwszy od 11 listopada przez około tydzień chiński serwis zakupowy Aliexpress urządza spore promocje. Jeżeli ktoś planuje sobie coś kupić, to warto jest tak wycyrklować, żeby wstrzelić się w ten dzień, bo zniżki są konkretne.
 
-![Listonosz zawsze dzwoni dwa razy](https://i.imgur.com/cOCSuLoh.png)
+![Listonosz zawsze dzwoni dwa razy](https://storage.googleapis.com/public.zgodowie.org/images/listonosz-pat.jpeg)
 
 Jak kazdy przeciętny _kolarzysta_ szybko zorientowałem się, że **rowering to nie są tanie rzeczy**. Poczynając od szmat, przez wszystkie mniej lub bardziej niezbędne akcesoria, a kończąc na częściach rynek bezlitośnie wysysa ogromne kwoty z konta i trzeba sobie z tym jakoś radzić, jeżeli nie chce się pójść z torbami. I jakkolwiek badziewnie by to nie wyglądało, to najlepszym sposobem na to żeby dostać więcej ciastka za te same pieniądze jest _cebuling u źródła_, czyli w Chinach. Welcome to Aliexpress!
 
@@ -23,17 +23,17 @@ Przy okazji 11.11 pozwoliłem sobie lekko zaszaleć, kupiłem również kilka rz
 
 ### Pimp my Dżajant
 
-![Napęd do Dżajanta](https://i.imgur.com/wIIZWwDh.png)
+![Napęd do Dżajanta](https://storage.googleapis.com/public.zgodowie.org/images/czesci-z-ali-1.jpeg)
 
-![Korba do Dżajanta](https://i.imgur.com/kqadGJEh.png)
+![Korba do Dżajanta](https://storage.googleapis.com/public.zgodowie.org/images/czesci-z-ali-2.jpeg)
 
-![Blat do Dżajanta](https://i.imgur.com/ANAyZL5h.png)
+![Blat do Dżajanta](https://storage.googleapis.com/public.zgodowie.org/images/czesci-z-ali-3.jpeg)
 
 Przerabiając Dżajanta na _najlepszą możliwą wersję samego siebie_ postanowiłem zacząć od zmiany jego napędu z bardzo przestarzałego 3&times;6 na nieco nowocześniejszy 1&times;9. Z powodu marnego działania oryginalnego zestawu przedniej przerzutki Shimano C050 oraz manetki SRAM GripShift X3 i tak efektywnie działał on jako 2&times;6, przy czym w warunkach moich płaskopolskich wykorzystywałem tylko 2-3 przełożenia na średnim blacie i jedno na dużym, a w ogóle nie używałem najmniejszego blatu. _Po nowemu_ z przodu będzie blat 44T, a z tyłu kaseta 12-36 i sądzę że tyle mi wystarczy. Były i inne plany przerobienia napędu, ale odpadły po chwili przemyślenia: 2&times; bo ostatnio dopiekło mi regulowanie przedniej przerzutki w Trabancie, a &times;10 z powodu cen łańcuchów i kaset &mdash; nie wiedzieć czemu kosztują one prawie dwa razy więcej niż do napędów dziewięciobiegowych, zgodność z innymi komponentami również jest trochę bardziej ograniczona. Zmiana napędu wymagała również wymiany piasty na obsługującą kasety (oryginalnie jest wolnobieg), więc niejako przy okazji wymieniłem całe tylne koło.
 
 Przerzutkę wziąłem ze średnim wózkiem, który obsłuży kasetę do 42T &mdash; jeżeli wciąż będzie mi zbyt twardo z pierwotnym napędęm, to zmienię zębatkę z przodu na 42T by mieć dostępne przełożenie 1:1, a kasetę na bardziej _rozstrzeloną_ zmienię dopiero w ostateczności.
 
-![Speed!](https://i.imgur.com/og39OuTh.png)
+![Speed!](https://storage.googleapis.com/public.zgodowie.org/images/przelozenia.jpeg)
 
 Jeżeli przy wyjątkowo lekkiej kadencji 75 rpm na najtwardszym przełożeniu będę miał 36 km/h na rowerze służącym jako _miejska dojazdówka_, to naprawdę nie będę tego sobie poczuwał za porażkę. Z wykresu wynika, że najczęściej używanymi przełożeniami będą 4, 5 i 6, z dostatecznym zapasem na podjazd pod któryś z okolicznych wiaduktów lub jeszcze bardziej spacerowe tempo.
 
@@ -43,25 +43,25 @@ Słówko jeszcze o tarczach marki Deckas &mdash; powszechnie uważa się je za w
 
 ### Szmatex
 
-![Szmaty 1](https://i.imgur.com/KnIxslRh.png)
+![Szmaty 1](https://storage.googleapis.com/public.zgodowie.org/images/szmaty-z-ali-1.jpeg)
 
-![Szmaty 2](https://i.imgur.com/OQeyHD1h.png)
+![Szmaty 2](https://storage.googleapis.com/public.zgodowie.org/images/szmaty-z-ali-2.jpeg)
 
 Szmaty. Ani dobre, ani złe, przeciętne i zwyczajnie tanie. W roku 2023 jeździłem w ciuchach do MTB, dopóki nie schudłem na tyle, żeby nie wyglądać w obcisłych rzeczach jak _miś kuleczka w lajkrze_. Jako że te czasy są już przeszłością, to w roku 2024 będę śmigał w normalnych szmatach. A że 4 sztuki? Mam już obcykane, że 4 komplety koszulka + bibsy + czapeczka to jeden wsad do mojej pralki, więc potrzebuję razem 6 kompletów. Te koszulki są do kompletów od 4 do 6.
 
 ### Pimp my Trabant
 
-![Pomarańczka](https://i.imgur.com/MiOh9dTh.png)
+![Pomarańczka](https://storage.googleapis.com/public.zgodowie.org/images/owijka.jpeg)
 
 Owijka do Trabanta. A może do Boreyszy? Na wiosnę się zobaczy w którym ona zląduje. Praktycznie przez cały rok jeżdżę w rękawiczkach, więc mam nieco niższe wymagania od owijek, jednak estetyka nadal odgrywa dużą rolę. A przynajmniej w Trabancie będzie ona zmieniana kilkukrotnie, więc 2 czy 3 w zapasie to zdecydowanie nie jest za dużo. Ta jest trzecia.
 
-![Blat do Trabanta](https://i.imgur.com/CR4GaC5h.png)
+![Blat do Trabanta](https://storage.googleapis.com/public.zgodowie.org/images/blat-46t.jpeg)
 
 Blat 46T do Trabanta, pasujący montażowo do korby od Clarisa R2000 2&times;8; narrow-wide, więc raczej będzie używany głównie testowo z odpiętą przednią przerzutką. Oryginalnie jest tam tradycyjny kompakt 50/34, a ja chcę sprawdzić jak się jeździ z trochę mniejszym obciążeniem na dużym blacie, więc założę koło zębate tej samej wielkości, jaką mam w GRX400 w Boreyszy i jaka doskonale się sprawdza w naszych warunkach na tyle, że praktycznie nie muszę używać małego blatu. Wszystko po to, by było jeszcze bardziej rekreacyjnie. Póki co kompakt sprawuje się całkiem dobrze i nie jest odczuwalnie zbyt twardy, więc testy odbędą się dopiero wiosną.
 
-![Klamkomanetki na 9s](https://i.imgur.com/b7HSLx4h.png)
+![Klamkomanetki na 9s](https://storage.googleapis.com/public.zgodowie.org/images/naped-9s-1.jpeg)
 
-![Przerzutka 9s](https://i.imgur.com/5Os1P2hh.png)
+![Przerzutka 9s](https://storage.googleapis.com/public.zgodowie.org/images/naped-9s-2.jpeg)
 
 Te dwie rzeczy wpadły raczej z rozpędu (i dla zaspokojenia pokusy), niż z rzeczywistej potrzeby, bo napęd Trabanta na 2&times;9 będę przerabiał prawdopodobnie dopiero po przyszłym sezonie, ale nie mogłem sobie odmówić widząc _takie tłuste promki_. Co do wyboru klamkomanetek &mdash; psioczyłem na systemy z jedną dźwignią _do wszystkiego_, ale jednak postanowiłem dać sobie szansę, może będzie mi łatwiej do tego przywyknąć, niż do systemu Microshiftu z przyciskiem _na zewnątrz klamki_ (z systemem L-TWOO z przyciskiem od wewnętrznej strony nawet nie będę się mierzył, bo tylko w jednym chwycie do niego dosięgam bez problemów, a i to niezbyt wygodnie). Ostatecznie jeżeli nie podpasuje mi system z _jedną dźwignią do wszystkiego_, to będę się rozglądał za czymś innym, ale do tego to jeszcze dużo czasu upłynie.
 
