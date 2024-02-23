@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { loadAndFormatPostsCollection } from '../../../lib/collection';
+
 const allPosts: any[] = await loadAndFormatPostsCollection();
 const tags = [...new Set(allPosts.map((post) => post.data.tags).flat())].sort();
 const pageTitle = 'Wszystkie etykiety';
@@ -23,12 +24,13 @@ const pageTitle = 'Wszystkie etykiety';
 <style>
   a {
     color: #00539f;
+    text-decoration: none;
   }
 
   .tags {
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: var(--typography-spacing-vertical);
+    margin-bottom: var(--pico-typography-spacing-vertical);
   }
 
   .tag {
