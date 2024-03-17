@@ -23,6 +23,12 @@
       "url": "https://proot-me.github.io/",
       "category": "SysDev",
       "description": "chroot dla zwykłego użytkownika - ile ja się nakombinowałem kiedyś żeby nie będąc `root`em zbudować debianową paczkę `armhf` na `amd64`, to głowa mała, a tu proszę, rach-ciach"
+    },
+    {
+      "name": "Mapy BBBike dla Garmina",
+      "url": "https://download.bbbike.org/osm/",
+      "category": "Rower",
+      "description": "moim zdaniem najlepsze mapy dla nawigacji rowerowych Garmin"
     }
   ]
 }
