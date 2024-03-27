@@ -20,7 +20,7 @@ Przyszedł dzień kiedy miałem pojechać na dość długą nocną przejażdżk�
 
 ![Trabant uciorany](https://storage.googleapis.com/public.zgodowie.org/images/trabant-uciorany.jpg)
 
-Po obeschnięciu błota w oczy rzucił mi się supeł na lince tylnej przerzutki. Zabrałem rower na myjnię, oczyściłem go dokładnie i okazało się, że już dłużej nie można co czekać z wymianą linki. Linka przedniej przerzutki jest jeszcze cała, ale rysa na niej jest już widoczna, więc na dniach wymienię również i tę, nawet zanim pęknie któraś z nitek.
+Po obeschnięciu błota w oczy rzucił mi się supeł na lince tylnej przerzutki. Zabrałem rower na myjnię, oczyściłem go dokładnie i okazało się, że już dłużej nie można czekać z jej wymianą. Linka przedniej przerzutki jest jeszcze cała, ale rysa na niej jest już widoczna, więc na dniach wymienię również i tę, nawet zanim pęknie któraś z nitek.
 
 ## Learning curve
 
