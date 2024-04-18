@@ -118,7 +118,7 @@ export { Dashboard, html, render };
 
 Jest to wydmuszka, ale chodzi o to, by ten moduł importował dokładnie tyle, ile będzie używane w miejscu, gdzie zostanie zaimportowany w dokumencie HTML, co pomoże Rollupowi w usuwaniu nieużywanego kodu podczas pakietowania całości. Z samego Preacta i HTM nie ma tego dużo, ale zawsze to jakieś 2 KB mniej. A gdybym zechciał użyć jakiejś ekstra Javascriptowej biblioteki, to już może być konkretny zysk.
 
-```jinja-html
+```jinja
 {% block content %}
 <h1>Mój Brewlog</h1>
 <div id="dashboard-block"></div>

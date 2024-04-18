@@ -139,13 +139,13 @@ Jest prosto i jest potencjał do modyfikacji, jakby ktoś potrzebował coś tam 
 
 Wynik działania skryptu trzeba osadzić w szablonie bazowym, najlepiej zaraz na początku elementu `body` - zanim zaczniemy używać ikon w nim zdefiniowanych. Ścieżka względna ma wskazywać na wygenerowany zbiór.
 
-```jinja-html
+```jinja
 {% include "includes/icons.html" %}
 ```
 
 Pozostało jeszcze makro, ale to już jest drobiażdżek.
 
-```jinja-html
+```jinja
 {% macro icon(name) %}
 <span class="icon"><svg><use xlink:href="#{{ name }}"></svg></span>
 {% endmacro %}
@@ -155,7 +155,7 @@ Makro to jest dostosowane do tego jak się osadza ikony używając [frameworku C
 
 Dzięki użyciu tego makra umieszczanie ikon w szablonie jest teraz banalnie proste.
 
-```jinja-html
+```jinja
 {% from "macros/icons.html" import icon %}
 <a href="{{ url_for('auth.logout') }}">{{ icon('log-out') }} <span>wyloguj</span></a>
 ```

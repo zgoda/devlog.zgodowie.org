@@ -21,7 +21,7 @@ Dla ustalenia uwagi, jest to aplikacja we Flasku, w której kod JS jest ładowan
 
 Początek _wersji działającej_ był taki:
 
-```jinja-html
+```jinja
 {% block scripts %}
 <script type="module">
   import { html, render, Dashboard } from '{{ jsbundle(request.endpoint) }}';
@@ -37,7 +37,7 @@ Początek _wersji działającej_ był taki:
 
 To `html` to jest właśnie Hyperscript Tagged Markup z pakietu HTM. Obecna wersja działająca wygląda tak:
 
-```jinja-html
+```jinja
 {% block scripts %}
 <script type="module">
   import { h, render, Dashboard } from '{{ jsbundle(request.endpoint) }}';
