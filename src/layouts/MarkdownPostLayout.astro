@@ -27,7 +27,10 @@ const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
     <p>Ostatnia modyfikacja: {lastModified}</p>
   </div>
   <div class="tags">
-    {frontmatter.tags.sort().map((tag: string) => <TagLink tag={tag} />)}
+    {
+      frontmatter.tags &&
+        frontmatter.tags.sort().map((tag: string) => <TagLink tag={tag} />)
+    }
   </div>
   <PrevNext prevEntry={prevEntry} nextEntry={nextEntry} />
   <slot />

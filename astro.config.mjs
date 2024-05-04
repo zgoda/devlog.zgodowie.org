@@ -14,6 +14,29 @@ export default defineConfig({
   },
   integrations: [
     sitemap({ i18n: { defaultLocale: 'pl', locales: { pl: 'pl-PL' } } }),
-    robotsTxt(),
+    robotsTxt({
+      policy: [
+        {
+          userAgent: 'GPTBot',
+          disallow: '/'
+        },
+        {
+          userAgent: 'ChatGPT-User',
+          disallow: '/'
+        },
+        {
+          userAgent: 'Google-Extended',
+          disallow: '/'
+        },
+        {
+          userAgent: 'CCBot',
+          disallow: '/'
+        },
+        {
+          userAgent: 'PerplexityBot',
+          disallow: '/'
+        }
+      ]
+    }),
   ],
 });
