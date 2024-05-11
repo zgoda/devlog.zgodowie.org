@@ -5,7 +5,6 @@ tags:
     - rower
     - trabant
     - decathlon
-isDraft: true
 imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/krowki-nad-rzadza.jpg
 description: Trudno jest mówić o planach względem mojego Trabanta, bo idea co z nim zrobić dalej zmienia się co chwilę.
 ---
