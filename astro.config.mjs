@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import { remarkModifiedTime } from './remark-modified-time';
 import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
+import remarkGfm from 'remark-gfm';
 
 export default defineConfig({
   prefetch: true,
@@ -10,7 +11,7 @@ export default defineConfig({
     shikiConfig: {
       theme: 'nord',
     },
-    remarkPlugins: [remarkModifiedTime],
+    remarkPlugins: [remarkModifiedTime, remarkGfm],
   },
   integrations: [
     sitemap({ i18n: { defaultLocale: 'pl', locales: { pl: 'pl-PL' } } }),

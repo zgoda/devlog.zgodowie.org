@@ -20,16 +20,17 @@
     "@astrojs/sitemap": "^3.1.5",
     "@philnash/astro-pagination": "^0.4.0",
     "@picocss/pico": "^2.0.6",
-    "astro": "^4.9.0",
+    "astro": "^4.9.2",
     "astro-robots-txt": "^1.0.0",
     "dayjs": "^1.11.11",
     "marked": "^12.0.2",
+    "remark-gfm": "^4.0.0",
     "vfile": "^6.0.1"
   },
   "devDependencies": {
     "@astrojs/check": "^0.7.0",
-    "@typescript-eslint/eslint-plugin": "^7.10.0",
-    "@typescript-eslint/parser": "^7.10.0",
+    "@typescript-eslint/eslint-plugin": "^7.11.0",
+    "@typescript-eslint/parser": "^7.11.0",
     "eslint": "^8.57.0",
     "eslint-plugin-astro": "^1.2.0",
     "typescript": "^5.4.5"
