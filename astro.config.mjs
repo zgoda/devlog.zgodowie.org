@@ -1,8 +1,8 @@
 import { defineConfig } from 'astro/config';
-import { remarkModifiedTime } from './remark-modified-time';
 import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 import remarkGfm from 'remark-gfm';
+import { remarkModifiedTime } from "./lib/remark-modified-time";
 
 export default defineConfig({
   prefetch: true,
