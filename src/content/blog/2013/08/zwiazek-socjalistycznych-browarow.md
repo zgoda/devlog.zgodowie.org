@@ -1,7 +1,6 @@
 ---
 title: 'Związek Socjalistycznych Browarów Rzemieślniczych i Kontraktowych'
 pubDate: 2013-08-22T09:00:00.002
-draft: false
 tags:
     - biznesy
     - piwo
