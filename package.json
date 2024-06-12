@@ -23,7 +23,7 @@
     "astro": "^4.10.2",
     "astro-robots-txt": "^1.0.0",
     "dayjs": "^1.11.11",
-    "marked": "^12.0.2",
+    "marked": "^13.0.0",
     "remark-gfm": "^4.0.0",
     "vfile": "^6.0.1"
   },
