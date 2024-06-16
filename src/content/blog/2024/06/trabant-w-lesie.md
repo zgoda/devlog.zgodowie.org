@@ -1,0 +1,27 @@
+---
+title: Trabant w lesie
+pubDate: 2024-06-16T12:12:52+02:00
+tags:
+    - rower
+    - trabant
+description: Od dłuższego czasu krążą po internetach opowieści, jaki to z Tribana RC120 (zwykłego, nie GRVL) jest świetny rower _all-road_, jak się obecnie nazywa rowery niegdyś określane jako _light gravel_. Mając to na względzie kupiłem kiedyś nawet drugi komplet kół i założyłem na nie szutrowe opony Vittoria Terreno Zero, przeznaczone właśnie w _lekki teren_. Przyszedł czas, żeby sprawdzić jak tak ustawiony rower spisuje się _w terenie_, a na poligon wybrałem lasy wokół Wiązowny. Jedyną zmianą względem _ustawień domyślnych_ były koła z szerszymi oponami, rower pojechał z taką samą 8-rzędową kasetą 11-34T i typowo szosową korbą 50/34.
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/trabant-w-rezerwacie-sobieskiego.jpg
+---
+
+Od dłuższego czasu krążą po internetach opowieści, jaki to z Tribana RC120 (zwykłego, nie GRVL) jest świetny rower _all-road_, jak się obecnie nazywa rowery niegdyś określane jako _light gravel_. Mając to na względzie kupiłem kiedyś nawet drugi komplet kół i założyłem na nie szutrowe opony Vittoria Terreno Zero, przeznaczone właśnie w _lekki teren_. Przyszedł czas, żeby sprawdzić jak tak ustawiony rower spisuje się _w terenie_, a na poligon wybrałem lasy wokół Wiązowny. Jedyną zmianą względem _ustawień domyślnych_ były koła z szerszymi oponami, rower pojechał z taką samą 8-rzędową kasetą 11-34T i typowo szosową korbą 50/34.
+
+![Trabant w Rezerwacie Sobieskiego](https://storage.googleapis.com/public.zgodowie.org/images/trabant-w-rezerwacie-sobieskiego.jpg)
+
+Pierwsze co się ujawniło jeszcze zanim wsiadłem na rower, to jego waga. Drugi komplet kół ma szerokość 19 mm (oryginalne 17 mm), co się przełożyło na dodatkowe 100 g wagi. Do tego opony 37 mm, co również dołożyło swoje. Znosząc rower po schodach z 3 piętra czułem, że waży konkretny kilogram więcej, jak nie lepiej. Pierwsze metry po asfalcie i do wagi dołączył opór toczenia &mdash; Vittoria Terreno Zero ma wyraźnie większy opór od Continental Ultra Sport i jest to wyraźnie odczuwalne w tym, jak rower się toczy. Jak sobie przypominam prowadzenie Boreyszy, to było ono dokładnie takie samo.
+
+Po kilkuset metrach wjechałem w Las Rembertowski i tam wyszedł największy mankament _szosy w terenie_: bardzo mały zakres przełożeń przydatnych na drogach nieutwardzonych. Na dużym blacie na leśnych ścieżkach było _za twardo_ (tylko 2 największe zębatki dawały stabilną kadencję), a z kolei na małym _za miękko_ (tu tylko 2-3 najmniejsze). Ostatecznie odpuściłem sobie próby znalezienia idealnego układu przełożeń, zrzuciłem z przodu na mały blat i zostałem przy tym przez pozostałe 50 km. Efekt był taki, że całkiem nieźle się jechało po leśnych ścieżkach, po drogach utwardzonych _materiałem sypkim_ o tyle o ile było płasko lub lekko pod górę, za to do niebezpiecznyh młynków zbliżałem się na szutrowych zjazdach i na asfalcie.
+
+<div class="strava-wrapper"><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11658677217" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></div>
+
+Cóż o innych rzeczach można powiedzieć? Wszystko działało co najmniej znośnie, karbonowy widelec coś tam pochłaniał z nierówności, hamulce hamowały jak było potrzeba, kierownicę i tak mam szutrową, więc szutrówa jak najbardziej, taki niezbyt drogi aluminiowy gravelek do rekreacyjnego popykania w weekend. Kilka lat temu najtańsze gravele wielu producentów miały Clarisa jako grupę, ludzie jeździli, łańcuch im się obijał, ale jakoś z tym żyli i chyba wiem dlaczego miałem przeczucie, że jest to _vlog drama_ &mdash; bo nie ma to wielkiego znaczenia i podczas jazdy w terenie nie zwraca się na to uwagi.
+
+Gdybyż tylko przełożenia były trochę bardziej przyjazne, co prowadzi do następnej sekcji rozważań, tj. czy warto będzie się angażować w jakieś przeróbki? Na myśl przychodzą dwie opcje, wymiana całej grupy albo wymiana tylko korby. Niestety, opcja 2 jest czysto teoretyczna, bo od dłuższego czasu rozglądam się za 8-rzędową korbą 46/30 (lub podobną) z zerowym efektem. Pozostaje opcja wymiany całej grupy na 1&times;11.
+
+![Kebsik po rowerze](https://storage.googleapis.com/public.zgodowie.org/images/kebsik-po-rowerze.jpg)
+
+Jeżeli chodzi o stronę techniczną, to nic absolutnie nie stoi na przeszkodzie. Mam chińską 11-rzędową grupę szutrową i kasetę oraz łańcuch do niej, mam uniwersalną korbę, mam zębatkę 40T, wszystko to może w dowolnym momencie zostać założone do Trabanta i będzie on normalnym _full-wypas_ gravelem, choć zdecydowanie raczej tanim i dość ciężkim. Drugą stroną tego przedsięwzięcia jest to, czy ja taki rower w ogóle potrzebuję. Ta jedna przejażdżka po lasach przypomniała mi, dlaczego sprzedałem Boreyszę &mdash; bo nie lubiłem jeździć w terenie i głównie wykorzystywałem go jako _rekreacyjną szosę_ (co przy jego geometrii i tak było bardzo dyskusyjne). Mając to na uwadze, prawdopodobnie pozostawię sobie części do takiej przeróbki tylko po to, by mieć taką opcję w przypadku gdyby mi się odwidziało, ale póki co jednak Trabant pozostanie moim codziennym _cioradłem_, na chwilę obecną dlatego że jedymym, a później zapewne na zimę i gorszą pogodę. A co z gravelowaniem? A się zobaczy, może w nowych okolicach będę miał do tego więcej serca, a może i tak będzie że szosa mi się znudzi i poszukam sobie nowych atrakcji.
