@@ -5,13 +5,14 @@ import PostLink from './PostLink.astro';
 
 const { post } = Astro.props;
 const description = marked.parse(post.data.description || '');
+const tags = post.data.tags ? post.data.tags.sort() : [];
 ---
 
 <article>
   <header>
     <h3><a href={`/blog/${post.slug}`} data-astro-prefetch>{post.data.title}</a></h3>
     <h5>{post.data.pubDate.toLocaleDateString('pl-PL')}</h5>
-    <p>Etykiety: {post.data.tags.sort().join(', ')}</p>
+    <p>Etykiety: {tags.join(', ')}</p>
   </header>
   <div class="post">
     {post.data.imageUrl ? <img src={post.data.imageUrl} /> : <EmptyBlock />}
