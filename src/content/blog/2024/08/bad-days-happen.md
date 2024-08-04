@@ -1,7 +1,6 @@
 ---
 title: Bad days happen
 pubDate: 2024-08-03T22:49:36+02:00
-draft: true
 tags:
     - rower
 description: Cały tydzień się przymierzałem do tej soboty, kiedy wreszcie wskoczę na rower i śmignę sobie jakiś przyjemny dystans w okolicach 100 km, w nowym kierunku, po nowych drogach, przez nowe okolice do nowych miejsc. Wielkie plany, wielkie nadzieje, mało co z tego wyszło, a po wszystkim wieczorem łaziłem połamany w sumie nie wiadomo dlaczego.
