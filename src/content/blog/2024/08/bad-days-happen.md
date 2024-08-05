@@ -11,7 +11,7 @@ Cały tydzień się przymierzałem do tej soboty, kiedy wreszcie wskoczę na ro
 
 ![Demon w Urlach](https://storage.googleapis.com/public.zgodowie.org/images/demon-w-urlach.jpg)
 
-Po niedawnej przejażdżce do Małkini i powrocie do Ząbek pociągiem chciałem to powtórzyć, ale w innym kierunku. Podobny dystanc, ale tym razem 106 do Siedlec, kierunek na wschód i lekko południe, zgodnie z kierunkiem wiatru. Pociągiem miałem wrócić do stacji Warszawa - Rembertów, a stamtąd do Ząbek jest już dwa rzuty beretem. Słabe strony? Żadnych, pogoda miała być łagodna, trasa prosta i częściowo znana, lokalne asfalty wśród mazowieckich pól i lasów.
+Po niedawnej przejażdżce do Małkini i powrocie do Ząbek pociągiem chciałem to powtórzyć, ale w innym kierunku. Podobny dystans, ale tym razem 106 km do Siedlec, kierunek na wschód i lekko na południe, zgodnie z kierunkiem wiatru. Pociągiem miałem wrócić do stacji Warszawa - Rembertów, a stamtąd do Ząbek jest już dwa rzuty beretem. Słabe strony? Żadnych, pogoda miała być łagodna, trasa prosta i częściowo znana, lokalne asfalty wśród mazowieckich pól i lasów.
 
 ## Miłe złego początki
 
@@ -19,7 +19,7 @@ W tym momencie właściwie skończyło się dobre. Już dzień wcześniej wieczo
 
 Zaraz po przejechaniu kilkudziesięciu metrów okazało się, że mam rozregulowaną tylną przerzutkę. Pierwsze pół godziny jazdy spędziłem na _kręceniu baryłką_ aż wreszcie _stopiątka_ osiągnęła swoją zwyczajową kulturę pracy. W tym momencie dojeżdżałem do Wesołej. Garmin po 8 kilometrach pokazał czas pierwszego okrążenia: prawie 24 minuty. Z pewnością nie zanosiło się na szybką jazdę. Pomimo najszczerszych chęci i jazdy _zasadniczo z wiatrem_ nie udawało mi się ukręcić nic lepszego przez kolejne kilometry, nie udało mi się też wejść w ten specyficzny _flow_, kiedy korba kręci się właściwie sama, a nogi tylko ją obracają żeby zachować równowagę. Niby kilometry schodziły, ale w tempie patetycznym.
 
-Zbliżywszy się do zaplanowanej połowy dystansu postanowiłem uratować z przejażdżki co się da. Zboczyłem z trasy kilka kilometrów, żeby przetestować kebab w którym jeszcze nie jadłem, potem odbiłem w bok żeby podjechać do miejscowości o zabawnej nazwie. Powrót _na kołach_ był już stosunkowo bezproblemowy, chociaż dawał znaki tyłek nie przywykły do geometrii siodła w Demonie (obłędnie wygodnego, ale do każdego trzeba _wygnieść poślady_ żeby usiedzieć w nim kilka godzin). Pod dom zajechałem zasadniczo nie zmęczony, ale jednak umordowany. Później wieczorem darły mnie mięśnie pod kolanami i bolały ramiona, jakbym nie wiem co robił, a nie jeździł na rowerze.
+Zbliżywszy się do zaplanowanej połowy dystansu postanowiłem uratować z przejażdżki co się da i zaliczyć przynajmniej trochę _przygody_. Zboczyłem z trasy kilka kilometrów, żeby przetestować kebab w którym jeszcze nie jadłem, potem odbiłem w bok żeby podjechać do miejscowości o zabawnej nazwie. Powrót _na kołach_ był już stosunkowo bezproblemowy, chociaż dawał znaki tyłek nie przywykły do geometrii siodła w Demonie (obłędnie wygodnego, ale do każdego trzeba _wygnieść poślady_ żeby usiedzieć w nim kilka godzin). Pod dom zajechałem zasadniczo nie zmęczony, ale jednak umordowany. Później wieczorem darły mnie mięśnie pod kolanami i bolały ramiona, jakbym nie wiem co robił, a nie jeździł na rowerze.
 
 ![Demon w ciopągu](https://storage.googleapis.com/public.zgodowie.org/images/demon-w-ciopagu.jpg)
 
