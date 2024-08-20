@@ -1,0 +1,26 @@
+---
+title: Niespodziewany zwrot akcji
+pubDate: 2024-08-19T22:34:01+02:00
+tags:
+    - rower
+    - trabant
+    - diy
+description: Jeszcze niedawno [miałem plan zakupienia nowego roweru](/blog/2024/06/czy-to-on), który miał mnie wozić przez kolejne tysiące kilometrów i zapewniać wiele niezapomnianych wrażeń. Początkowo miała to być szosa _endurance_ z karbonową ramą i do pewnego momentu nie miałem co do wyboru większych wątpliwości. A potem zacząłem je mieć i dalej już poszło jak lawina.
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/wesola.jpg
+---
+
+Jeszcze niedawno [miałem plan zakupienia nowego roweru](/blog/2024/06/czy-to-on), który miał mnie wozić przez kolejne tysiące kilometrów i zapewniać wiele niezapomnianych wrażeń. Początkowo miała to być szosa _endurance_ z karbonową ramą i do pewnego momentu nie miałem co do wyboru większych wątpliwości. A potem zacząłem je mieć i dalej już poszło jak lawina.
+
+![Urbex w Wesołej](https://storage.googleapis.com/public.zgodowie.org/images/wesola.jpg)
+
+Na początek wątpliwości pojawiły się w kontekście napędu: 12&ndash;rzędowa _stopiątka_ to świetny napęd, ale z moimi umiejętnościami kolarskimi zwyczajnie drogi w utrzymaniu. Pomimo najszczerszych chęci stosunkowo szybko zajeżdżam zarówno łańcuchy, jak i kasety, a w szczególności te ostatnie potrafią słono kosztować. Świetnym rozwiązaniem byłby napęd 11&ndash;rzędowy, ale niewiele jest nowych rowerów, które są jeszcze sprzedawane ze _starą stopiątką_, a już takich które pasowałyby mi geometrią to już w ogóle.
+
+Półkę niżej rowery nie mają już karbonowych ram, tylko aluminiowe. Nadal niezłe, ale jednak zarówno waga większa, jak i mniejsza sprężystość. Włączyłem racjonalizację i ostatecznie wyszło mi, że być może uda się trochę to zniwelować bardziej sprężynującą sztycą i odpowiednio niskim ciśnieniem w oponach. Wraz z aluminiową ramą i niższą grupą osprzętu przychodzi także niższa cena oraz co nie mniej ważne &mdash; niższy koszt utrzymania w postaci niższych cen części _eksploatacyjnych_. Czy wystarczy mi 10 przełożeń Tiagry R4700 z tyłu w odróżnieniu od 11 przełożeń 105 R7000? Oczywiście, pewnie nawet nie zauważyłbym różnicy! Nadal są hydrauliczne hamulce tarczowe, takie same są manetki Dual Control, ten sam zakres przełożeń tylnej przerzutki dałby mi te same możliwości _w przyrodzie_. Jedyny nieoczywisty minus to taki że RD-R4700 jest zwykłą prostą przerzutką, a 105 dzięki słynnej technologii Shadow+ mocniej napina łańcuch, przez co lepiej się sprawuje podczas jazdy w terenie. Muszę sobie szybko przypomnieć kiedy ostatnio jeździłem w terenie i [jakie miałem potem przemyślenia](/blog/2024/06/trabant-w-lesie).
+
+No ale skoro już pierwszy krok w stronę _zgniłego kompromisu_ został zrobiony, to jaki będzie problem w tym, by wykonać kolejne? Być może wcale tak bardzo te 2 kg więcej nie czynią roweru _niejeżdżalnym_ i może wcale nie ma potrzeby go wymieniać na nowy... jeszcze? Bo kiedyś na pewno przyjdzie ten moment, kiedy naprawdę będzie już potrzeba się go pozbyć i wymienić na inny, ale mam duże wątpliwości czy to już teraz. W płaskich okolicach mazowieckich niezbyt waga roweru przekraczająca 11 kg przeszkadza, ale nie jest kluczowa. Lżejszy jest przyjemniejszy, ale na dziś jeszcze Trabant zapewnia mi wszystko, czego od roweru wycieczkowego oczekuję. No, prawie wszystko. Jeździ znośnie, nie żal go trochę _uciorać_ i nie żal na nim eksperymentować.
+
+I co teraz dalej? Od jakiegoś czasu w stercie części rowerowych czekających na lepsze czasy leży 9&ndash;rzędowa przerzutka Sora i odpowiadające jej klamkomanetki. Do tego przednia przerzutka i korba z blatami 46/30t oraz stosunkowo łagodna turystyczna kaseta 11-34 od Alivio. W połączeniu z nowymi zaciskami hamulcowymi _od majfrenda_, które obiecują wyraźną poprawę jakości hamowania to może brzmieć całkiem zachęcająco, w końcu mam stojak serwisowy, wszystkie narzędzia i potrzebne do tego umiejętności. Wątpię żeby z Sorą ten rower jeździł lepiej niż z Clarisem, ale jednak będzie miał dość oznak _nowości_, żeby wystarczyło mi to na jeden sezon.
+
+Tylko te 2 kg... To jest jednak dużo, w _szosie_ nawet bardzo dużo, ale ja już zacząłem mieć wątpliwości i teraz naprawdę nie mam pojęcia co wybrać i jak będzie dobrze. W zeszłym roku w podobnej sytuacji kupiłem Boreyszę, który jakkolwiek przyniósł mi sporo przyjemności, to jednak był całkowicie nietrafionym zakupem, i to nie tylko funkcjonalnie, ale przede wszystkim pod względem rozmiaru, co odczuwałem również w postaci fizycznego bólu. Rozwiązaniem byłoby pojechać i przymierzyć, ale przez cały sezon zwlekałem z tym tak długo, że teraz w sklepach stacjonarnych nie ma już czego przymierzać.
+
+To jest nawet gorsze, niż brak pieniędzy na zakup roweru.
