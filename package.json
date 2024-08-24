@@ -20,7 +20,7 @@
     "@astrojs/sitemap": "^3.1.6",
     "@philnash/astro-pagination": "^0.4.0",
     "@picocss/pico": "^2.0.6",
-    "astro": "^4.14.4",
+    "astro": "^4.14.5",
     "astro-robots-txt": "^1.0.0",
     "dayjs": "^1.11.13",
     "marked": "^14.0.0",
@@ -31,7 +31,7 @@
     "@astrojs/check": "^0.9.3",
     "@typescript-eslint/eslint-plugin": "^8.2.0",
     "@typescript-eslint/parser": "^8.2.0",
-    "eslint": "^9.9.0",
+    "eslint": "^9.9.1",
     "eslint-plugin-astro": "^1.2.3",
     "typescript": "^5.5.4"
   }
