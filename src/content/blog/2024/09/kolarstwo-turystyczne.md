@@ -1,7 +1,6 @@
 ---
 title: Kolarstwo turystyczne, doprawdy?!
 pubDate: 2024-09-14T19:40:56+02:00
-draft: true
 tags:
     - rower
     - rant
