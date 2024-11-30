@@ -14,7 +14,7 @@ description: 1 sierpnia 2024 kupiliśmy sobie dom (domek, malutki, dwupokojowy) 
 
 Długo mógłbym się rozpisywać dlaczego akurat tam, ale nie ma takiej potrzeby, bo [już raz to zrobiłem](/blog/2024/07/sole-mare-vacanze). Tym razem jednak pojechaliśmy tam już _do siebie_, do naszego domu, spotkać się z naszymi nowymi sąsiadami.
 
-Domek w był (jest!) w stanie nie najgorszym, a największym jego problemem było to, że w wyniku podziału większej nieruchomości między spadkobierców jakiegoś przodka przyłącza mediów tj. prądu, wody i gazu były nadal doprowadzone do sąsiada z dołu, a dalej instalacja była już wspólna. Przez lata nie było to problemem, bo właściciele obu części byli stosunkowo bliskimi krewnymi, no ale gdy przyszedł czas sprzedaży, to jednak udało mi się namówić współwłaścicielkę, żebyśmy zdobyli się na pewien wysiłek i przeprowadzili operację podłączenia indywidualnego zasilania.
+Domek ogólnie był (i jest!) w stanie technicznie nie najgorszym, a największym jego problemem było to, że w wyniku podziału większej nieruchomości między spadkobierców jakiegoś przodka przyłącza mediów tj. prądu, wody i gazu były nadal doprowadzone do sąsiada z dołu, a dalej instalacja była już wspólna. Przez lata nie było to problemem, bo właściciele obu części byli stosunkowo bliskimi krewnymi, no ale gdy przyszedł czas sprzedaży, to połowa trafiła w ręce obcych. Z niejakim trudem udało mi się namówić nową _współwłaścicielkę górnej połowy_, żebyśmy zdobyli się na pewien wysiłek i przeprowadzili operację podłączenia indywidualnego zasilania.
 
 ![Widok na Raiano jesienią](https://storage.googleapis.com/public.zgodowie.org/images/raiano-jesienne.jpg)
 
