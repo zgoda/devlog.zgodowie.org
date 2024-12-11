@@ -10,4 +10,4 @@ const linkTitle =
   title ?? `(${post.data.pubDate.toLocaleDateString('pl-PL')}) ${post.data.title}`;
 ---
 
-<p><a href={`/blog/${post.slug}`} data-astro-prefetch> {linkTitle}</a></p>
+<p><a href={`/blog/${post.id}`} data-astro-prefetch> {linkTitle}</a></p>

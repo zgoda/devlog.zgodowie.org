@@ -1,6 +1,6 @@
 ---
 import type { Page, PaginateFunction } from 'astro';
-import Pagination from '@philnash/astro-pagination';
+import Pagination from '../../../components/Pagination.astro';
 import PostPreview from '../../../components/PostPreview.astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { loadAndFormatPostsCollection } from '../../../lib/collection';
@@ -26,10 +26,5 @@ const pageTitle = `Artykuły w blogu, strona ${page.currentPage}`;
 <BaseLayout pageTitle={pageTitle}>
   <p>Chronologicznie posortowane wpisy w blogu.</p>
   {page.data.map((post: any) => <PostPreview post={post} />)}
-  <Pagination
-    page={page}
-    urlPattern="/blog/pages/{}"
-    previousLabel="« Poprzednia"
-    nextLabel="Następna »"
-  />
+  <Pagination page={page} urlPattern="/blog/pages/{}" />
 </BaseLayout>

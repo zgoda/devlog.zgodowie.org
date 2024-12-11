@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 import remarkGfm from 'remark-gfm';
-import { remarkModifiedTime } from "./lib/remark-modified-time";
+import { remarkModifiedTime } from './lib/remark-modified-time';
 
 export default defineConfig({
   prefetch: true,
@@ -19,25 +19,26 @@ export default defineConfig({
       policy: [
         {
           userAgent: 'GPTBot',
-          disallow: '/'
+          disallow: '/',
         },
         {
           userAgent: 'ChatGPT-User',
-          disallow: '/'
+          disallow: '/',
         },
         {
           userAgent: 'Google-Extended',
-          disallow: '/'
+          disallow: '/',
         },
         {
           userAgent: 'CCBot',
-          disallow: '/'
+          disallow: '/',
         },
         {
           userAgent: 'PerplexityBot',
-          disallow: '/'
-        }
-      ]
+          disallow: '/',
+        },
+      ],
     }),
   ],
+  legacy: {},
 });

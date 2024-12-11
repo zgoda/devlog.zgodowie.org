@@ -1,0 +1,44 @@
+---
+const { page, urlPattern } = Astro.props;
+const paginationList = Array.from({ length: page.lastPage }, (_, i) => i + 1);
+---
+
+<nav role="navigation" aria-label="Strony">
+  <ul>
+    <li>
+      {
+        page.url.first === page.url.current || !page.url.first ? (
+          <span>&laquo;</span>
+        ) : (
+          <a href={page.url.first}>&laquo;</a>
+        )
+      }
+    </li>
+
+    <li>
+      {page.url.prev ? <a href={page.url.prev}>&lsaquo;</a> : <span>&lsaquo;</span>}
+    </li>
+
+    {
+      paginationList.map((num) => (
+        <li>
+          <a href={urlPattern.replace('{}', num === 1 ? '' : num)}>{num}</a>
+        </li>
+      ))
+    }
+
+    <li>
+      {!page.url.next ? <span>&rsaquo;</span> : <a href={page.url.next}>&rsaquo;</a>}
+    </li>
+
+    <li>
+      {
+        page.url.last === page.url.current || !page.url.last ? (
+          <span>&raquo;</span>
+        ) : (
+          <a href={page.url.last}>&raquo;</a>
+        )
+      }
+    </li>
+  </ul>
+</nav>
