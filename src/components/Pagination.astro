@@ -1,6 +1,12 @@
 ---
+import Ellipsis from './Ellipsis.astro';
+
+import { getPageNumbers } from '../lib/array';
+
 const { page, urlPattern } = Astro.props;
-const paginationList = Array.from({ length: page.lastPage }, (_, i) => i + 1);
+const pageNumbers = getPageNumbers(page);
+const firstPageInRange = pageNumbers[0];
+const lastPageInRange = pageNumbers[pageNumbers.length - 1];
 ---
 
 <nav role="navigation" aria-label="Strony">
@@ -20,11 +26,27 @@ const paginationList = Array.from({ length: page.lastPage }, (_, i) => i + 1);
     </li>
 
     {
-      paginationList.map((num) => (
+      firstPageInRange > 2 && (
+        <li>
+          <Ellipsis />
+        </li>
+      )
+    }
+
+    {
+      pageNumbers.map((num) => (
         <li>
           <a href={urlPattern.replace('{}', num === 1 ? '' : num)}>{num}</a>
         </li>
       ))
+    }
+
+    {
+      lastPageInRange < page.lastPage - 1 && (
+        <li>
+          <Ellipsis />
+        </li>
+      )
     }
 
     <li>
