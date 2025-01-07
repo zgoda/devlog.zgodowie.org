@@ -18,8 +18,9 @@ span.icon>svg {
   vertical-align: text-top;
 }
 
-:is(p):has(img) {
+:is(figure):has(img) {
   text-align: center;
+  font-size: smaller;
 }
 
 .strava-wrapper :first-child {
