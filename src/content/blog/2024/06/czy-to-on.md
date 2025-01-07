@@ -11,7 +11,7 @@ description: Mam nowy obiekt westchnień, a jest on w kolorze zielonym i zaprzą
 
 Mam nowy obiekt westchnień, a jest on w kolorze zielonym i zaprząta mój umysł przez cały czas, gdy tylko nie pracuję oraz nie myślę o seksie. Czyli w sumie raptem kilka chwil w ciągu całego dnia, **no ale!** Idea że mógłbym w ogóle chcieć nowy rower pojawiła się po zakupie i pierwszych przejażdżkach na karbonowym Demonie, który uwiódł mnie swoją lekkością, przyspieszeniem i wrażeniami z jazdy _po dziurach_.
 
-![Merida Scultura Endurance](https://storage.googleapis.com/public.zgodowie.org/images/merida-scultura-endurance-4000-green.jpeg)
+![Merida Scultura Endurance](https://storage.googleapis.com/public.zgodowie.org/images/merida-scultura-endurance-4000-green.jpeg 'Piękny zielony rower marki Merida')
 
 Jak widać jest to rower szosowy marki Merida, model Scultura Endurance 4000 i jest to najtańsza wersja Scultury Endurance na ramie z włókna węglowego. Napędem jest 12&ndash;rzędowe Shimano 105 R7100, a jedynym pozagrupowym elementem jest tania korba 50/34 Shimano FC-RS520 (wyraźnie cięższa od _grupowej_ FC-R7100). Ma wszystko czego oczekuję od mojej następnej szosy (choć może wolałbym 11&ndash;rzędowe 105 R7000, no ale z nowymi to będzie trudno taki dorwać), a jedynym dylematem jest teraz tylko rozmiar, L czy XL. Cena ok 11 tys. zł to sporo, ale w porównaniu do Ridleya Fenixa (13,5 tys. zł), Gianta Defy (13 tys. zł) czy Treka Domane (14,5 tys. zł) to wciąż znośnie, nieco tylko wyższa od karbonowej szosy z Deca na Shimano 105 (mają za 8 tys. zł na Tiagrze, ale bez przesady, aż takiej biedy nie ma).
 
@@ -19,7 +19,7 @@ Oczywiście, przeszukałem internety w poszukiwaniu wzmianek o problemach trapi�
 
 Geometria tego roweru jest zbliżona do absolutnego topu topów czyli Look 765 Optimum (cena detaliczna w okolicach Ridleya Fenix Disc), co każe mi przypuszczać że będzie on również jeździł podobnie. Sprzedawca w sklepie doradza mi rozmiar XL, ale tym razem nie dam się wkręcić w zakup bez dokładnego przymierzenia, z czym może być problem, bo akurat sezon jest w pełni i rowery ze sklepów znikają na pniu.
 
-![Prównanie geometrii](https://storage.googleapis.com/public.zgodowie.org/images/scultura-porownanie.png)
+![Prównanie geometrii](https://storage.googleapis.com/public.zgodowie.org/images/scultura-porownanie.png 'Geometria w cyferkach')
 
 Na obrazku powyższym porównuję go do dwóch rowerów, które mam, czyli Trabanta i Demona (właściwie to porównuję wersję 6000, ale wszystkie Scultury Endurance mają identyczne ramy, różnią się jedynie osprzętem). Oba są wyjątkowo wygodnymi szosami o niezbyt długim _zasięgu_, zapewniającymi lekko wyprostowaną pozycję. Merida w rozmiarze L będzie nieznacznie bardzie _sportowa_, będąc dłuższą o nieco ponad pół centymetra i o niecały centymetr niższą. W rozmiarze XL będzie o niemal 2 cm wyższa i o półtora centymetra dłuższa, jednak z mostkiem 120 mm jest tam spore pole do manewru &mdash; w Boreyszy miałem mostek 90 mm, a fabrycznie był założony 110 mm. Boreysza w ogóle był bardzo _usportowioym_ rowerem, z geometrią zdecydowanie bardziej wymagającą niż każdy inny mój rower. W Demonie mostek mam 110 mm, a w Trabancie nawet 100 mm, ale oba te rowery są w rozmiarze określanym jako L.
 

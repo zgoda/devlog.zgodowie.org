@@ -5,12 +5,12 @@ tags:
     - rower
     - rant
 imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/the-boys.jpg
-description: "Tak sobie parę dni temu przemyśliwałem nad istotą mojego _roweringu_. Takie już mam usposobienie, że rozkminiam różne rzeczy, a to mnie już od jakiegoś czasu nurtowało, bo różni różnie swoje aktywności określają. Czy to kolarstwo romantyczne? Czy to kolarstwo przygodowe? Czy to turystyka rowerowa? A może właśnie **kolarstwo turystyczne**?"
+description: 'Tak sobie parę dni temu przemyśliwałem nad istotą mojego _roweringu_. Takie już mam usposobienie, że rozkminiam różne rzeczy, a to mnie już od jakiegoś czasu nurtowało, bo różni różnie swoje aktywności określają. Czy to kolarstwo romantyczne? Czy to kolarstwo przygodowe? Czy to turystyka rowerowa? A może właśnie **kolarstwo turystyczne**?'
 ---
 
 Tak sobie parę dni temu przemyśliwałem nad istotą mojego _roweringu_. Takie już mam usposobienie, że rozkminiam różne rzeczy, a to mnie już od jakiegoś czasu nurtowało, bo różni różnie swoje aktywności określają. Czy to kolarstwo romantyczne? Czy to kolarstwo przygodowe? Czy to turystyka rowerowa? A może właśnie **kolarstwo turystyczne**?
 
-![The boys](https://storage.googleapis.com/public.zgodowie.org/images/the-boys.jpg)
+![The boys](https://storage.googleapis.com/public.zgodowie.org/images/the-boys.jpg 'Chłopaki w blokach')
 
 Za oknem niż genueński zalewał centralną Polskę ulewnym deszczem, a mój głód roweru niezaspokojony przez prawie cały tydzień mocno już dawał mi się we znaki. Spoglądałem na moje oba rowery kurzące się w pokoju i z braku laku myślałem o tym, czym tak właściwie jest mój _rowering_, co wypycha mnie za drzwi i co napędza przez kolejne kilometry.
 
@@ -18,7 +18,7 @@ W internetach różni powtarzają określenie _kolarstwo romantyczne_ lub _przyg
 
 A może jednak to jest _turystyka rowerowa_? Może trochę, ale z typową turystyką też mam raczej mało wspólnego. Nie wożę ze sobą bagażu, nie urządzam wielodniowych wypraw. Wsiadam na rower i jadę tak do 100 kilometrów, starając się trafiać w ładne miejsca. Trochę _romantycznie_, trochę _przygodowo_, całkowicie _turystyczne_. Czyli może jednak jest to _kolarstwo turystyczne_? Wliczyłbym do tego również _randonneuring_, chociaż to już jest w pewnym sensie _ultra_, a ja swoją turystykę traktuję dużo bardziej na luzaku. Każda trasa jest procesem, który rozwija się od początku do szczęśliwego zakończenia w domu. Bez pośpiechu, bez ścigania się z czasem, bez ambicji poprawiania wyników, aby tylko kilometry się zgodziły.
 
-![Kebsio](https://storage.googleapis.com/public.zgodowie.org/images/kebsio.jpg)
+![Kebsio](https://storage.googleapis.com/public.zgodowie.org/images/kebsio.jpg 'Po to jeździmy kilometry na rowerach')
 
 Według mojej idei _kolarstwa turystycznego_ zawsze wiąże się ono z jakimś celem _krajoznawczym_, choćby było to sprawdzenie kebaba gdzieś w okolicy, czy sprawdzenie przejezdności jakiegoś odcinka. Czy to musi być daleko, jak twierdzi jeden z _influenserów_? No właśnie według mnie nie, chyba że ktoś mieszka na środku odkrywki w Bełchatowie i jedyne co ma _blisko_ to dziury w ziemi i księżycowy krajobraz. Dobrymi celami _turystycznymi_ są skanseny, muzea, tereny rekreacyjne, ciekawostki przyrodnicze i tak dalej. Nie wydaje mi się, żeby były tereny wyjątkowo ubogie w takie rzeczy, może właśnie jedynie poprzemysłowe pustynie, ale takich nie jest wiele w Polsce, nawet często wyśmiewany Górny Śląsk nie jest _ciekawostkową pustynią_. Szczególnie Mazowsze takie nie jest, chociaż krajobraz jest zdecydowanie monotonny przez swoją _płaskość_. Wciąż jednak tego rodzaju wycieczki to raczej ewenement niż reguła, nie co tydzień są odpowiednie warunki na dłuższy wyjazd: życiowe obowiązki, inne plany, kapryśna pogoda w _strefie klimatu umiarkowanego_.
 

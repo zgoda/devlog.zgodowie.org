@@ -10,7 +10,7 @@ description: Kupiłem sobie nowy rower. Nie Meridę, nie Scotta, nie Treka, nie 
 
 Kupiłem sobie nowy rower. Nie Meridę, nie Scotta, nie Treka, nie Gianta. Nawet nie Look, bo przecież i taka była opcja. Tak jak chciałem &mdash; rekreacyjną szosę _endurance_, w pełnym karbonie i z 12&ndash;rzędową mechaniczną grupą napędową. Nie całkiem białą, ale _wystarczająco jasną_. A w dodatku niezbyt drogą. Focus Paralane 8.7, w rozmiarze L, czyli wg producenta 56. Jest fantastyczny.
 
-![Focus One](https://storage.googleapis.com/public.zgodowie.org/images/focus-1.jpg)
+![Focus One](https://storage.googleapis.com/public.zgodowie.org/images/focus-1.jpg 'Helmut, z przedniego półprofilu.')
 
 W ostatnim momencie tuż przed wypłynięciem oferty na Focusa spośród _tanich szos w karbonie_ rozważane były zielona Merida Scultura Endurance, bordowy Scott Addict 30, biały Look 765 Optimum i Trek Domane SL5, za cenę katalogową perłowo&ndash;jasno&ndash;szary i morsko&ndash;zielony w promocji po sezonie. Focus kiedyś tam mi przemknął jak szukałem co jest w ofercie w jasnej tonacji, ale podobnie jak Rose i Canyon zaliczał duże ilości punktów ujemnych za niemieckość.
 
@@ -20,7 +20,7 @@ Dokładna specyfikacja jest dostępna [na stronie producenta](https://www.focus-
 
 W komplecie do roweru jest uchwyt do Garmina/Wahoo/GoPro pod mostek C.I.S., torebka na górną rurę oraz zestaw naklejek ochronnych na ramę. Uchwyt jest mały, zgrabny i stosunkowo skomplikowany w montażu, ale sposób mocowania do mostka/kierownicy każe mi mieć pewne wątpliwości co do stabilności tego mocowania, więc pozostanę przy tradycyjnych uchwytach _na obejmę_. Torebka pomieści co najwyżej batony i żele (zdecydowanie nie współczesny telefon), a naklejki oczywiście się przydadzą, bo żaden element ramy nie jest oklejony, w tym miejsca na które zwykle spada łańcuch gdy dojdzie do jakiejś awarii. Zarówno torebkę na coś więcej niż _baton + żel_ jak i uchwyt polecam od pana majfrenda, właśnie te, które są widoczne na dołączonych zdjęciach roweru. Nabyć je można na popularnym portalu, a kosztują grosze (torebka ok. 60 zł, uchwyt ok. 20 zł, latarka widoczna pod uchwytem ok 80 zł).
 
-![Geometrie](https://storage.googleapis.com/public.zgodowie.org/images/geometrie-trabant-demon-focus.png)
+![Geometrie](https://storage.googleapis.com/public.zgodowie.org/images/geometrie-trabant-demon-focus.png 'Porównanie geometrii (w cyferkach) moich rowerów')
 
 Patrząc na cyferki to rower wygląda niemal identycznie do Trabanta, jest może jedynie dłuższy o pół centymetra i niższy o około centymetr, ale podczas jazdy różnica ta jest zupełnie niewyczuwalna. Gdy się je postawi obok siebie to również wyglądają podobnie. Podczas pierwszej przejażdżki dawała mi się we znaki szeroka kierownica, ale po lekkim obróceniu klamek do wewnątrz krzywo zrośnięty nadgarstek się uspokoił. Siedzi się wygodnie, pozycja jest naturalna, nieco pochylona, ale nawet przy wystającym brzuchu jest jeszcze miejsce, żeby zejść do _dolnego chwytu_. Myślałem o tym, by skrócić mostek o 1 cm podobnie jak mam w Trabancie, ale tę zmianę zostawię sobie na później, na parę tys. km. później.
 
@@ -30,7 +30,7 @@ Waga 9,5 kg to nie jest szczyt moich marzeń. Dla porównania aluminiowy Trabant
 
 Przez te kilka dni zrobiłem na nim około 100 km, więc wcale nie tak znowu dużo. Jedzie się na nim przyjemnie, zdecydowanie wymaga mniej wysiłku niż Trabant. Siedzi się na nim tak, jak na Trabancie, stosunkowo luźno i w wyprostowanej pozycji, ale jednak nie aż tak wyprostowanej jak w Demonie. Rower zachęca do szybkiej jazdy i rzeczywiście chętnie się zbiera, ale ten zapał po chwili się kończy. Czuć, że sprinty to nie jest to, do czego ten rower został wymyślony, chociaż patrząc na niego z boku raczej tego nie da się wywnioskować. Ten rower rzeczywiście wygląda bardzo podobnie do wyścigowego Izalco Max, ale jeździ jednak inaczej.
 
-![Focus Two](https://storage.googleapis.com/public.zgodowie.org/images/focus-2.jpg)
+![Focus Two](https://storage.googleapis.com/public.zgodowie.org/images/focus-2.jpg 'Z tylnego półprofilu')
 
 W porównaniu do Demona Focus daje zdecydowanie bardziej sportowe odczucia. Moment _zniechęcenia_ do sprintu przychodzi znacznie później, pozycja jest odrobinę bardziej pochylona, a przez to zejście _na dropy_ również przychodzi łatwiej i naturalniej. Możliwe że poprawiła mi się sprawność fizyczna, bo pomimo teoretycznie bardziej pochylonej pozycji nie odczuwam większego obciążenia górnej części ciała przy jednostajnej jeździe.
 

@@ -9,7 +9,7 @@ imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/demon-w-urla
 
 Cały tydzień się przymierzałem do tej soboty, kiedy wreszcie wskoczę na rower i śmignę sobie jakiś przyjemny dystans w okolicach 100 km, w nowym kierunku, po nowych drogach, przez nowe okolice do nowych miejsc. Wielkie plany, wielkie nadzieje, mało co z tego wyszło, a po wszystkim wieczorem łaziłem połamany w sumie nie wiadomo dlaczego.
 
-![Demon w Urlach](https://storage.googleapis.com/public.zgodowie.org/images/demon-w-urlach.jpg)
+![Demon w Urlach](https://storage.googleapis.com/public.zgodowie.org/images/demon-w-urlach.jpg 'Demon podczas jednej wspaniałej wycieczki w Urlach')
 
 Po niedawnej przejażdżce do Małkini i powrocie do Ząbek pociągiem chciałem to powtórzyć, ale w innym kierunku. Podobny dystans, ale tym razem 106 km do Siedlec, kierunek na wschód i lekko na południe, zgodnie z kierunkiem wiatru. Pociągiem miałem wrócić do stacji Warszawa - Rembertów, a stamtąd do Ząbek jest już dwa rzuty beretem. Słabe strony? Żadnych, pogoda miała być łagodna, trasa prosta i częściowo znana, lokalne asfalty wśród mazowieckich pól i lasów.
 
@@ -21,7 +21,7 @@ Zaraz po przejechaniu kilkudziesięciu metrów okazało się, że mam rozregulow
 
 Zbliżywszy się do zaplanowanej połowy dystansu postanowiłem uratować z przejażdżki co się da i zaliczyć przynajmniej trochę _przygody_. Zboczyłem z trasy kilka kilometrów, żeby przetestować kebab w którym jeszcze nie jadłem, potem odbiłem w bok żeby podjechać do miejscowości o zabawnej nazwie. Powrót _na kołach_ był już stosunkowo bezproblemowy, chociaż dawał znaki tyłek nie przywykły do geometrii siodła w Demonie (obłędnie wygodnego, ale do każdego trzeba _wygnieść poślady_ żeby usiedzieć w nim kilka godzin). Pod dom zajechałem zasadniczo nie zmęczony, ale jednak umordowany. Później wieczorem darły mnie mięśnie pod kolanami i bolały ramiona, jakbym nie wiem co robił, a nie jeździł na rowerze.
 
-![Demon w ciopągu](https://storage.googleapis.com/public.zgodowie.org/images/demon-w-ciopagu.jpg)
+![Demon w ciopągu](https://storage.googleapis.com/public.zgodowie.org/images/demon-w-ciopagu.jpg 'Wracamy z Demonem na wisząco w pociągu z Małkini')
 
 Jakby było mało tych obelg, to po zakończeniu aktywności Garmin pokazał mi _recovery time_ 7 godzin, jakbym w ogóle żadnego wysiłku w tę jazdę nie włożył, a Strava dodatkowo wyliczyła, że na 50, 90 km i 50 mil był to mój trzeci czas w życiu. Serio?! W ogóle nie miałem takiego odczucia, wydawało mi się to potwornie wymęczone. No ale liczby nie kłamią (choć wszytkie te wyliczenia opierają się na nie do końca wiarygodnych wynikach pomiarów).
 

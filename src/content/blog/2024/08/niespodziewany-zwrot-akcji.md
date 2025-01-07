@@ -11,7 +11,7 @@ imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/wesola.jpg
 
 Jeszcze niedawno miałem [klarowny plan zakupienia nowego roweru](/blog/2024/06/czy-to-on), który miał mnie wozić przez kolejne tysiące kilometrów i dostarczać wiele niezapomnianych wrażeń. Miała to być pewna konkretna szosa _endurance_ z karbonową ramą i do pewnego momentu nie miałem co do tego wyboru większych wątpliwości. A potem zacząłem je mieć i dalej już poszło jak lawina.
 
-![Urbex w Wesołej](https://storage.googleapis.com/public.zgodowie.org/images/wesola.jpg)
+![Urbex w Wesołej](https://storage.googleapis.com/public.zgodowie.org/images/wesola.jpg 'Tajemniczy opuszczony budynek w Wesołej. Wygląda trochę jak gniazdo szpiegów, ale był to ośrodek rehabilitacyjny.')
 
 Na początek wątpliwości pojawiły się w kontekście napędu: 12&ndash;rzędowa _stopiątka_ to świetny napęd, ale z moimi umiejętnościami kolarskimi zwyczajnie drogi w utrzymaniu. Pomimo najszczerszych chęci i ciągłych ćwiczeń wciąż stosunkowo szybko zajeżdżam zarówno łańcuchy, jak i kasety, a w szczególności te ostatnie potrafią słono kosztować. Świetnym rozwiązaniem byłby napęd 11&ndash;rzędowy, ale niewiele jest nowych rowerów, które są jeszcze sprzedawane ze _starą stopiątką_, a już takich które pasowałyby mi geometrią to już w ogóle. Pozostają używki, ale w przypadku używek to oczywiście jest to trochę loteria, bo nie wiadomo na co się trafi. Sytuacja jest patowa, bo ani upgrade z 10&ndash;rzędowej Tiagry (która sama w sobie jest rzadkością w karbonowych rowerach), ani downgrade z 12&ndash;rzędowej 105 nie ma sensu.
 

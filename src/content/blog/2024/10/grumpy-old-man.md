@@ -4,13 +4,13 @@ pubDate: 2024-10-16T22:56:54+02:00
 tags:
     - rower
     - rant
-description: "Helmut zaliczył swój pierwszy serwis. Normalnie sam serwisuję swoje rowery, a jednak tym razem wolałem oddać go do warsztatu, żeby zajął się nim ktoś inny. Onieśmielająca jest ta jego nowoczesność."
+description: 'Helmut zaliczył swój pierwszy serwis. Normalnie sam serwisuję swoje rowery, a jednak tym razem wolałem oddać go do warsztatu, żeby zajął się nim ktoś inny. Onieśmielająca jest ta jego nowoczesność.'
 imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/esker-i-trabant.jpg
 ---
 
 Helmut zaliczył swój pierwszy serwis. Normalnie sam serwisuję swoje rowery, ale jednak tym razem wolałem oddać go do warsztatu, żeby zajął się nim ktoś inny. Onieśmielająca jest ta jego nowoczesność.
 
-![Esker i Trabant](https://storage.googleapis.com/public.zgodowie.org/images/esker-i-trabant.jpg)
+![Esker i Trabant](https://storage.googleapis.com/public.zgodowie.org/images/esker-i-trabant.jpg 'Esker kolegi i mój Trabant przy Gliniankach w Zielonce')
 
 Mam cztery rowery, w tym trzy szosowe, poza Helmutem jest jeszcze karbonowy Trek Domane na pełnej mechanice ze szczęskościskami i aluminiowy Triban z hamulcami tarczowymi, ale również na pełnej mechanice. Serwis tych wszystkich rowerów (oraz archaicznego ponad 20&ndash;letniego Gianta, który służy mi do _śmigania po mieście_) jest prosty i nie wymaga żadnych specjalnych umiejętności. Co więcej, pomijając szczegóły pojedynczych komponentów, to wszystkie one działają tak samo &mdash; hamulce są aktywowane stalowymi linkami biegnącymi częściowo w pancerzach, tak samo przerzutki. _Ogarnialne_ dla amatora mechanika rowerowego jest w nich absolutnie wszystko, choć niektóre rzeczy wymagają specjalistycznych narzędzi, jak prasa do łożysk. Ale to tylko Trek ma takie niezwykłe elementy, jak wciskany wkład suportu. Poza tymi drobiazgami wszystkie te trzy rowery sprawiają wrażenie przyjaznych, przystępnych, o stopniu skomplikowania możliwym to ogarnięcia dla amatora w ramach przydomowego warsztatu.
 
@@ -20,6 +20,6 @@ Helmut nie jest pierwszym moim rowerem z hydraulicznymi hamulcami &mdash; przez 
 
 Oczyma duszy widziałem kałużę oleju na podłodze, pierdolnik na hiperskalę w pokoju, który służy mi również jako pokój telewizyjny oraz suszarnia. Hydraulika jest czymś, co można zrobić źle na wiele sposobów, a błędy mogą mieć katastrofalne skutki. A co najmniej uciązliwe do usunięcia. Dlatego z zagadnieniem związanym z układem hydraulicznym udałem się do serwisu rowerowego, który za taką drobną pierdółkę skasował mnie jak za zboże. Mniejsza o to ile, byłem gotów zapłacić duże pieniądze za to, by nie musieć się z tym babrać samemu i zmieściłem się w budżecie.
 
-![Sulejówek zawsze spoko](https://storage.googleapis.com/public.zgodowie.org/images/sulejowek-zawsze-spoko.jpg)
+![Sulejówek zawsze spoko](https://storage.googleapis.com/public.zgodowie.org/images/sulejowek-zawsze-spoko.jpg 'Trek Domane, raczej stary, ale wyjątkowo wygodny. W pięknych okolicznościach.')
 
 Ponarzekałem trochę, pozrzędziłem, ale zupełnie bez podstaw. Technicznie Helmuta od Trabanta (a nawet od Demona) dzieli cała epoka i wyższe skomplikowanie konstrukcji jest całkiem uzasadnione patrząc przez pryzmat różnic w dostarczanej funkcjonalności. Chodzi zarówno o jakość hamowania, ale również estetykę, jak wiele zachodu wymaga utrzymanie w stanie technicznej sprawności, i tak dalej &mdash; można narzekać na to czy owo, ale współczesne rowery ogólnie są mniej zawodne, znoszą więcej zanim klękną i są _sprawniejszymi maszynami_ (w sensie fizycznym). A hydro? Któregoś dnia przyjdzie również kolej na serwis hamulców hydraulicznych typu odpowietrzanie, wymiana klocków czy regulacja i będzie to całkowicie normalna rzecz, którą będę się musiał nauczyć wykonywać w domowych warunkach, tak samo będzie z przeprowadzaniem pancerzy w ramie (to może nawet całkiem niedługo już będzie). Ale może nie wszystko na raz i nie zaczynając od najpoważniejszych czynności serwisowych.
