@@ -13,7 +13,7 @@ description: Jest koniec grudnia, więc znowu przyszedł czas podsumowań. Jak k
 
 Jest koniec grudnia, więc znowu przyszedł czas podsumowań. Jak każdy kolejny rok, ten również był szczególny, jedyny w swoim rodzaju i niepowtarzalny. Były rowery, były podróże, były nowe rzeczy, ale były też wydarzenia smutne i przygnębiające, jak to w ludzkim życiu ma zwyczaj się przeplatać szczęście z nieszczęściem. O ile w 2023 roku podsumowywałem głównie _rowering_, to w 2024 wydarzyło się w moim życiu znacząco więcej.
 
-![Kanał Żerański jesienią](https://storage.googleapis.com/public.zgodowie.org/images/jesien-kanal-zeranski.jpg)
+![Kanał Żerański jesienią](https://storage.googleapis.com/public.zgodowie.org/images/jesien-kanal-zeranski.jpg 'Wspaniała droga z Białołęki do Nieporętu wzdłuż Kanału Żerańskiego, polecam gorąco!')
 
 Trochę w porządku chronologicznym, a trochę też w podziale na konteksty, co przyniósł rok 2024?
 
@@ -29,9 +29,11 @@ Roweru w tym roku było jednocześnie więcej ale i w moim odczuciu również mn
 
 Obiektywnie patrząc jeździłem więcej, dłużej, dalej i szybciej, kontynuacji tego trendu spodziewam się również w roku 2025, a dodatkowo spodziewam się znacznie podnieść wynik pokonanych przewyższeń, ponieważ przynajmniej kilka miesięcy zamierzam jeździć w górach Abruzji.
 
-![Sulejówek](https://storage.googleapis.com/public.zgodowie.org/images/sulejowek.jpg)
+![Sulejówek](https://storage.googleapis.com/public.zgodowie.org/images/sulejowek.jpg 'Park przy muzeum Józefa Piłsudskiego w Sulejówku, bardzo przyjemnie kojące miejsce')
 
 Nie jestem w pełni usatysfakcjonowany moimi osiągnięciami rowerowymi, bo plany miałem znacznie bogatsze &mdash; w kwietniu nie pojechałem na mój pierwszy 200 km brevet i prawie całą jesień spędziłem na _przywracaniu się do używalności_ po wypadku, przez co nie udało mi się osiągnąć _przebiegu_ 5 tys. km, do którego po cichu aspirowałem. Nie był to _twardy goal_, więc nie poczytuję tego za porażkę.
+
+Niemalże zapomniałem &mdash; kupiłem sobie nowy rower! Fajną, karbonową szosę z szerokimi oponami i wygodną geometrią. Po kilkunastu dniach jeżdżenia miałem na niej wcześniej wspomniany wypadek.
 
 ### Włochy
 
