@@ -7,20 +7,20 @@ tags:
     - iot
     - arduino
     - mcu
-author: Jarek
 description: Dwa projekty, jeden cel
 isTechRelated: true
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/rpi-1-a.jpg
 ---
 
 Obietnice były wielkie, a efekty? Czy mamy to czego chcieliśmy?
 
 ## Dwa projekty, jeden cel
 
-![RPi](https://3.bp.blogspot.com/-Wgc6I_jd5zQ/V3O3zCXl8QI/AAAAAAAAEnM/lZC1BTsO_1cttX2F5Y1HbmkmhbvyPxOwQCKgB/s800/Raspberry_Pi_2.jpg)
+![RPi](https://storage.googleapis.com/public.zgodowie.org/images/rpi-1-a.jpg 'Rapberry Pi 1')
 
 Raspberry Pi miało dać ludziom platformę do nauki programowania _małych rzeczy_. Komputer który był tani i teoretycznie _wszystkomający_, tak naprawdę w większości przypadków kończy jako set-top box przy telewizorze zastępując funkcje smart TV, lub retrokonsola do starych gier odpalanych na emulatorze. Przypadki kiedy RPi (i jego klony) są używane do czegokolwiek poważniejszego można policzyć na palcach. Prawdę mówiąc moje zastosowanie nie odbiega wcale od tego schematu, RPi 2B jest u mnie retrokonsolą, OPi PC przez większość czasu się nudzi będąc głównie serwerem aplikacji WWW i MQTT. Nie przyznam się ile różnych SBC leży u mnie w pudełkach, ale jest to konkretna moc obliczeniowa. Być może prowadzę nudne życie, ale nie widzę dla nich konkretnych zastosowań.
 
-![Uno](https://4.bp.blogspot.com/-jnQ0PZ19-Lo/V3O3s2GdSzI/AAAAAAAAEnM/IBOBytaQGQIjN-Dj3Qa-_DOs9B6SMAC3gCKgB/s800/Arduino_Uno_-_R3.jpg)
+![Uno](https://storage.googleapis.com/public.zgodowie.org/images/arduino-uno-r3.jpg 'Arduino UNO R3')
 
 Do towarzystwa jest Arduino UNO, 8-bitowy mikrokontroler na płytce developerskiej również ze wszystkim. Oryginał nie jest tanią zabawką (prawie 100 złotych za oryginalną płytkę), ale zadowalającej jakości klony na popularnym chińskim portalu można kupić za ułamek tej ceny, wliczając w to przesyłkę. Za te pieniądze dostajemy platformę, którą się łatwo oprogramowuje i można z nią zrobić zdecydowanie więcej niż tylko pomrugać diodami, choć na pierwszy rzut oka jej możliwości wyglądają skromnie. A co się najczęściej z nimi robi? No niestety, ale właśnie głównie mruganie diodami, a co najwyżej elektroniczny termometr.
 

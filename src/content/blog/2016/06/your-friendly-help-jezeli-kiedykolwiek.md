@@ -6,13 +6,14 @@ tags:
     - programowanie
     - pozapiwne
     - linux
-author: Jarek
 description: 'Your friendly help.'
+isTechRelated: true
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/rubber-duck.jpg
 ---
 
 Your friendly help.
 
-![Quack!](https://4.bp.blogspot.com/-SXxp9qPBMSA/V3OTpg3kPSI/AAAAAAAAEms/ngOIs1IYBdAIQuyWyFS12hPdAxh3-ePEACLcB/s800/rubber-duck_0.jpg)
+![Quack!](https://storage.googleapis.com/public.zgodowie.org/images/rubber-duck.jpg 'Kwa!')
 
 Jeżeli kiedykolwiek będziesz potrzebować rozwiązać następujący problem:
 
