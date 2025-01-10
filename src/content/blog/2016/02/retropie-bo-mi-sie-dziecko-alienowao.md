@@ -5,10 +5,9 @@ tags:
     - retropie
     - pozapiwne
     - linux
-author: Jarek
 description: Dziecko moje najdroższe alienowało mi się siedząc przed komputerem w swoim pokoju. Teraz się alienuje w salonie.
 isTechRelated: true
-imageUrl: https://i.imgur.com/SehpKpeh.png
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/retropie-final.jpg
 ---
 
 Dziecko moje najdroższe alienowało mi się siedząc przed komputerem w swoim pokoju. Nie żebym jej zabraniał, ale skoro ma grać, to niech gra przy nas, w salonie. Przynajmniej będziemy wiedzieli w co gra.
@@ -48,11 +47,11 @@ sudo RetroPie-Setup/retropie_setup.sh
 
 Tam w pierwszym menu wybieramy "Experimental packages":
 
-![The Suchy Experiment](https://i.imgur.com/EaPh2iQh.png)
+![The Suchy Experiment](https://storage.googleapis.com/public.zgodowie.org/images/retropie-1.png 'PSX, krok 1')
 
 i następnie "pcsx-rearmed":
 
-![Armed again](https://i.imgur.com/maESKejh.png)
+![Armed again](https://storage.googleapis.com/public.zgodowie.org/images/retropie-2.png 'PSX, krok 2')
 
 Skrypt zadba o to, by wszystkie potrzebne do kompilacji pakiety zostały zainstalowane, następnie ściągnie sobie kod źródłowy, skompiluje go i wrzuci gdzie trzeba. Teraz wystarczy zrestartować EmulationStation i można grać.
 
@@ -76,14 +75,14 @@ Po restarcie ES już powinno być lepiej, ale nie całkiem dobrze, bo wciąż ma
 
 Wracamy do naszego skryptu `retropie_setup.sh` i z Experimental packages wybieramy Scraper:
 
-![Scrap, scrap, scrap](https://i.imgur.com/knyVbdmh.png)
+![Scrap, scrap, scrap](https://storage.googleapis.com/public.zgodowie.org/images/retropie-3.png 'Skrobaczka, krok 1')
 
 Po uruchomieniu wybieramy sobie albo albo "Scrape all systems" albo tylko wybrane, może na początek lepiej sobie pojechać po całości, ale i tak uprzednio dobrze będzie się upewnić czy nie ma nowszej wersji i dać "Update scraper". Tak dla pewności.
 
-![Scrap it!](https://i.imgur.com/E1PqAbth.png)
+![Scrap it!](https://storage.googleapis.com/public.zgodowie.org/images/retropie-4.png 'Skrobaczka, krok 2')
 
 Ten program zadziała tylko wtedy, gdy ES nie będzie uruchomione, o czym nam uprzejmie przypomni w innym przypadku. W każdym razie po chwili będziemy mieli już metadane naszych gierek ściągnięte i z przyjemnością przejrzymy sobie ich listę, a następnie z przyjemnością w nagrodę pukniemy partyjkę w X-COM.
 
-![X-Com się skończyło na Kill'Em All](https://i.imgur.com/SehpKpeh.png)
+![X-Com się skończyło na Kill'Em All](https://storage.googleapis.com/public.zgodowie.org/images/retropie-final.jpg 'Jakiś X-Com, ale na PSX nie było innego')
 
 Po południu przyjdzie dzieć ze szkoły i już nie pogramy, więc lepiej korzystać.

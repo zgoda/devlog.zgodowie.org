@@ -1,7 +1,6 @@
 ---
 title: 'Bardzo specjalne piwo'
 pubDate: 2014-01-02T10:46:00.003+01:00
-author: Jarek
 tags:
     - domowe
 description: 'Podchodziłem do niego jak do jeża. Sama idea uwarzenia tego piwa wydawała mi się tak szalona, że potrzebowałem do tego specjalnej okazji, np. setnej warki czy czegoś podobnego. Niestety, przypadek sprawił że na setną warkę musiałem uwarzyć coś szybkiego i sprawa tego piwa odsunęła się w czasie o kilka miesięcy, o kolejnych 10 warek. Ale w końcu jest, od jakiegoś czasu już dojrzewa w butelkach i rozwija się w bardzo dobrym kierunku.'

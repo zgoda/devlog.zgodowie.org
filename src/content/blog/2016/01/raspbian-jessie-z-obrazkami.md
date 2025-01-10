@@ -5,10 +5,9 @@ tags:
     - sbc
     - pozapiwne
     - linux
-author: Jarek
 description: Jak to teraz odpalić na moim starym RPi?
 isTechRelated: true
-imageUrl: https://i.imgur.com/WMXkpsxh.png
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/rpi-z-obrazkami.jpg
 ---
 
 Wymyśliłem sobie jedno zastosowanie w domu dla starego RPi B (bez plusa, 26-pin GPIO, 900MHz single core i 512MB RAM). Do tego jednak potrzebowałem jakiegoś wyświetlacza z panelem dotykowym. Przypadkiem wpadł mi w ręce taki jeden, 4 calowy, całkiem popularny. Okazja była, to wziąłem. No to jak to teraz odpalić na moim RPi?
@@ -61,7 +60,7 @@ echo "fluxbox" > .xsession
 
 Oryginalna instrukcja dobrze podpowiada co trzeba zrobić by obrócić ekran, jednak dla 4" nie wystarczy zmienić porządku opcji kalibracji, ale dla pewności lepiej jest tę kalibrację przeprowadzić od nowa ze zmienioną geometrią. Szczęśliwie xinput-calibrator w Jessie jest już w repo, więc w porównaniu do Wheezy obejdzie się bez kompilowania ze źródeł. Efekt tymczasowo wygląda tak:
 
-![Mmm, beer!](https://i.imgur.com/WMXkpsxh.png)
+![Mmm, beer!](https://storage.googleapis.com/public.zgodowie.org/images/rpi-z-obrazkami.jpg 'Najlepiej na początek wyświetlić coś przyjemnego')
 
 ### Remove bloatware
 
