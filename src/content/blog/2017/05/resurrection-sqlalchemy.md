@@ -4,7 +4,6 @@ pubDate: 2017-05-31T11:54:00.000+02:00
 tags:
     - programowanie
     - python
-author: Jarek
 description: Po kilku miesiącach dłubania w drobnicy przyszedł czas powrotu do Flaska i SQLAlchemy.
 ---
 

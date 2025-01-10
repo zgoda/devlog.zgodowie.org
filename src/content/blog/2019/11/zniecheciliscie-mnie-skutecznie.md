@@ -5,13 +5,13 @@ tags:
     - codeofconduct
     - programowanie
     - projekty
-author: Jarek
 description: 'Jakiś rok temu (może trochę więcej) Linus Torvalds został zmuszony do _wzięcia urlopu od Linuxa_, bo jego zachowanie było za mało inkluzywne. Zdaje się że już ten urlop się skończył, bo widziałem parę jego postów na LKML przy okazji niedawnych wydań, ale problem którego pokłosiem był ten przymusowy urlop pozostał. I się nasilił.'
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/hot-peppers.jpg
 ---
 
 Jakiś rok temu (może trochę więcej) Linus Torvalds został zmuszony do _wzięcia urlopu od Linuxa_, bo jego zachowanie było za mało inkluzywne. Zdaje się że już ten urlop się skończył, bo widziałem parę jego postów na LKML przy okazji niedawnych wydań, ale problem którego pokłosiem był ten przymusowy urlop pozostał. I się nasilił.
 
-![Hot!](https://1.bp.blogspot.com/-vpoat-AYJ4Q/Xcg_3IM38SI/AAAAAAAAHBY/VBRf2nUAkiQn-DeFdrIhmYhJR1HtHGQnQCKgBGAsYHg/s800/IMG_20191012_152117.jpg)
+![Hot!](https://storage.googleapis.com/public.zgodowie.org/images/hot-peppers.jpg 'Hot peppers, niektóre nawet red')
 
 Jednego gościa wykluczyli z jakiejś konferencji na podstawie rzekomego naruszenia Code of Conduct. Ślady publiczne po kilku dniach zniknęły, jedynie pozostałości w postaci zrzutów ekranów zachowały się tu i ówdzie, przez co trudno jest dzić ocenić czym gość rzeczywiście podpadł. Jest jakiś wpis na twitterze, że gość chce przeprowadzić jakąś mediację, jest zdjęcie w czapeczce Make America Great Again, jest zgłoszenie do Linux Foundation i jest odpowiedź Linux Foundation. Z tego co się zachowało wynika, że jakaś wariatka zaszczuła gościa. [Tu jest opis jeden](https://reclaimthenet.org/linux-foundation-censorship-kubecon/), który zdaje się być dość kompletny, [list Roberta C. Martina do Linux Foundation](https://blog.cleancoder.com/uncle-bob/2019/11/08/OpenLetterLinuxFoundation.html) w sprawie sposobu przeprowadzenia tego procesu. Jedna miłośniczka tejże wariatki spędziła pół życia żeby skleić [wersję wydarzeń w której światło pada z innej strony](https://medium.com/@cherp/propaganda-other-lies-we-tell-4325240379f7).
 

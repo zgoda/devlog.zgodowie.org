@@ -7,13 +7,13 @@ tags:
     - pozapiwne
     - domowe
     - żarcie
-author: Jarek
 description: Wiejski piekarz, ale umie czytać.
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/ksiazki-piekarskie.jpg
 ---
 
 Trzy książki, każda dobra do czego innego, żadna nie jest idealna. Mieć wszystkie lub nie mieć żadnej.
 
-![Książki](https://1.bp.blogspot.com/-C2gQOmngxEk/WhlwHhIesTI/AAAAAAAAFqw/fvf3ovzraDMZiS4UBVCqCaRrET-aGSVsACKgBGAs/s800/IMG_0192.JPG)
+![Książki](https://storage.googleapis.com/public.zgodowie.org/images/ksiazki-piekarskie.jpg 'Literatura, lepsza i gorsza')
 
 Pierwszego kupiłem Hamelmana, na fali fascynacji piekarstwem jako rzemiosłem bliskim piwowarstwu - i tu i tu robi się z produktami zbożowymi, choć zupełnie co innego, to wciąż blisko ziemi i natury. Piekłem trochę chlebów wg przepisów z róznych blogów, czasem było lepiej czasem gorzej, ale nigdy nie byłem zadowolony z efektu. Gdy Eliza z [WhitePlate.com](http://whiteplate.com/) napisała wstępniak do polskiego wydania książki Hamelmana nie wahałem się długo i kupiłem. Przeczytałem z niecierpliwością wstęp i kilka pierwszych przepisów i... zeszło powietrze. Nie dam rady. To poza moimi możliwościami. Nie w domu. Odłożyłem książkę na półkę i zapomniałem o doskonaleniu warsztatu piekarniczego, skupiłem się na robieniu piwa.
 

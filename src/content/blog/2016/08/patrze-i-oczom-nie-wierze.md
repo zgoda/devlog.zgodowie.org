@@ -7,7 +7,6 @@ tags:
     - projekty
     - pcp
     - mcu
-author: Jarek
 description: I'm proud
 ---
 

@@ -5,13 +5,14 @@ tags:
     - programowanie
     - rant
     - python
-author: Jarek
 description: 'Wyruszyłem wraz z Google na poszukiwanie króla dżungli.'
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/grumpy-old-man.jpg
+isTechRelated: true
 ---
 
-![Fuj](https://2.bp.blogspot.com/-LwUQVFQxODc/W7n9p-t6mcI/AAAAAAAAGGA/iCBkFRbuQXsZE0VBLSmQHs1jKdtShoxyQCLcBGAs/s800/grumpy-clint.jpg)
-
 Po dłuższej robocie z innymi rzeczami trafił mi się jeden mały projekt, który idealnie nadał się na rozpoznanie bojem, co tam nowego panie w światku bibliotek narzędziowych/ramówek do robienia aplikacji sieciowych - proste REST API z jednym zasobem w kilku perspektywach. Pierwsza myśl była "robiłem to meeelion razy, w jeden dzień będzie z pokryciem 100%". Ale zaraz zorientowałem się, że to dobra okazja, żeby przy okazji rozejrzeć się, czy czasem coś nowego nie pojawiło się na arenie w ciągu tych 3 czy 4 lat, kiedy tłukłem w standardzie Flask + SQLAlchemy, do porzygu. Pamiętam przecież, jak ze 3 lata temu co chwilę pojawiały się jakieś zajawki, że tu jakiś framework osiągnął niesamowite wyniki w benchmarkach, a to jakiś przełomowy koncept miał na zawsze odmienić sposób w jaki robi się webaplikacje w Pythonie, a to to, a to tamto. Poprosiłem więc o chwilę ekstra na zastanowienie się i wyruszyłem wraz z Google na poszukiwanie króla dżungli.
+
+![Fuj](https://storage.googleapis.com/public.zgodowie.org/images/grumpy-old-man.jpg 'Grumpy old man (tu: Clint Eastwood)')
 
 ## Jest źle, a nawet bardzo źle
 

@@ -4,7 +4,8 @@ pubDate: 2019-11-26T22:11:00.001+01:00
 author: Jarek
 tags:
     - programowanie
-description: 'Co jest najważniejszym narzędziem programisty, oczywiście poza jego mózgiem?'
+description: Co jest najważniejszym narzędziem programisty, oczywiście poza jego mózgiem?
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/najlepsza-klawiatura-swiata.jpg
 ---
 
 Co jest najważniejszym narzędziem programisty, oczywiście poza jego mózgiem? Klawiatura!
@@ -15,7 +16,7 @@ Wszyscy będą twierdzić, że dla programisty - jak dla gracza - klawiatura mus
 
 Spróbowałem sobie przypomnieć jaką to klawiaturę lubiłem w mojej karierze i... Bang!
 
-![I'm in heaven](https://1.bp.blogspot.com/-c3RJyFGG0ik/Xd2QhcdNqKI/AAAAAAAAHGc/ijw8DbtF1mkROI-VMm6MwqGoXEchITR9gCKgBGAsYHg/s800/IMG_20191126_214344_LL.jpg)
+![I'm in heaven](https://storage.googleapis.com/public.zgodowie.org/images/najlepsza-klawiatura-swiata.jpg 'Najlepsza klawiatura świata')
 
 Znalazłem! Dell SK-8115, nowej już się raczej nie uświadczy, ale taka lekko używana, _prawie jak nowa_ daje się wyrwać i to całkiem tanio, kilkanaście złotych w popularnym serwisie aukcyjnym.
 

@@ -6,15 +6,15 @@ tags:
     - projekty
     - pcp
     - esp8266
-author: Jarek
 description: Nie żadne tam automatyki, zwykły gadżet do klikania.
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/beer-counter-2.jpg
 ---
 
 Nowa kategoria, zgodnie z panującym lata temu w Usenecie obyczajem nazwana "PCP" czyli "Patrzcie Co Popełniłem".
 
 Za jakiś czas jadę na pijacki zlot, gdzie będzie się lało bardzo, bardzo dużo piwa. A że jestem coraz starszy, tym większą mam potrzebę wiedzieć ile tak naprawdę tego dobra poszło, a nie tylko "za dużo". Stąd projekcik licznika wypitego piwa. Nie żadne tam automatyki, zwykły gadżet do klikania.
 
-![Pajęczyna](https://3.bp.blogspot.com/-2dO83ztozUk/V7xQsta6S-I/AAAAAAAAEpc/wkJFMsKcsHQIRDv-Zz8OrreOcmLLfgeYACPcB/s800/upload_-1)
+![Pajęczyna](https://storage.googleapis.com/public.zgodowie.org/images/beer-counter-1.jpg 'Układ w fazie pajęczyny')
 
 Jak na zamieszczonym zdjęciu widać, składa się on z wyświetlacza tekstowego 1602, enkodera przyrostowego (rotary encoder) i płytki developerskiej ESP8266 WeMos D1 mini.
 
@@ -34,4 +34,4 @@ Kod źródłowy programu jest dostępny w [publicznym repozytorium Git](https://
 
 Po zmontowaniu wszystkiego na breadboard wygląda to tak:
 
-![Na chlebku](https://1.bp.blogspot.com/-th2qEKW9CWQ/V8Wev7AwS6I/AAAAAAAAEqQ/rRD114nyzTgbz1URVQtUCahivXelJH8ZgCPcB/s800/upload_-1)
+![Na chlebku](https://storage.googleapis.com/public.zgodowie.org/images/beer-counter-2.jpg 'Układ w fazie uporządkowanej pajęczyny na płytce stykowej')
