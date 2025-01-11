@@ -7,13 +7,13 @@ tags:
     - javascript
     - python
     - preact
-author: Jarek
 description: 'Nie da się w dzisiejszych czasach robić w Pytongu i nie dotknąć się do Javascriptu.'
+imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/kistraktor.jpg
 ---
 
 Nie da się w dzisiejszych czasach _robić w Pytongu_ i nie dotknąć się do Javascriptu. Jest to wszędzie i nawet przy największym wysiłku czasem nie da się tego ominąć. A jeszcze teraz namnożyło się tych _famenwerków do frontendu_, tak że nie da się obrócić żeby na jakiś nie wleźć. Nie mówiąc o politowaniu z jakim na człowieka patrzą _bomble_.
 
-![Ale super](https://1.bp.blogspot.com/-SpZJNx6kzzU/XeOe549_lHI/AAAAAAAAHHI/Lt8IXqKnve0UR5xB9X5jLqNfZkddhXScQCKgBGAsYHg/s800/IMG_0229.JPG)
+![Ale super](https://storage.googleapis.com/public.zgodowie.org/images/kistraktor.jpg 'Kistraktor WTF?!')
 
 Pełen niechęci zacząłem poszukiwania sposobu na pożenienie tych dwóch światów, tzn Pythona z _jakimś_ Javascriptem frontendowym. Z rosnącą niechęcią przedzierałem się przez kolejne tutoriale dotyczące Reacta, Angulara czy Vue i z coraz większym obrzydzeniem je odrzucałem. W końcu zebrałem moje oczekiwania co do docelowej architektury i wzorca aplikacji.
 
