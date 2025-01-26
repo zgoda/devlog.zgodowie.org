@@ -27,7 +27,7 @@ Okazją do bliższego zapoznania się z aparatem był _pół-służbowy_ wyjazd 
 
 Przez tydzień ćwiczyłem i przypominałem sobie z czym się to je, sprawdzając opcje i możliwości jakie dawał mi aparat. W tym czasie mieliśmy i sztorm, i ulewę, i porywiste wiatry, ale również wspaniale wzburzone morze dzień po sztormie, łagodne fale, piękny zachód słońca na Cap de la Nau, promenadę Camí Casetes, nocny port rybacki i wszystko, co nie zamiera w nadmorskim kurorcie zimą.
 
-Obiektyw jak na swoje parametry i moje umiejętności sprawował się całkiem dobrze. Odczułem trochę jego braki w zakresie jasności, ale to jest typowa przypadłość obiektywów ze zmienną ogniskową, tu dodatkowo spotęgowana przeciętną jakością układu optycznego. Z takimi ograniczeniami przyszło mi się zmierzyć, ale szybko zacząłem sobie przypominać jak sobie z nimi radzić. Lumix z każdym z obu obiektywów ma dokładnie ten sam problem.
+Obiektyw jak na swoje parametry i moje umiejętności sprawował się całkiem dobrze. Odczułem trochę jego braki w zakresie jasności, ale to jest typowa przypadłość obiektywów ze zmienną ogniskową, tu dodatkowo spotęgowana przeciętną jakością układu optycznego. Z takimi ograniczeniami przyszło mi się zmierzyć, ale szybko zacząłem sobie przypominać jak sobie z nimi radzić. Pożyczony Lumix z każdym z jego obu obiektywów ma dokładnie ten sam problem, ale po zrobieniu raptem kilkuset zdjęć nie to zdaje się być największą bolączką moich obrazów (polecam [kanał Rafała Koniecznego na YT](https://www.youtube.com/@rafalkonieczny) jezeli ktoś potrzebuje sobie szybko przypomnieć po latach _jak się robi znośne zdjęcia_).
 
 ![Nocne obiekty](https://storage.googleapis.com/public.zgodowie.org/images/by-night.jpg 'Ktoś zapatrzony w morze')
 
