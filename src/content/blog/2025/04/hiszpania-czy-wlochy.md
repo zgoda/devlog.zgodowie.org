@@ -4,6 +4,8 @@ pubDate: 2025-04-06T17:45:00+02:00
 tags:
     - hiszpania
     - włochy
+    - costablanca
+    - abruzja
 description: Trochę hobbistycznie, trochę zawodowo, a trochę towarzysko z ostatnich kilku miesięcy sporo czasu spędziłem w jednym z tych dwóch śródziemnomorskich krajów. Załatwiałem podobne sprawy, korzystałem z podobnych usług publicznych i &mdash; pomimo oczywistych różnic geograficznych &mdash; bywałem w podobnych miejscach. Pomimo wyraźnie zauważalnych różnic, które są łatwe do oceny i wartościowania, nie umiem odpowiedzieć na pytanie który z tych krajów wolę jako miejsce do życia. I nie wydaje mi się, żeby z czasem było mi łatwiej udzielić takiej odpowiedzi.
 imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/montgo-z-portu-w-javea.jpg
 ---
