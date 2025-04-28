@@ -31,7 +31,7 @@ Da się bez większych problemów obskoczyć kilkudniową jazdę z 2 zestawami s
 
 Mając na względzie szybkie schnięcie kupiłem sobie przed wyjazdem 2 pary skarpetek rowerowych w Decu i okazało się to strzałem w 10, schną znacznie szybciej niż zwykłe trekkingowe skarpetki w których jeżdżę normalnie (choć nie są aż tak przyjemne po kilku godzinach _ciorania_).
 
-Podręczne rzeczy muszą pod ręką i łatwo dostępne, czyli najlepiej w okolicy mostka / kierownicy. Do tego się nadają takie torebki nazywane _paśnikami_, mniejsze lub większe, oryginalnie pomyślane do tego, by wozić w nich jedzenie, ale okazało się że _nikt tego nie sprawdza_. Miałem w jednej szmaty _awaryjne_ (deszczówkę, rękawki, kamizelkę), w drugiej chemię: krem na słońce, tabletki z elektrolitami, chusteczki. Ta większa (i tańsza przy okazji) okazała się bardziej praktyczna.
+Podręczne rzeczy muszą być pod ręką i łatwo dostępne, czyli najlepiej w okolicy mostka / kierownicy. Do tego się nadają nieduże torebki nazywane _paśnikami_, mniejsze lub większe, oryginalnie pomyślane do tego, by wozić w nich jedzenie, ale okazało się że _nikt tego nie sprawdza_. W jednej miałem szmaty _awaryjne_ (deszczówkę, rękawki, kamizelkę), w drugiej chemię: krem na słońce, tabletki z elektrolitami, chusteczki. Ta większa (i tańsza przy okazji) okazała się bardziej praktyczna.
 
 ### Musthaves
 
