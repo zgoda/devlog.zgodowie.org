@@ -8,10 +8,10 @@ tags:
     - demon
     - trek
 imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/gdzies-kolo-pollency.jpg
-description: Mając w perspektywie zostanie samemu na Costa Blanca podczas świąt Wielkiej Nocy, albo w ramach alternatywy zapłacenie sporej sumy pieniędzy i siedzenie samemu w Ząbkach, wybrałem Trzecią Drogę&trade; &mdash; pojechałem na kilka dni z rowerem na Majorkę. Różnica względem Costa Blanca może nie na miarę egzotyki, ale z pewnością odmiana, ale co w tym najważniejsze, to że przy okazji przeżyłem nowy rodzaj przygody.
+description: Mając w perspektywie siedzenie samemu jak palec podczas świąt Wielkiej Nocy na Costa Blanca, albo w ramach alternatywy zapłacenie sporej sumy pieniędzy i siedzenie samemu jak palec w Ząbkach, wybrałem Trzecią Drogę&trade; &mdash; pojechałem na kilka dni z rowerem na Majorkę. Różnica względem Costa Blanca może nie na miarę egzotyki, ale z pewnością odmiana, ale co w tym najważniejsze, to że przy okazji przeżyłem nowy rodzaj przygody.
 ---
 
-Mając w perspektywie zostanie samemu na Costa Blanca podczas świąt Wielkiej Nocy, albo w ramach alternatywy zapłacenie sporej sumy pieniędzy i siedzenie samemu w Ząbkach, wybrałem Trzecią Drogę&trade; &mdash; pojechałem na kilka dni z rowerem na Majorkę. Różnica względem Costa Blanca może nie na miarę egzotyki, ale z pewnością odmiana, ale co w tym najważniejsze, to że przy okazji przeżyłem nowy rodzaj przygody.
+Mając w perspektywie siedzenie samemu jak palec podczas świąt Wielkiej Nocy na Costa Blanca, albo w ramach alternatywy zapłacenie sporej sumy pieniędzy i siedzenie samemu jak palec w Ząbkach, wybrałem Trzecią Drogę&trade; &mdash; pojechałem na kilka dni z rowerem na Majorkę. Różnica względem Costa Blanca może nie na miarę egzotyki, ale z pewnością odmiana, ale co w tym najważniejsze, to że przy okazji przeżyłem nowy rodzaj przygody.
 
 ![Gdzieś w drodze między Selvą a Pollença](https://storage.googleapis.com/public.zgodowie.org/images/gdzies-kolo-pollency.jpg 'Nie pamiętam już co to były za wzniesienia, ale między Selvą a Pollença jest tak cały czas')
 
@@ -47,13 +47,15 @@ _Na podorędziu_ koniecznie trzeba mieć krem na słońce i używać go regularn
 
 Z innych _przydasi_, które okazały się ratować życie, wymieniłbym jeszcze ładowarkę PD 65W z kilkoma gniazdkami out (2x USB C + 1x USB A). Umożliwiała ona jednoczesne _w miarę szybkie_ naładowanie lampek, nawigacji i telefonu, dzięki czemu mogłem w ogóle nie mieć ze sobą żadnego innego źródła prądu podczas jazdy.
 
+W kontekście technicznym do takiego _cardpackingu_ w zupełności wystarczy przeciętny rower szosowy, w szczególności niekoniecznie najnowszy i wyposażony w topowe komponenty. Łączna waga bagażu jaką miałem w torbach nie przekroczyła 10 kg, więc nawet rowery o ograniczonej _dopuszczalnej wadze systemowej_ powinny dać radę, chociaż w przypadku _cięższych jeźdźców_ warto byłoby to sprawdzić.
+
 ### Te trzy dni
 
 Linki do tras z poszczególnych dni na Komoocie. Do planowania zdecydowanie nie nadają się usługi Garmina (np planowanie tras w Garmin Connect), ponieważ często kierują pod prąd w drogi jednokierunkowe lub wyłączone z ruchu rowerów, co w Hiszpanii kończy się mandatem €200.
 
 1. Dzień 1, [z Palma de Mallorca do Caimari](https://www.komoot.com/tour/2172967576)
 2. Dzień 2, [pętla z Caimari przez Pollença, Alcudię, Sa Pobla, Llubi](https://www.komoot.com/tour/2176771670)
-3. Dzień 3, [z Caimari do Palma de Mallorca przez Alaro](https://www.komoot.com/tour/2179566888)
+3. Dzień 3, [z Caimari do Palma de Mallorca przez Alaró](https://www.komoot.com/tour/2179566888)
 
 W Caimari i w bliskich okolicach nie brakuje opcji noclegowych, od agroturystyk i pensjonatów aż po hotele, do tego całkiem niedaleko jest nieco większe miasteczko Selva i całkiem duże miasto Inca. Okolica ta jest świetną bazą dla turystyki rowerowej ponieważ jest to środek wyspy i w każdy z krańców jest nie dalej niż 40-45 km, a do tego obfituje w malownicze trasy o różnym stopniu trudności.
 
