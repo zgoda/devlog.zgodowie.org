@@ -7,6 +7,9 @@ tags:
     - rower
     - demon
     - trek
+    - domane
+    - endurance
+    - bikepacking
 imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/gdzies-kolo-pollency.jpg
 description: Mając w perspektywie siedzenie samemu jak palec podczas świąt Wielkiej Nocy na Costa Blanca, albo w ramach alternatywy zapłacenie sporej sumy pieniędzy i siedzenie samemu jak palec w Ząbkach, wybrałem Trzecią Drogę&trade; &mdash; pojechałem na kilka dni z rowerem na Majorkę. Różnica względem Costa Blanca może nie na miarę egzotyki, ale z pewnością odmiana, ale co w tym najważniejsze, to że przy okazji przeżyłem nowy rodzaj przygody.
 ---
