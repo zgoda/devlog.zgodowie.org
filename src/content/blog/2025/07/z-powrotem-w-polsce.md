@@ -6,11 +6,11 @@ tags:
     - włochy
     - polska
     - rower
-description: Co najmniej dwa tygodnie niż planowałem przyszedł ostatecznie czas, żeby zjechać z bambetlami na lato do Polski. Z Hiszpanii, dokąd pojechaliśmy w marcu, z krótkim przystankiem we Włoszech, z jedną dwutygodniową przerwą na weselną zabawę na Podlasiu. Wyłączyliśmy lodówkę, zamknęliśmy okiennice i wyruszyliśmy w dwudniową podróż samochodem przez Austrię i Czechy do Warszawy, żegnając Abruzję na zakorkowanej autostradzie A14 i w końcu Włochy w Tarvisio. Podróż była długa i męcząca, ale ostatecznie w niedzielę wieczorem dojechaliśmy do naszych Ząbek, gdzie szczęśliwie _ledwo co_ przestało padać.
+description: Co najmniej dwa tygodnie wcześniej niż planowałem przyszedł ostatecznie czas, żeby _zjechać z bambetlami_ na lato do Polski. Z Hiszpanii, dokąd pojechaliśmy w marcu, z krótkim przystankiem we Włoszech, z jedną dwutygodniową przerwą na weselną zabawę na Podlasiu. Wyłączyliśmy lodówkę, zamknęliśmy okiennice i wyruszyliśmy w dwudniową podróż samochodem przez Austrię i Czechy do Warszawy, żegnając Abruzję na zakorkowanej autostradzie A14 i w końcu Włochy kilka kilometrów za Tarvisio. Podróż była długa i męcząca, ale ostatecznie w niedzielę wieczorem dojechaliśmy do naszych Ząbek, gdzie szczęśliwie _ledwo co_ przestało padać.
 imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/spojrzenie-za-okno.jpg
 ---
 
-Co najmniej dwa tygodnie niż planowałem przyszedł ostatecznie czas, żeby zjechać z bambetlami na lato do Polski. Z Hiszpanii, dokąd pojechaliśmy w marcu, z krótkim przystankiem we Włoszech, z jedną dwutygodniową przerwą na weselną zabawę na Podlasiu. Wyłączyliśmy lodówkę, zamknęliśmy okiennice i wyruszyliśmy w dwudniową podróż samochodem przez Austrię i Czechy do Warszawy, żegnając Abruzję na zakorkowanej autostradzie A14 i w końcu Włochy w Tarvisio. Podróż była długa i męcząca, ale ostatecznie w niedzielę wieczorem dojechaliśmy do naszych Ząbek, gdzie szczęśliwie _ledwo co_ przestało padać.
+Co najmniej dwa tygodnie wcześniej niż planowałem przyszedł ostatecznie czas, żeby _zjechać z bambetlami_ na lato do Polski. Z Hiszpanii, dokąd pojechaliśmy w marcu, z krótkim przystankiem we Włoszech, z jedną dwutygodniową przerwą na weselną zabawę na Podlasiu. Wyłączyliśmy lodówkę, zamknęliśmy okiennice i wyruszyliśmy w dwudniową podróż samochodem przez Austrię i Czechy do Warszawy, żegnając Abruzję na zakorkowanej autostradzie A14 i w końcu Włochy kilka kilometrów za Tarvisio. Podróż była długa i męcząca, ale ostatecznie w niedzielę wieczorem dojechaliśmy do naszych Ząbek, gdzie szczęśliwie _ledwo co_ przestało padać.
 
 ![Spojrzenie za okno](https://storage.googleapis.com/public.zgodowie.org/images/spojrzenie-za-okno.jpg 'Dolce far niente')
 
