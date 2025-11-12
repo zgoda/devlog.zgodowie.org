@@ -19,7 +19,7 @@
     "@astrojs/rss": "^4.0.13",
     "@astrojs/sitemap": "^3.6.0",
     "@picocss/pico": "^2.1.1",
-    "astro": "^5.15.4",
+    "astro": "^5.15.5",
     "astro-robots-txt": "^1.0.0",
     "dayjs": "^1.11.19",
     "marked": "^17.0.0",
@@ -29,8 +29,8 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.5",
-    "@typescript-eslint/eslint-plugin": "^8.46.3",
-    "@typescript-eslint/parser": "^8.46.3",
+    "@typescript-eslint/eslint-plugin": "^8.46.4",
+    "@typescript-eslint/parser": "^8.46.4",
     "eslint": "^9.39.1",
     "eslint-plugin-astro": "^1.5.0",
     "typescript": "^5.9.3"

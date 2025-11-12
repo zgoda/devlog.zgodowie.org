@@ -15,7 +15,7 @@ imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/nareszcie-ab
 description: Wiosną 2025 roku wybrałem się na moją pierwszą w życiu wycieczkę bikepackingową na Majorkę i co tu dużo mówić, spodobało mi się to. Postanowiłem spróbować tego samego we Włoszech pod koniec lata, a żeby się nie umordować zanadto, to wybrałem sobie trasę, która miała być w większości po płaskim, chociaż kilka podjazdów również wystąpiło. Było wzruszająco, było pięknie, było trochę nudno i było też mokro.
 ---
 
-Wiosną 2025 roku wybrałem się na moją pierwszą w życiu wycieczkę bikepackingową na Majorkę i co tu dużo mówić, spodobało mi się to. Postanowiłem spróbować tego samego we Włoszech pod koniec lata, a żeby się nie umordować zanadto, to wybrałem sobie trasę, która miała być w większości po płaskim, chociaż kilka podjazdów również wystąpiło. Było wzruszająco, było pięknie, było trochę nudno i było też mokro.
+Wiosną 2025 roku wybrałem się na moją pierwszą w życiu [wycieczkę bikepackingową na Majorkę](/blog/2025/04/dlugi-weekend-na-majorce) i co tu dużo mówić, spodobało mi się to. Postanowiłem spróbować tego samego we Włoszech pod koniec lata, a żeby się nie umordować zanadto, to wybrałem sobie trasę, która miała być w większości po płaskim, chociaż kilka podjazdów również wystąpiło. Było wzruszająco, było pięknie, było trochę nudno i było też mokro.
 
 ![Takie plaże mamy w Abruzji](https://storage.googleapis.com/public.zgodowie.org/images/nareszcie-abruzja.jpg 'Plaże w Abruzji są piaszczyste')
 
@@ -41,11 +41,11 @@ Trzeciego dnia do monotonii dołączył deszcz. Padało przez cały dzień z nie
 
 ## Szpej
 
-Nauczony tym co było na Majorce, tym razem nie zabrałem sprzętu do filmowania, który wtedy zupełnie mi się nie przydał. Odczuwałem wtedy niewielki niedobór pojemności bagażowej, więc tym razem w zestawie toreb zamiast małej trójkątnej torebki pojawiła się pełnowymiarowa torba pod górną rurę. Najwięcej miejsca zajmowały _cywilne_ buty (żeglarskie, więc leciutkie) i z tym wiąże się wniosek racjonalizatorski na przyszłość &mdash; na bikepacking będę zmieniał pedały na płaskie i jechał w zwykłych butach trekkingowych, żeby nie targać ze sobą dodatkowych butów do chodzenia. Może co najwyżej wezmę klapki, żeby nie latać na kwaterach na bosaka. Z klapkami również bardziej kusząca staje się opcja plażowania.
+Nauczony tym co było na Majorce, tym razem nie zabrałem sprzętu do filmowania, który wtedy zupełnie mi się nie przydał. Odczuwałem wtedy niewielki niedobór pojemności bagażowej, więc tym razem w zestawie toreb zamiast małej trójkątnej torebki pod górną rurę pojawiła się pełnowymiarowa torba. Najwięcej miejsca zajmowały _cywilne_ buty (żeglarskie, więc leciutkie, ale przy moim rozmiarze żadne nie będą małe) i z tym wiąże się wniosek racjonalizatorski na przyszłość &mdash; na bikepacking będę zmieniał pedały na płaskie i jechał w zwykłych butach trekkingowych, żeby nie targać ze sobą dodatkowych butów do chodzenia. Może co najwyżej wezmę klapki, żeby nie latać na kwaterach na bosaka. Z klapkami w zanadrzu również bardziej kusząca staje się opcja plażowania, bo miejsce na kąpielówki i nieduży ręcznik z mikrofibry zdecydowanie by się znalazło.
 
 Z nowych rzeczy miałem również pojemnik serwisowy przewożony w uchwycie na bidon, któremu jednak muszę jeszcze znaleźć właściwe miejsce, bo w uchwycie na rurze podsiodłowej denerwował mnie jego suwak &ndash; oraz _widełki_ do stabilizowania torby podsiodłowej. Same widełki sprawdziły się doskonale, jednak nie skorzystałem z opcji montażu do nich dodatkowych uchwytów na bidony, bo przecież we Włoszech można spokojnie jechać z jednym bidonem, co chwilę są _fontanelle_ z wodą pitną. Pojemnik serwisowy jest świetny bo pozwala zaszczędzić trochę miejsca w torbie, ponieważ nie ma gdzie indziej przewozić szpeju do drobnych napraw po tym, gdy pod siodłem jest duża torba.
 
-Zdecydowanie również nie pasuje mi ten mały _paśniczek_ od JackPacka, w którym na Majorce woziłem sprzęt filmowy, natomiast duży od Chińczyka jak najbardziej. Nie dość że lżejszy, to także bardziej stabilny i z lepszymi opcjami mocowania wokół mostka. Tańszy, gorzej wykonany, z gorszego materiału, a jednak pasuje lepiej.
+Zdecydowanie również nie pasuje mi ten mały _paśniczek_ od JackPacka, w którym na Majorce woziłem sprzęt filmowy, natomiast duży od Chińczyka jak najbardziej jest OK. Nie dość że lżejszy, to także bardziej stabilny i z lepszymi opcjami mocowania wokół mostka. Tańszy, gorzej wykonany, z gorszego materiału, a jednak lepiej spełnia swoją rolę.
 
 ## Konkluzje
 
