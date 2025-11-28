@@ -16,21 +16,21 @@
     "not dead"
   ],
   "dependencies": {
-    "@astrojs/rss": "^4.0.13",
+    "@astrojs/rss": "^4.0.14",
     "@astrojs/sitemap": "^3.6.0",
     "@picocss/pico": "^2.1.1",
-    "astro": "^5.15.5",
+    "astro": "^5.16.2",
     "astro-robots-txt": "^1.0.0",
     "dayjs": "^1.11.19",
-    "marked": "^17.0.0",
+    "marked": "^17.0.1",
     "rehype-figure-title": "^1.0.0",
     "remark-gfm": "^4.0.1",
     "vfile": "^6.0.3"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.5",
-    "@typescript-eslint/eslint-plugin": "^8.46.4",
-    "@typescript-eslint/parser": "^8.46.4",
+    "@astrojs/check": "^0.9.6",
+    "@typescript-eslint/eslint-plugin": "^8.48.0",
+    "@typescript-eslint/parser": "^8.48.0",
     "eslint": "^9.39.1",
     "eslint-plugin-astro": "^1.5.0",
     "typescript": "^5.9.3"
