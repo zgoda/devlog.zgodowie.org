@@ -19,7 +19,7 @@
     "@astrojs/rss": "^4.0.14",
     "@astrojs/sitemap": "^3.6.0",
     "@picocss/pico": "^2.1.1",
-    "astro": "^5.16.3",
+    "astro": "^5.16.4",
     "astro-robots-txt": "^1.0.0",
     "dayjs": "^1.11.19",
     "marked": "^17.0.1",
