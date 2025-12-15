@@ -22,7 +22,13 @@ const displayOldPostWarning = isOld && isPostTechRelated(frontmatter);
   {displayOldPostWarning ? <OldPostWarning /> : ''}
   <div class="grid">
     <p>
-      Opublikowano: {frontmatter.pubDate.toLocaleDateString('pl-PL')}
+      Opublikowano: {
+        frontmatter.pubDate.toLocaleDateString('pl-PL', {
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+        })
+      }
     </p>
     <p>Ostatnia modyfikacja: {lastModified}</p>
   </div>

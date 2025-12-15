@@ -27,7 +27,7 @@ if (remarkPluginFrontmatter.lastModified !== lastModified) {
     .utc(remarkPluginFrontmatter.lastModified)
     .local()
     .toDate()
-    .toLocaleDateString('pl-PL');
+    .toLocaleDateString('pl-PL', { year: 'numeric', month: '2-digit', day: '2-digit' });
 }
 ---
 
