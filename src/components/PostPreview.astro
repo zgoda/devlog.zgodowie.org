@@ -11,7 +11,15 @@ const tags = post.data.tags ? post.data.tags.sort() : [];
 <article>
   <header>
     <h3><a href={`/blog/${post.id}`} data-astro-prefetch>{post.data.title}</a></h3>
-    <h5>{post.data.pubDate.toLocaleDateString('pl-PL')}</h5>
+    <h5>
+      {
+        post.data.pubDate.toLocaleDateString('pl-PL', {
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+        })
+      }
+    </h5>
     <p>Etykiety: {tags.join(', ')}</p>
   </header>
   <div class="post">
