@@ -39,6 +39,17 @@ O ile ten krótki odcinek po płaskim pierwszego dnia był przyjemną odmianą p
 
 Trzeciego dnia do monotonii dołączył deszcz. Padało przez cały dzień z niewielkimi przerwami i na całej trasie od Alba Adriatica aż do Pescary. I tu się przydała opcja skrótu, którą sobie zaplanowałem. Zamiast jechać pociągiem do Pratoli i stamtąd wspinać się na rowerze przez wąwóz Św. Wenantego (przepiękny, ale niekoniecznie przyjemny w deszczu) do Moliny, pojechałem pociagiem jedną stację dalej do Sulmony by tam złapać inny pociąg, którym dojechałem do Moliny. Od stacji w Molinie do domu mam około kilometra, może pod górkę, ale niezbyt stromo, a do tego sam podjazd jest całkiem krótki. Jako że byłem totalnie przemoczony, a napęd w rowerze zgrzytał od piachu zebranego na odcinkach cyklokrossu w Giulianova i w Pineto, to skwapliwie skorzystałem z tej opcji. Dotarłem do domu po południu, wykąpałem się, przebrałem i pojechałem na zakupy.
 
+### Te trzy (i pół) dni
+
+Linki do tras z poszczególnych dni na Komoocie.
+
+1. Dzień 0, [z domu na pociąg do Pratoli](https://www.komoot.com/tour/2559478332)
+2. Dzień 1, [z Ankony do Porto Sant'Elpidio](https://www.komoot.com/tour/2562704351)
+3. Dzień 2, [z Porto Sant'Elpidio do Alba Adriatica](https://www.komoot.com/tour/2564775442)
+4. Dzień 3, [z Alba Adriatica do Pescary](https://www.komoot.com/tour/2566603278)
+
+Bez dużego wysiłku dałoby się to przejechać w jeden dzień mniej, bo zarówno do Alba Adriatica, jak i do Pescary przyjechałem o kilka godzin wcześniej, niż planowałem.
+
 ## Szpej
 
 Nauczony tym co było na Majorce, tym razem nie zabrałem sprzętu do filmowania, który wtedy zupełnie mi się nie przydał. Odczuwałem wtedy niewielki niedobór pojemności bagażowej, więc tym razem w zestawie toreb zamiast małej trójkątnej torebki pod górną rurę pojawiła się pełnowymiarowa torba. Najwięcej miejsca zajmowały _cywilne_ buty (żeglarskie, więc leciutkie, ale przy moim rozmiarze żadne nie będą małe) i z tym wiąże się wniosek racjonalizatorski na przyszłość &mdash; na bikepacking będę zmieniał pedały na płaskie i jechał w zwykłych butach trekkingowych, żeby nie targać ze sobą dodatkowych butów do chodzenia. Może co najwyżej wezmę klapki, żeby nie latać na kwaterach na bosaka. Z klapkami w zanadrzu również bardziej kusząca staje się opcja plażowania, bo miejsce na kąpielówki i nieduży ręcznik z mikrofibry zdecydowanie by się znalazło.
