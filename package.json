@@ -19,20 +19,20 @@
     "@astrojs/rss": "^4.0.17",
     "@astrojs/sitemap": "^3.7.1",
     "@picocss/pico": "^2.1.1",
-    "astro": "^6.0.5",
+    "astro": "^6.0.8",
     "astro-robots-txt": "^1.0.0",
     "dayjs": "^1.11.20",
-    "marked": "^17.0.4",
+    "marked": "^17.0.5",
     "rehype-figure-title": "^1.0.0",
     "remark-gfm": "^4.0.1",
     "vfile": "^6.0.3"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.8",
-    "@typescript-eslint/eslint-plugin": "^8.57.1",
-    "@typescript-eslint/parser": "^8.57.1",
-    "eslint": "^10.0.3",
+    "@typescript-eslint/eslint-plugin": "^8.57.2",
+    "@typescript-eslint/parser": "^8.57.2",
+    "eslint": "^10.1.0",
     "eslint-plugin-astro": "^1.6.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.2"
   }
 }
