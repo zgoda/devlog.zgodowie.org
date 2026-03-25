@@ -2,7 +2,7 @@
   "name": "devlog-zgodowie-org",
   "private": true,
   "type": "module",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
