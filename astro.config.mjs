@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 import remarkGfm from 'remark-gfm';
+import { unified } from '@astrojs/markdown-remark';
 import rehypeFigureTitle from 'rehype-figure-title';
 import { remarkModifiedTime } from './lib/remark-modified-time';
 
@@ -12,8 +13,10 @@ export default defineConfig({
     shikiConfig: {
       theme: 'nord',
     },
-    remarkPlugins: [remarkModifiedTime, remarkGfm],
-    rehypePlugins: [rehypeFigureTitle],
+    processor: unified({
+      remarkPlugins: [remarkModifiedTime, remarkGfm],
+      rehypePlugins: [rehypeFigureTitle],
+    }),
   },
   integrations: [
     sitemap({ i18n: { defaultLocale: 'pl', locales: { pl: 'pl-PL' } } }),
