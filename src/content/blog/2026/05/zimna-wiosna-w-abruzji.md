@@ -7,10 +7,10 @@ tags:
     - rower
     - demon
 imageUrl: https://storage.googleapis.com/public.zgodowie.org/images/sirente-w-sniegu-2026.jpg
-description: Bardzo mi się w tym roku spieszyło w góry i pojechałem tam najwcześniej gdy tylko miało to sens. Jak się okazało, ocieplenie z początku kwietnia było tylko chwilowe i ostatecznie zmagałem się tam z przejmującym zimnem aż do połowy maja.
+description: Bardzo mi się w tym roku spieszyło w góry i pojechałem tam najwcześniej gdy tylko miało to sens. W pierwszych dniach kwietnia z niecierpliwością sprawdzałem prognozy pogody wypatrując kiedy wreszcie dobowa temperatura minimalna ustabilizuje się przez kilka kolejnych dni powyżej 10&deg;C. Jak się okazało, ocieplenie z początku kwietnia było tylko chwilowe i ostatecznie zmagałem się tam z przejmującym zimnem aż do połowy maja. Temperatury całkiem znośne za dnia szybko spadały, gdy tylko słońce schowało się za masyw górski od zachodu, a po zmroku zimno w domu stawało się nie do wytrzymania.
 ---
 
-Bardzo mi się w tym roku spieszyło w góry i pojechałem tam najwcześniej gdy tylko miało to sens. Jak się okazało, ocieplenie z początku kwietnia było tylko chwilowe i ostatecznie zmagałem się tam z przejmującym zimnem aż do połowy maja. Temperatury całkiem znośne za dnia szybko spadały, gdy tylko słońce schowało się za masyw górski od zachodu, a po zmroku zimno stawało się nie do wytrzymania.
+Bardzo mi się w tym roku spieszyło w góry i pojechałem tam najwcześniej gdy tylko miało to sens. W pierwszych dniach kwietnia z niecierpliwością sprawdzałem prognozy pogody wypatrując kiedy wreszcie dobowa temperatura minimalna ustabilizuje się przez kilka kolejnych dni powyżej 10&deg;C. Jak się okazało, ocieplenie z początku kwietnia było tylko chwilowe i ostatecznie zmagałem się tam z przejmującym zimnem aż do połowy maja. Temperatury całkiem znośne za dnia szybko spadały, gdy tylko słońce schowało się za masyw górski od zachodu, a po zmroku zimno w domu stawało się nie do wytrzymania.
 
 ![Sirente w śniegu](https://storage.googleapis.com/public.zgodowie.org/images/sirente-w-sniegu-2026.jpg 'Sirente w śniegu wiosną 2026')
 
